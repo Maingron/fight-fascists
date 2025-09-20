@@ -18,6 +18,8 @@
 ||afd-frankfurt.de^
 ||afd-niedersachsen.de^
 ||afd-nds.de^
+||afd-muenster.de^
+||afd-dortmund.de^
 ||die-heimat.de^
 ||npdhamburg.de^
 ||der-dritte-weg.info^

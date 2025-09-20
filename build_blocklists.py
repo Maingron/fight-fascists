@@ -1,6 +1,6 @@
 import os
 import re
-from typing import Optional
+from typing import Optional, List
 
 # Helpers for uBlock/ABP syntax parsing
 DOMAIN_RE = re.compile(r"^(?:\*\.)?([a-z0-9-]+(?:\.[a-z0-9-]+)+)\.?$", re.IGNORECASE)
@@ -141,15 +141,26 @@ def write_google_hide_cosmetic(all_domains: set, out_path: str) -> None:
 
     rules = []
     header = [
-        "! Title: Google search result hider (auto-generated)",
-        "! Description: Hide Google results linking to listed domains",
+        "! Title: Search result hider (auto-generated)",
+        "! Description: Hide search results linking to listed domains (Google + DuckDuckGo)",
         "! Syntax: uBlock Origin cosmetic filters",
         "! Homepage: https://github.com/Maingron/fight-fascists",
         "!"  # blank separator
     ]
 
-    def rule_for_has(d: str) -> str:
-        return f"google.*##div:is(.vt6azd, .SoaBEf:has(div>div>.WlydOe)):has(a[href*=\"://{d}\"])"
+    # Per-engine container selectors; add more engines/selectors as needed
+    search_engines = {
+        'google.*': [
+            'div:is(.vt6azd, .SoaBEf:has(div>div>.WlydOe))'
+        ],
+        'duckduckgo.com': [
+            'li>article'
+        ],
+        # 'www.bing.com': [ ':is(#b_results > .b_algo, #b_results > li.b_algo)' ],  # example
+    }
+
+    def rule_for_has(d: str) -> List[str]:
+        return [f"{engine}##{sel}:has(a[href*=\"://{d}\"])" for engine, selectors in search_engines.items() for sel in selectors]
 
     # Keep output compact: only emit the :has(...) rule per domain.
     # The :upward(...) variant is omitted for size; re-add if robustness is needed.
@@ -164,13 +175,13 @@ def write_google_hide_cosmetic(all_domains: set, out_path: str) -> None:
         # Skip obviously invalid leftovers
         if '/' in d or ':' in d:
             continue
-        rules.append(rule_for_has(d))
+        rules.extend(rule_for_has(d))
 
     with open(out_path, 'w', encoding='utf-8') as f:
         for line in header:
             f.write(line + "\n")
         for r in rules:
-            f.write(r + "\n")
+            f.write(r.strip() + "\n")
 
 
 def cleanup_outputs(out_dir: str, valid_names: set) -> None:

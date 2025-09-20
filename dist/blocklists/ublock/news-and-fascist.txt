@@ -1,12 +1,14 @@
 ||afd-bayern.de^
 ||afd-bjoern-hoecke.de^
 ||afd-bw.de^
+||afd-dortmund.de^
 ||afd-fraktion-bw.de^
 ||afd-frankfurt.de^
 ||afd-hamburg.de^
 ||afd-hessen.de^
 ||afd-kaiserslautern.de^
 ||afd-landtag.bayern^
+||afd-muenster.de^
 ||afd-nds.de^
 ||afd-niedersachsen.de^
 ||afd-oberbayern.de^
