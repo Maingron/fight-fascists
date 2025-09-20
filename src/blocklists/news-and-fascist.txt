@@ -80,11 +80,44 @@
 ||tightroperecords.com^
 ||militant.zone^
 ||svastone.com^
+||vinlandicwerwolfdistribution.com^
+||schoolofthewest.world^
+||whitedate.net^
+||ultimateflags.com^
+||frihetskamp.no^
+||der-stuermer.org^
+||identitaere-bewegung.de^
+||teamwhite.team^
+||whitegenocide.info^
+||pro-white.net^
+||awb.co.za^
+||avotaynu.com^
+||odysee.com^
+||paulbrandenburg.com^
+||rtv.news^
+||rtvdigital.at^
+||theplattform.net^
+||tube.theplattform.net^
+||triggerfm.com^
+||kla.tv^
+||infotakt.kla.tv^
 
 youtube.com/channel/UC_dZp8bZipnjntBGLVHm6rw
 youtube.com/channel/UCBoIJhUfNcn8G_odWECKVIA
 youtube.com/channel/UCeP-mETJStV6mg34dfUl6rA
 youtube.com/channel/UCq2rogaxLtQFrYG3X3KYNww
+youtube.com/@rtvooe
+youtube.com/@PaulBrandenburgCom
+youtube.com/c/paulbrandenburgcom
+music.youtube.com/channel/UCksi8_CDUF0DbnLrgIoRrRg
+facebook.com/paulbrandenburgcom
+instagram.com/docbrandenburg
+rumble.com/paulbrandenburgcom
+theplattform.net/c/paulbrandenburg.com
+x.com/docbrandenburg
+t.me/paulbrandenburg
+t.me/KlagemauerTV
+whatsapp.com/channel/0029VaUxHcI5EjxzMqIv8r1q
 facebook.com/afdfraktionNRW
 tiktok.com/@alice_weidel_afd
 tiktok.com/@afdfraktionimbundestag
@@ -185,4 +218,9 @@ instagram.com/weichreitetv
 t.me/WeichreiteKanal
 twitch.tv/weichreite
 cafepress.com/shop/wodanesdag
+facebook.com/Regionalfernsehen
+radio.de/podcast/nacktes-niveau
+radio.de/podcast/nacktes-geld
+radio.de/podcast/nachschlag3
 youtube.com##.lockup:has-text(AfD-Fraktion Bundestag)
+youtube.com##.lockup:has-text(Paul Brandenburg)
