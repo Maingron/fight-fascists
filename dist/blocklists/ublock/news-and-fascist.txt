@@ -167,6 +167,8 @@ youtube.com/shorts/6B2i5cKgVco
 ||alice-weidel.net^
 ||aliceweidel.de^
 ||aliceweidel.io^ # something crypto idk
+||angesaugt.at^
+||api.fpoe.at^
 ||api.nius.de^
 ||avotaynu.com^
 ||awb.co.za^
@@ -177,9 +179,18 @@ youtube.com/shorts/6B2i5cKgVco
 ||brandner-im-bundestag.de^
 ||der-dritte-weg.info^
 ||der-stuermer.org^
+||die-freiheitlichen.com^
 ||die-heimat.de^
+||fpk.at^
+||fpoe-ktn.at^
+||fpoe-ooe.at^
+||fpoe-parlamentsklub.at^
+||fpoe-stmk.at^
+||fpoe-villach.at^
+||fpoe-wien.at^
 ||fpoe.at^
 ||fpoe.eu^
+||fpö-steyr.at^
 ||freiewelt.net^
 ||frihetskamp.no^
 ||identitaere-bewegung.de^

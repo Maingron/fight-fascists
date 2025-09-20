@@ -176,6 +176,8 @@ youtube.com/shorts/6B2i5cKgVco
 ||aliceweidel.de^
 ||aliceweidel.io^ # something crypto idk
 ||angebot.bild.de^
+||angesaugt.at^
+||api.fpoe.at^
 ||api.nius.de^
 ||auto-swiat.pl^
 ||autobazar.eu^
@@ -213,6 +215,7 @@ youtube.com/shorts/6B2i5cKgVco
 ||computerhoy.com^
 ||der-dritte-weg.info^
 ||der-stuermer.org^
+||die-freiheitlichen.com^
 ||die-heimat.de^
 ||diedame.de^
 ||emarketer.com^
@@ -220,8 +223,16 @@ youtube.com/shorts/6B2i5cKgVco
 ||eprofessional.de^
 ||finanzen.net^
 ||fitbook.de^
+||fpk.at^
+||fpoe-ktn.at^
+||fpoe-ooe.at^
+||fpoe-parlamentsklub.at^
+||fpoe-stmk.at^
+||fpoe-villach.at^
+||fpoe-wien.at^
 ||fpoe.at^
 ||fpoe.eu^
+||fpö-steyr.at^
 ||freiewelt.net^
 ||frihetskamp.no^
 ||good.co^

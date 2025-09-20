@@ -50,6 +50,8 @@
 0.0.0.0 aliceweidel.de
 0.0.0.0 aliceweidel.io
 0.0.0.0 angebot.bild.de
+0.0.0.0 angesaugt.at
+0.0.0.0 api.fpoe.at
 0.0.0.0 api.nius.de
 0.0.0.0 auto-swiat.pl
 0.0.0.0 autobazar.eu
@@ -87,6 +89,7 @@
 0.0.0.0 computerhoy.com
 0.0.0.0 der-dritte-weg.info
 0.0.0.0 der-stuermer.org
+0.0.0.0 die-freiheitlichen.com
 0.0.0.0 die-heimat.de
 0.0.0.0 diedame.de
 0.0.0.0 emarketer.com
@@ -94,6 +97,13 @@
 0.0.0.0 eprofessional.de
 0.0.0.0 finanzen.net
 0.0.0.0 fitbook.de
+0.0.0.0 fpk.at
+0.0.0.0 fpoe-ktn.at
+0.0.0.0 fpoe-ooe.at
+0.0.0.0 fpoe-parlamentsklub.at
+0.0.0.0 fpoe-stmk.at
+0.0.0.0 fpoe-villach.at
+0.0.0.0 fpoe-wien.at
 0.0.0.0 fpoe.at
 0.0.0.0 fpoe.eu
 0.0.0.0 freiewelt.net
@@ -261,6 +271,8 @@
 0.0.0.0 www.aliceweidel.de
 0.0.0.0 www.aliceweidel.io
 0.0.0.0 www.angebot.bild.de
+0.0.0.0 www.angesaugt.at
+0.0.0.0 www.api.fpoe.at
 0.0.0.0 www.api.nius.de
 0.0.0.0 www.auto-swiat.pl
 0.0.0.0 www.autobazar.eu
@@ -298,6 +310,7 @@
 0.0.0.0 www.computerhoy.com
 0.0.0.0 www.der-dritte-weg.info
 0.0.0.0 www.der-stuermer.org
+0.0.0.0 www.die-freiheitlichen.com
 0.0.0.0 www.die-heimat.de
 0.0.0.0 www.diedame.de
 0.0.0.0 www.donaldjtrump.com
@@ -306,6 +319,13 @@
 0.0.0.0 www.eprofessional.de
 0.0.0.0 www.finanzen.net
 0.0.0.0 www.fitbook.de
+0.0.0.0 www.fpk.at
+0.0.0.0 www.fpoe-ktn.at
+0.0.0.0 www.fpoe-ooe.at
+0.0.0.0 www.fpoe-parlamentsklub.at
+0.0.0.0 www.fpoe-stmk.at
+0.0.0.0 www.fpoe-villach.at
+0.0.0.0 www.fpoe-wien.at
 0.0.0.0 www.fpoe.at
 0.0.0.0 www.fpoe.eu
 0.0.0.0 www.freiewelt.net
