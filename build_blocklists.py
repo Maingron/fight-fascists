@@ -172,6 +172,10 @@ def main():
                 if fn.endswith('.txt'):
                     add_src(lists_by_name, fn, 'dns', os.path.join(root, fn))
 
+    # Accumulators for combined outputs
+    combined_ublock_lines = set()
+    combined_domains = set()
+
     # Process each logical list name
     for name, kinds in lists_by_name.items():
         print(f"Processing {name}...")
@@ -214,6 +218,8 @@ def main():
         with open(final_ublock_path, 'w', encoding='utf-8') as final_out:
             for ln in lines:
                 final_out.write(ln + '\n')
+        # Add to combined uBlock accumulator
+        combined_ublock_lines.update(lines)
         try:
             os.remove(combined_ublock_tmp)
         except OSError:
@@ -247,9 +253,24 @@ def main():
         with open(final_dns_path, 'w', encoding='utf-8') as out_dns_f:
             for d in sorted(expanded):
                 out_dns_f.write(f"0.0.0.0 {d}\n")
+        # Add to combined DNS accumulator
+        combined_domains.update(expanded)
+
+    # Write combined outputs
+    if lists_by_name:
+        combined_ublock_path = os.path.join(out_ublock, 'combined.txt')
+        combined_dns_path = os.path.join(out_dns, 'combined.txt')
+        with open(combined_ublock_path, 'w', encoding='utf-8') as cu:
+            for ln in sorted(combined_ublock_lines):
+                cu.write(ln + '\n')
+        with open(combined_dns_path, 'w', encoding='utf-8') as cd:
+            for d in sorted(combined_domains):
+                cd.write(f"0.0.0.0 {d}\n")
 
     # Cleanup: remove outputs whose names no longer exist in sources
     valid_names = set(lists_by_name.keys())
+    # Keep combined.txt
+    valid_names.add('combined.txt')
     cleanup_outputs(out_ublock, valid_names)
     cleanup_outputs(out_dns, valid_names)
 
