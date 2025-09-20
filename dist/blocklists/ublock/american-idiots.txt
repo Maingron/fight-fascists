@@ -1,0 +1,14 @@
+apps.apple.com/app/truth-social/id1586018825
+x.com/elonmusk
+x.com/realDonaldTrump
+x.com/tesla
+||boringcompany.com^
+||grok.com^
+||investinmusk.com^
+||neuralink.com^
+||spacex.com^
+||starlink.com^
+||tesla.com^
+||truthsocial.com^
+||votetesla.com^
+||www.donaldjtrump.com^

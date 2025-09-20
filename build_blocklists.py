@@ -414,6 +414,7 @@ def main():
     # Accumulators for combined outputs
     combined_ublock_lines = set()
     combined_domains = set()
+    combined_cosmetic_lines = set()
 
     # Domains/targets explicitly ignored for google-hide via flags in uBlock source lists
     ignored_hide_domains = set()
@@ -437,7 +438,17 @@ def main():
                     for raw in infile:
                         original = raw.rstrip('\n')
                         line = original.strip()
-                        if is_comment_or_blank(line) or is_cosmetic_filter(line):
+                        # Skip comments/blanks; allow cosmetic filters to pass through unchanged
+                        if is_comment_or_blank(line):
+                            continue
+
+                        # Pass-through cosmetic filters as-is (no cleaning/markers)
+                        if is_cosmetic_filter(line):
+                            if line and line not in seen_lines:
+                                tmp_out.write(line + '\n')
+                                seen_lines.add(line)
+                            # Accumulate cosmetics globally for combined.txt
+                            combined_cosmetic_lines.add(line)
                             continue
 
                         # Detect google-hide ignore flag in options: $noghide or $ghide=off
@@ -488,14 +499,15 @@ def main():
         with open(final_ublock_path, 'w', encoding='utf-8') as final_out:
             for ln in lines:
                 final_out.write(ln + '\n')
-        # Accumulate into combined uBlock
-        combined_ublock_lines.update(lines)
+        # Accumulate into combined uBlock, but only network/exception rules (exclude cosmetic filters)
+        network_only = [ln for ln in lines if not is_cosmetic_filter(ln)]
+        combined_ublock_lines.update(network_only)
         try:
             os.remove(combined_ublock_tmp)
         except OSError:
             pass
 
-    # 2) Build final DNS list: union of DNS sources and domains extracted from uBlock network filters
+        # 2) Build final DNS list: union of DNS sources and domains extracted from uBlock network filters
         final_dns_path = os.path.join(out_dns, name)
         domains = set()
 
@@ -569,7 +581,10 @@ def main():
     # 4) Write combined outputs
     combined_ublock_path = os.path.join(out_ublock, 'combined.txt')
     with open(combined_ublock_path, 'w', encoding='utf-8') as f:
-        for ln in sorted(combined_ublock_lines):
+        # Include both network/exception and cosmetic pass-through lines
+        all_combined = set(combined_ublock_lines)
+        all_combined.update(combined_cosmetic_lines)
+        for ln in sorted(all_combined):
             f.write(ln + '\n')
 
     combined_dns_path = os.path.join(out_dns, 'combined.txt')

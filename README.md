@@ -58,6 +58,8 @@ Accepted inputs
 	- `youtube.com/@handle`
 	- `tiktok.com/@handle`
 	- `x.com/SomeUser` (or `www.x.com/SomeUser`)
+- Custom cosmetic filters (passed through as-is to the per-source uBlock output):
+	- Example: `youtube.com##.lockup:has-text(Something bad)`
 
 Behavior details
 - Domain vs. path suppression: If a host has specific path targets (e.g., `youtube.com/channel/...` or `youtube.com/@handle`), the generator will NOT emit generic host-wide hide rules for that host in the cosmetic lists. This ensures we don’t hide all of `youtube.com` when only a channel/handle was intended.

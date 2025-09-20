@@ -71,12 +71,20 @@
 ||afdessendotorg.wordpress.com^
 ||brandner-im-bundestag.de^
 ||fpoe.eu^
-
-
+||lichtenberg.afd.berlin^
+||afd-berlin.de^
+||stormfront.org^
+||86dresden.com^
+||white-shop.biz^
+||theshekelshop.com^
+||tightroperecords.com^
+||militant.zone^
+||svastone.com^
 
 youtube.com/channel/UC_dZp8bZipnjntBGLVHm6rw
 youtube.com/channel/UCBoIJhUfNcn8G_odWECKVIA
 youtube.com/channel/UCeP-mETJStV6mg34dfUl6rA
+youtube.com/channel/UCq2rogaxLtQFrYG3X3KYNww
 facebook.com/afdfraktionNRW
 tiktok.com/@alice_weidel_afd
 tiktok.com/@afdfraktionimbundestag
@@ -164,7 +172,17 @@ instagram.com/patriotsep
 t.me/afdfraktionimbundestag
 facebook.com/afdimbundestag
 x.com/AfDimBundestag
+x.com/AfD
+instagram.com/afd.bund
 instagram.com/AfDimBundestag
 crossiety.app/groups/17745
 youtube.com/@AfDAktuell
 youtube.com/shorts/6B2i5cKgVco
+youtube.com/channel/UCyw8Tkb44AGA2eB8K9fRioQ
+youtube.com/@Weichreite
+x.com/weichreite
+instagram.com/weichreitetv
+t.me/WeichreiteKanal
+twitch.tv/weichreite
+cafepress.com/shop/wodanesdag
+youtube.com##.lockup:has-text(AfD-Fraktion Bundestag)
