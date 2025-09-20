@@ -2,6 +2,7 @@
 0.0.0.0 a.bildstatic.de
 0.0.0.0 abofreischalten.bild.de
 0.0.0.0 adhesions.rassemblementnational.fr
+0.0.0.0 afd-ansbach.de
 0.0.0.0 afd-augsburg-stadt.de
 0.0.0.0 afd-augsburgland.de
 0.0.0.0 afd-bayern.de
@@ -10,9 +11,13 @@
 0.0.0.0 afd-brandenburg.de
 0.0.0.0 afd-bremen.de
 0.0.0.0 afd-bw.de
+0.0.0.0 afd-dachau.de
+0.0.0.0 afd-dd.de
 0.0.0.0 afd-dortmund.de
 0.0.0.0 afd-duew.de
+0.0.0.0 afd-eu.de
 0.0.0.0 afd-fraktion-bw.de
+0.0.0.0 afd-fraktion-dresden.de
 0.0.0.0 afd-fraktion-hessen.de
 0.0.0.0 afd-fraktion-sachsen.de
 0.0.0.0 afd-fraktion.nrw
@@ -20,14 +25,18 @@
 0.0.0.0 afd-goslar.de
 0.0.0.0 afd-gt.net
 0.0.0.0 afd-hamburg.de
+0.0.0.0 afd-heidekreis.de
 0.0.0.0 afd-hessen.de
 0.0.0.0 afd-kaiserslautern.de
 0.0.0.0 afd-krefeld.de
 0.0.0.0 afd-kreis-kleve.de
+0.0.0.0 afd-kreis-lueneburg.de
 0.0.0.0 afd-kreisverband-cw-fds.webnode.page
 0.0.0.0 afd-landkreis-harburg.com
 0.0.0.0 afd-landkreisleipzig.de
 0.0.0.0 afd-landtag.bayern
+0.0.0.0 afd-landtagsfraktion-niedersachsen.de
+0.0.0.0 afd-mh.de
 0.0.0.0 afd-muenchen.de
 0.0.0.0 afd-muenster.de
 0.0.0.0 afd-nds.de
@@ -37,6 +46,7 @@
 0.0.0.0 afd-rhein-hunsrueck.de
 0.0.0.0 afd-rsk.de
 0.0.0.0 afd-sh.de
+0.0.0.0 afd-siegen-wittgenstein.de
 0.0.0.0 afd-stadtrat-augsburg.de
 0.0.0.0 afd-stolberg.de
 0.0.0.0 afd-suedkreis-kleve.de
@@ -48,6 +58,7 @@
 0.0.0.0 afd-weiden.de
 0.0.0.0 afd-zweibruecken.de
 0.0.0.0 afd.ac
+0.0.0.0 afd.berlin
 0.0.0.0 afd.de
 0.0.0.0 afd.koeln
 0.0.0.0 afd.nrw
@@ -56,12 +67,15 @@
 0.0.0.0 afdbundestag.de
 0.0.0.0 afdbundestagbayern.de
 0.0.0.0 afdessendotorg.wordpress.com
+0.0.0.0 afdfraktion-leipzig.de
 0.0.0.0 afdfraktion-lsa.de
 0.0.0.0 afdhessen.net
 0.0.0.0 afdkompakt.de
 0.0.0.0 afdleipzig.de
 0.0.0.0 afdrheinsieg.de
 0.0.0.0 afdsachsen.de
+0.0.0.0 alexander-wiesner.de
+0.0.0.0 alexandersell.com
 0.0.0.0 alfred-dannenberg.de
 0.0.0.0 alice-weidel.ch
 0.0.0.0 alice-weidel.com
@@ -69,6 +83,7 @@
 0.0.0.0 alice-weidel.net
 0.0.0.0 aliceweidel.de
 0.0.0.0 aliceweidel.io
+0.0.0.0 alternative-fuer-mk.de
 0.0.0.0 angebot.bild.de
 0.0.0.0 angesaugt.at
 0.0.0.0 api.fpoe.at
@@ -104,6 +119,9 @@
 0.0.0.0 bz-berlin.de
 0.0.0.0 career.axelspringer.com
 0.0.0.0 career.axelspringer.de
+0.0.0.0 christineanderson.eu
+0.0.0.0 christoph-neumann.info
+0.0.0.0 christophneumann.info
 0.0.0.0 club.bild.de
 0.0.0.0 computerbild.de
 0.0.0.0 computerhoy.com
@@ -117,6 +135,7 @@
 0.0.0.0 epaper.bild.de
 0.0.0.0 eprofessional.de
 0.0.0.0 ericzemmour.fr
+0.0.0.0 facebook.com
 0.0.0.0 finanzen.net
 0.0.0.0 fitbook.de
 0.0.0.0 fpk.at
@@ -138,6 +157,7 @@
 0.0.0.0 good.co
 0.0.0.0 grok.com
 0.0.0.0 gruenderszene.de
+0.0.0.0 heike-winter.com
 0.0.0.0 hobbyconsolas.com
 0.0.0.0 iconist.de
 0.0.0.0 idealo.at
@@ -157,6 +177,7 @@
 0.0.0.0 insider.com
 0.0.0.0 investinmusk.com
 0.0.0.0 jobsite.co.uk
+0.0.0.0 joerg-urban.de
 0.0.0.0 joernkoenig.de
 0.0.0.0 jungealternative.net
 0.0.0.0 kaufda.de
@@ -166,6 +187,7 @@
 0.0.0.0 kundenservice.auth.bild.de
 0.0.0.0 lacentrale.fr
 0.0.0.0 ladenzeile.de
+0.0.0.0 leipzigblaumachen.de
 0.0.0.0 lichtenberg.afd.berlin
 0.0.0.0 logic-immo.com
 0.0.0.0 logicimmopro.com
@@ -182,6 +204,7 @@
 0.0.0.0 militant.zone
 0.0.0.0 mitmachen.afd.de
 0.0.0.0 mobil.bild.de
+0.0.0.0 moosdorf21.de
 0.0.0.0 muenzenmaiers-magazin.de
 0.0.0.0 musikexpress.de
 0.0.0.0 n24.de
@@ -205,6 +228,7 @@
 0.0.0.0 rainerpodeswa.de
 0.0.0.0 rassemblementnational.fr
 0.0.0.0 regio.axelspringer.de
+0.0.0.0 reneaust.eu
 0.0.0.0 rollingstone.de
 0.0.0.0 rtv.news
 0.0.0.0 rtvdigital.at
@@ -223,6 +247,7 @@
 0.0.0.0 sportbild.de
 0.0.0.0 stadt.afd.ac
 0.0.0.0 starlink.com
+0.0.0.0 stellen.afdbundestag.de
 0.0.0.0 stepstone.at
 0.0.0.0 stepstone.be
 0.0.0.0 stepstone.ch
@@ -247,6 +272,7 @@
 0.0.0.0 triggerfm.com
 0.0.0.0 truthsocial.com
 0.0.0.0 tube.theplattform.net
+0.0.0.0 ulbrich-afd.de
 0.0.0.0 ultimateflags.com
 0.0.0.0 upday.com
 0.0.0.0 vinlandicwerwolfdistribution.com
@@ -256,10 +282,12 @@
 0.0.0.0 white-shop.biz
 0.0.0.0 whitedate.net
 0.0.0.0 whitegenocide.info
+0.0.0.0 wir-lieben-deutschland.de
 0.0.0.0 www.86dresden.com
 0.0.0.0 www.a.bildstatic.de
 0.0.0.0 www.abofreischalten.bild.de
 0.0.0.0 www.adhesions.rassemblementnational.fr
+0.0.0.0 www.afd-ansbach.de
 0.0.0.0 www.afd-augsburg-stadt.de
 0.0.0.0 www.afd-augsburgland.de
 0.0.0.0 www.afd-bayern.de
@@ -268,9 +296,13 @@
 0.0.0.0 www.afd-brandenburg.de
 0.0.0.0 www.afd-bremen.de
 0.0.0.0 www.afd-bw.de
+0.0.0.0 www.afd-dachau.de
+0.0.0.0 www.afd-dd.de
 0.0.0.0 www.afd-dortmund.de
 0.0.0.0 www.afd-duew.de
+0.0.0.0 www.afd-eu.de
 0.0.0.0 www.afd-fraktion-bw.de
+0.0.0.0 www.afd-fraktion-dresden.de
 0.0.0.0 www.afd-fraktion-hessen.de
 0.0.0.0 www.afd-fraktion-sachsen.de
 0.0.0.0 www.afd-fraktion.nrw
@@ -278,14 +310,18 @@
 0.0.0.0 www.afd-goslar.de
 0.0.0.0 www.afd-gt.net
 0.0.0.0 www.afd-hamburg.de
+0.0.0.0 www.afd-heidekreis.de
 0.0.0.0 www.afd-hessen.de
 0.0.0.0 www.afd-kaiserslautern.de
 0.0.0.0 www.afd-krefeld.de
 0.0.0.0 www.afd-kreis-kleve.de
+0.0.0.0 www.afd-kreis-lueneburg.de
 0.0.0.0 www.afd-kreisverband-cw-fds.webnode.page
 0.0.0.0 www.afd-landkreis-harburg.com
 0.0.0.0 www.afd-landkreisleipzig.de
 0.0.0.0 www.afd-landtag.bayern
+0.0.0.0 www.afd-landtagsfraktion-niedersachsen.de
+0.0.0.0 www.afd-mh.de
 0.0.0.0 www.afd-muenchen.de
 0.0.0.0 www.afd-muenster.de
 0.0.0.0 www.afd-nds.de
@@ -295,6 +331,7 @@
 0.0.0.0 www.afd-rhein-hunsrueck.de
 0.0.0.0 www.afd-rsk.de
 0.0.0.0 www.afd-sh.de
+0.0.0.0 www.afd-siegen-wittgenstein.de
 0.0.0.0 www.afd-stadtrat-augsburg.de
 0.0.0.0 www.afd-stolberg.de
 0.0.0.0 www.afd-suedkreis-kleve.de
@@ -306,6 +343,7 @@
 0.0.0.0 www.afd-weiden.de
 0.0.0.0 www.afd-zweibruecken.de
 0.0.0.0 www.afd.ac
+0.0.0.0 www.afd.berlin
 0.0.0.0 www.afd.de
 0.0.0.0 www.afd.koeln
 0.0.0.0 www.afd.nrw
@@ -314,12 +352,15 @@
 0.0.0.0 www.afdbundestag.de
 0.0.0.0 www.afdbundestagbayern.de
 0.0.0.0 www.afdessendotorg.wordpress.com
+0.0.0.0 www.afdfraktion-leipzig.de
 0.0.0.0 www.afdfraktion-lsa.de
 0.0.0.0 www.afdhessen.net
 0.0.0.0 www.afdkompakt.de
 0.0.0.0 www.afdleipzig.de
 0.0.0.0 www.afdrheinsieg.de
 0.0.0.0 www.afdsachsen.de
+0.0.0.0 www.alexander-wiesner.de
+0.0.0.0 www.alexandersell.com
 0.0.0.0 www.alfred-dannenberg.de
 0.0.0.0 www.alice-weidel.ch
 0.0.0.0 www.alice-weidel.com
@@ -327,6 +368,7 @@
 0.0.0.0 www.alice-weidel.net
 0.0.0.0 www.aliceweidel.de
 0.0.0.0 www.aliceweidel.io
+0.0.0.0 www.alternative-fuer-mk.de
 0.0.0.0 www.angebot.bild.de
 0.0.0.0 www.angesaugt.at
 0.0.0.0 www.api.fpoe.at
@@ -362,6 +404,9 @@
 0.0.0.0 www.bz-berlin.de
 0.0.0.0 www.career.axelspringer.com
 0.0.0.0 www.career.axelspringer.de
+0.0.0.0 www.christineanderson.eu
+0.0.0.0 www.christoph-neumann.info
+0.0.0.0 www.christophneumann.info
 0.0.0.0 www.club.bild.de
 0.0.0.0 www.computerbild.de
 0.0.0.0 www.computerhoy.com
@@ -376,6 +421,7 @@
 0.0.0.0 www.epaper.bild.de
 0.0.0.0 www.eprofessional.de
 0.0.0.0 www.ericzemmour.fr
+0.0.0.0 www.facebook.com
 0.0.0.0 www.finanzen.net
 0.0.0.0 www.fitbook.de
 0.0.0.0 www.fpk.at
@@ -397,6 +443,7 @@
 0.0.0.0 www.good.co
 0.0.0.0 www.grok.com
 0.0.0.0 www.gruenderszene.de
+0.0.0.0 www.heike-winter.com
 0.0.0.0 www.hobbyconsolas.com
 0.0.0.0 www.iconist.de
 0.0.0.0 www.idealo.at
@@ -416,6 +463,7 @@
 0.0.0.0 www.insider.com
 0.0.0.0 www.investinmusk.com
 0.0.0.0 www.jobsite.co.uk
+0.0.0.0 www.joerg-urban.de
 0.0.0.0 www.joernkoenig.de
 0.0.0.0 www.jungealternative.net
 0.0.0.0 www.kaufda.de
@@ -425,6 +473,7 @@
 0.0.0.0 www.kundenservice.auth.bild.de
 0.0.0.0 www.lacentrale.fr
 0.0.0.0 www.ladenzeile.de
+0.0.0.0 www.leipzigblaumachen.de
 0.0.0.0 www.lichtenberg.afd.berlin
 0.0.0.0 www.logic-immo.com
 0.0.0.0 www.logicimmopro.com
@@ -441,6 +490,7 @@
 0.0.0.0 www.militant.zone
 0.0.0.0 www.mitmachen.afd.de
 0.0.0.0 www.mobil.bild.de
+0.0.0.0 www.moosdorf21.de
 0.0.0.0 www.muenzenmaiers-magazin.de
 0.0.0.0 www.musikexpress.de
 0.0.0.0 www.n24.de
@@ -464,6 +514,7 @@
 0.0.0.0 www.rainerpodeswa.de
 0.0.0.0 www.rassemblementnational.fr
 0.0.0.0 www.regio.axelspringer.de
+0.0.0.0 www.reneaust.eu
 0.0.0.0 www.rollingstone.de
 0.0.0.0 www.rtv.news
 0.0.0.0 www.rtvdigital.at
@@ -482,6 +533,7 @@
 0.0.0.0 www.sportbild.de
 0.0.0.0 www.stadt.afd.ac
 0.0.0.0 www.starlink.com
+0.0.0.0 www.stellen.afdbundestag.de
 0.0.0.0 www.stepstone.at
 0.0.0.0 www.stepstone.be
 0.0.0.0 www.stepstone.ch
@@ -506,6 +558,7 @@
 0.0.0.0 www.triggerfm.com
 0.0.0.0 www.truthsocial.com
 0.0.0.0 www.tube.theplattform.net
+0.0.0.0 www.ulbrich-afd.de
 0.0.0.0 www.ultimateflags.com
 0.0.0.0 www.upday.com
 0.0.0.0 www.vinlandicwerwolfdistribution.com
@@ -515,6 +568,7 @@
 0.0.0.0 www.white-shop.biz
 0.0.0.0 www.whitedate.net
 0.0.0.0 www.whitegenocide.info
+0.0.0.0 www.wir-lieben-deutschland.de
 0.0.0.0 www.yad2.co.il
 0.0.0.0 www.zemmour2022.fr
 0.0.0.0 yad2.co.il
