@@ -3,6 +3,7 @@
 ||afd-bw.de^
 ||afd-fraktion-bw.de^
 ||afd-frankfurt.de^
+||afd-hamburg.de^
 ||afd-hessen.de^
 ||afd-kaiserslautern.de^
 ||afd-landtag.bayern^
@@ -13,9 +14,12 @@
 ||afd-thueringen.de^
 ||afd.de^
 ||afd.koeln^
+||afd.nrw^
 ||afdbayern.de^
 ||afdbundestag.de^
 ||afdbundestagbayern.de^
+||afdkompakt.de^
+||afdsachsen.de^
 ||alice-weidel.ch^
 ||alice-weidel.com^
 ||alice-weidel.de^
@@ -27,8 +31,10 @@
 ||der-dritte-weg.info^
 ||die-heimat.de^
 ||mein.nius.de^
+||mitmachen.afd.de^
 ||nius.de^
 ||npdhamburg.de^
 ||npdmaterialdienst.de^
+||spenden.afd.de^
 ||www.afd.de^
 ||www.nius.de^

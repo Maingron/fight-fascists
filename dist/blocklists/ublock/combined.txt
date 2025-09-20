@@ -4,6 +4,7 @@
 ||afd-bw.de^
 ||afd-fraktion-bw.de^
 ||afd-frankfurt.de^
+||afd-hamburg.de^
 ||afd-hessen.de^
 ||afd-kaiserslautern.de^
 ||afd-landtag.bayern^
@@ -14,9 +15,12 @@
 ||afd-thueringen.de^
 ||afd.de^
 ||afd.koeln^
+||afd.nrw^
 ||afdbayern.de^
 ||afdbundestag.de^
 ||afdbundestagbayern.de^
+||afdkompakt.de^
+||afdsachsen.de^
 ||alice-weidel.ch^
 ||alice-weidel.com^
 ||alice-weidel.de^
@@ -80,6 +84,7 @@
 ||meinestadt.de^
 ||meinprospekt.de^
 ||metal-hammer.de^
+||mitmachen.afd.de^
 ||mobil.bild.de^
 ||musikexpress.de^
 ||n24.de^
@@ -94,6 +99,7 @@
 ||saongroup.com^
 ||seloger.com^
 ||shareasale.com^
+||spenden.afd.de^
 ||sport.bild.de^
 ||sportbild.de^
 ||stepstone.at^

@@ -4,6 +4,7 @@
 0.0.0.0 afd-bw.de
 0.0.0.0 afd-fraktion-bw.de
 0.0.0.0 afd-frankfurt.de
+0.0.0.0 afd-hamburg.de
 0.0.0.0 afd-hessen.de
 0.0.0.0 afd-kaiserslautern.de
 0.0.0.0 afd-landtag.bayern
@@ -14,9 +15,12 @@
 0.0.0.0 afd-thueringen.de
 0.0.0.0 afd.de
 0.0.0.0 afd.koeln
+0.0.0.0 afd.nrw
 0.0.0.0 afdbayern.de
 0.0.0.0 afdbundestag.de
 0.0.0.0 afdbundestagbayern.de
+0.0.0.0 afdkompakt.de
+0.0.0.0 afdsachsen.de
 0.0.0.0 alice-weidel.ch
 0.0.0.0 alice-weidel.com
 0.0.0.0 alice-weidel.de
@@ -80,6 +84,7 @@
 0.0.0.0 meinestadt.de
 0.0.0.0 meinprospekt.de
 0.0.0.0 metal-hammer.de
+0.0.0.0 mitmachen.afd.de
 0.0.0.0 mobil.bild.de
 0.0.0.0 musikexpress.de
 0.0.0.0 n24.de
@@ -94,6 +99,7 @@
 0.0.0.0 saongroup.com
 0.0.0.0 seloger.com
 0.0.0.0 shareasale.com
+0.0.0.0 spenden.afd.de
 0.0.0.0 sport.bild.de
 0.0.0.0 sportbild.de
 0.0.0.0 stepstone.at
@@ -116,6 +122,7 @@
 0.0.0.0 www.afd-bw.de
 0.0.0.0 www.afd-fraktion-bw.de
 0.0.0.0 www.afd-frankfurt.de
+0.0.0.0 www.afd-hamburg.de
 0.0.0.0 www.afd-hessen.de
 0.0.0.0 www.afd-kaiserslautern.de
 0.0.0.0 www.afd-landtag.bayern
@@ -126,9 +133,12 @@
 0.0.0.0 www.afd-thueringen.de
 0.0.0.0 www.afd.de
 0.0.0.0 www.afd.koeln
+0.0.0.0 www.afd.nrw
 0.0.0.0 www.afdbayern.de
 0.0.0.0 www.afdbundestag.de
 0.0.0.0 www.afdbundestagbayern.de
+0.0.0.0 www.afdkompakt.de
+0.0.0.0 www.afdsachsen.de
 0.0.0.0 www.alice-weidel.ch
 0.0.0.0 www.alice-weidel.com
 0.0.0.0 www.alice-weidel.de
@@ -192,6 +202,7 @@
 0.0.0.0 www.meinestadt.de
 0.0.0.0 www.meinprospekt.de
 0.0.0.0 www.metal-hammer.de
+0.0.0.0 www.mitmachen.afd.de
 0.0.0.0 www.mobil.bild.de
 0.0.0.0 www.musikexpress.de
 0.0.0.0 www.n24.de
@@ -206,6 +217,7 @@
 0.0.0.0 www.saongroup.com
 0.0.0.0 www.seloger.com
 0.0.0.0 www.shareasale.com
+0.0.0.0 www.spenden.afd.de
 0.0.0.0 www.sport.bild.de
 0.0.0.0 www.sportbild.de
 0.0.0.0 www.stepstone.at

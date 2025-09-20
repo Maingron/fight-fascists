@@ -76,6 +76,7 @@ travelbook.de
 upday.com
 welt.de
 yad2.co.il
+computerhoy.com
 
 images.bild.de
 bildstatic.de
