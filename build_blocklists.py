@@ -200,37 +200,32 @@ def cleanup_outputs(out_dir: str, valid_names: set) -> None:
 
 def main():
     src_root = os.path.join('src', 'blocklists')
-    src_ublock = os.path.join(src_root, 'ublock')
-    src_dns = os.path.join(src_root, 'dns-lists')
 
     out_ublock = os.path.join('dist', 'blocklists', 'ublock')
     out_dns = os.path.join('dist', 'blocklists', 'dns-lists')
 
     ensure_dirs(out_ublock, out_dns)
 
-    # Collect sources by filename, separated by type
+    # Collect sources by filename (only uBlock format now)
     lists_by_name = {}
 
     def add_src(dct, name, kind, path):
         if name not in dct:
-            dct[name] = {'ublock': [], 'dns': []}
+            dct[name] = {'ublock': [], 'dns': []}  # keep keys for downstream compatibility
         dct[name][kind].append(path)
 
-    if os.path.isdir(src_ublock):
-        for root, _, files in os.walk(src_ublock):
+    if os.path.isdir(src_root):
+        for root, _, files in os.walk(src_root):
             for fn in files:
                 if fn.endswith('.txt'):
                     add_src(lists_by_name, fn, 'ublock', os.path.join(root, fn))
 
-    if os.path.isdir(src_dns):
-        for root, _, files in os.walk(src_dns):
-            for fn in files:
-                if fn.endswith('.txt'):
-                    add_src(lists_by_name, fn, 'dns', os.path.join(root, fn))
-
     # Accumulators for combined outputs
     combined_ublock_lines = set()
     combined_domains = set()
+
+    # Domains explicitly ignored for google-hide via flags in uBlock source lists
+    ignored_hide_domains = set()
 
     # Process each logical list name
     all_domains_global = set()
@@ -248,12 +243,35 @@ def main():
                 # Clean each file and append
                 with open(src, 'r', encoding='utf-8', errors='ignore') as infile:
                     for raw in infile:
-                        line = raw.strip()
+                        original = raw.rstrip('\n')
+                        line = original.strip()
                         if is_comment_or_blank(line) or is_cosmetic_filter(line):
                             continue
-                        if line and line not in seen_lines:
-                            tmp_out.write(line + '\n')
-                            seen_lines.add(line)
+
+                        # Detect google-hide ignore flag in options: $noghide or $ghide=off
+                        marker_present = False
+                        cleaned_line = line
+                        if '$' in line:
+                            before, after = line.split('$', 1)
+                            opts = after.split(',')
+                            new_opts = []
+                            for opt in opts:
+                                low = opt.strip().lower()
+                                if low in {"noghide", "ghide=off"}:
+                                    marker_present = True
+                                    continue
+                                if low:
+                                    new_opts.append(opt.strip())
+                            cleaned_line = before if not new_opts else before + '$' + ','.join(new_opts)
+                        # If marker present, extract domain and record for hide-ignore
+                        if marker_present:
+                            dom = extract_domain_from_ublock_filter(line)
+                            if dom:
+                                ignored_hide_domains.add(dom)
+
+                        if cleaned_line and cleaned_line not in seen_lines:
+                            tmp_out.write(cleaned_line + '\n')
+                            seen_lines.add(cleaned_line)
 
             # Add converted from DNS sources as uBlock network rules (||domain^)
             dns_domains = set()
@@ -315,9 +333,10 @@ def main():
         all_domains_global.update(domains)
         combined_domains.update(domains)
 
-    # 3) Generate Google search result hider list (combined)
+    # 3) Generate Search result hider list (combined) excluding flagged domains
     google_hide_path = os.path.join(out_ublock, 'google-hide.txt')
-    write_google_hide_cosmetic(all_domains_global, google_hide_path)
+    hide_domains = all_domains_global.difference(ignored_hide_domains)
+    write_google_hide_cosmetic(hide_domains, google_hide_path)
 
     # 4) Write combined outputs
     combined_ublock_path = os.path.join(out_ublock, 'combined.txt')

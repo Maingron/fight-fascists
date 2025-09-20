@@ -11,6 +11,7 @@
 ||afd-muenster.de^
 ||afd-nds.de^
 ||afd-niedersachsen.de^
+||afd-nordsachsen.de^
 ||afd-oberbayern.de^
 ||afd-thl.de^
 ||afd-thueringen.de^
@@ -38,5 +39,3 @@
 ||npdhamburg.de^
 ||npdmaterialdienst.de^
 ||spenden.afd.de^
-||www.afd.de^
-||www.nius.de^

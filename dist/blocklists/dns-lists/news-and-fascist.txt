@@ -11,6 +11,7 @@
 0.0.0.0 afd-muenster.de
 0.0.0.0 afd-nds.de
 0.0.0.0 afd-niedersachsen.de
+0.0.0.0 afd-nordsachsen.de
 0.0.0.0 afd-oberbayern.de
 0.0.0.0 afd-thl.de
 0.0.0.0 afd-thueringen.de
@@ -51,6 +52,7 @@
 0.0.0.0 www.afd-muenster.de
 0.0.0.0 www.afd-nds.de
 0.0.0.0 www.afd-niedersachsen.de
+0.0.0.0 www.afd-nordsachsen.de
 0.0.0.0 www.afd-oberbayern.de
 0.0.0.0 www.afd-thl.de
 0.0.0.0 www.afd-thueringen.de
