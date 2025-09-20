@@ -49,4 +49,7 @@
 ||afd-uelzen.de^
 ||afd-rhein-hunsrueck.de^
 ||afd-zweibruecken.de^
+||afd.tv^
+||afd-tv.de^
+||afd-gt.net^
 ||freiewelt.net^

@@ -8,6 +8,7 @@
 0.0.0.0 afd-fraktion-sachsen.de
 0.0.0.0 afd-frankfurt.de
 0.0.0.0 afd-goslar.de
+0.0.0.0 afd-gt.net
 0.0.0.0 afd-hamburg.de
 0.0.0.0 afd-hessen.de
 0.0.0.0 afd-kaiserslautern.de
@@ -22,12 +23,14 @@
 0.0.0.0 afd-sh.de
 0.0.0.0 afd-thl.de
 0.0.0.0 afd-thueringen.de
+0.0.0.0 afd-tv.de
 0.0.0.0 afd-uelzen.de
 0.0.0.0 afd-weiden.de
 0.0.0.0 afd-zweibruecken.de
 0.0.0.0 afd.de
 0.0.0.0 afd.koeln
 0.0.0.0 afd.nrw
+0.0.0.0 afd.tv
 0.0.0.0 afdbayern.de
 0.0.0.0 afdbundestag.de
 0.0.0.0 afdbundestagbayern.de
@@ -159,6 +162,7 @@
 0.0.0.0 www.afd-fraktion-sachsen.de
 0.0.0.0 www.afd-frankfurt.de
 0.0.0.0 www.afd-goslar.de
+0.0.0.0 www.afd-gt.net
 0.0.0.0 www.afd-hamburg.de
 0.0.0.0 www.afd-hessen.de
 0.0.0.0 www.afd-kaiserslautern.de
@@ -173,12 +177,14 @@
 0.0.0.0 www.afd-sh.de
 0.0.0.0 www.afd-thl.de
 0.0.0.0 www.afd-thueringen.de
+0.0.0.0 www.afd-tv.de
 0.0.0.0 www.afd-uelzen.de
 0.0.0.0 www.afd-weiden.de
 0.0.0.0 www.afd-zweibruecken.de
 0.0.0.0 www.afd.de
 0.0.0.0 www.afd.koeln
 0.0.0.0 www.afd.nrw
+0.0.0.0 www.afd.tv
 0.0.0.0 www.afdbayern.de
 0.0.0.0 www.afdbundestag.de
 0.0.0.0 www.afdbundestagbayern.de

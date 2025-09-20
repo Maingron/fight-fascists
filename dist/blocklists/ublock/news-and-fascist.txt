@@ -6,6 +6,7 @@
 ||afd-fraktion-sachsen.de^
 ||afd-frankfurt.de^
 ||afd-goslar.de^
+||afd-gt.net^
 ||afd-hamburg.de^
 ||afd-hessen.de^
 ||afd-kaiserslautern.de^
@@ -20,12 +21,14 @@
 ||afd-sh.de^
 ||afd-thl.de^
 ||afd-thueringen.de^
+||afd-tv.de^
 ||afd-uelzen.de^
 ||afd-weiden.de^
 ||afd-zweibruecken.de^
 ||afd.de^
 ||afd.koeln^
 ||afd.nrw^
+||afd.tv^
 ||afdbayern.de^
 ||afdbundestag.de^
 ||afdbundestagbayern.de^
