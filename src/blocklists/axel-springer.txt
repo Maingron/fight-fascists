@@ -99,3 +99,4 @@
 ||kundenservice.auth.axelspringer.de^
 ||regio.axelspringer.de^
 ||career.axelspringer.com^
+||career.axelspringer.de^

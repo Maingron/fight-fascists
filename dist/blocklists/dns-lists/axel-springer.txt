@@ -23,6 +23,7 @@
 0.0.0.0 businessinsider.de
 0.0.0.0 bz-berlin.de
 0.0.0.0 career.axelspringer.com
+0.0.0.0 career.axelspringer.de
 0.0.0.0 club.bild.de
 0.0.0.0 computerbild.de
 0.0.0.0 computerhoy.com
@@ -121,6 +122,7 @@
 0.0.0.0 www.businessinsider.de
 0.0.0.0 www.bz-berlin.de
 0.0.0.0 www.career.axelspringer.com
+0.0.0.0 www.career.axelspringer.de
 0.0.0.0 www.club.bild.de
 0.0.0.0 www.computerbild.de
 0.0.0.0 www.computerhoy.com

@@ -25,7 +25,8 @@
 ||npdhamburg.de^
 ||der-dritte-weg.info^
 ||npdmaterialdienst.de^
-||api.nius.de^$noghide
+||api.nius.de^
+||shop.nius.de^
 ||mein.nius.de^
 ||afd.de^
 ||spenden.afd.de^
@@ -39,3 +40,13 @@
 ||afd.nrw^
 ||afd-hamburg.de^
 ||afdkompakt.de^
+||afd-muenchen.de^
+||afd-goslar.de^
+||rainerpodeswa.de^
+||afd-weiden.de^
+||afd-fraktion-sachsen.de^
+||afd-sh.de^
+||afd-uelzen.de^
+||afd-rhein-hunsrueck.de^
+||afd-zweibruecken.de^
+||freiewelt.net^

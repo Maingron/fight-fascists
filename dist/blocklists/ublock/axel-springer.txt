@@ -23,6 +23,7 @@
 ||businessinsider.de^
 ||bz-berlin.de^
 ||career.axelspringer.com^
+||career.axelspringer.de^
 ||club.bild.de^
 ||computerbild.de^
 ||computerhoy.com^
