@@ -1,0 +1,10 @@
+{
+  "name": "fight-fascists",
+  "version": "1.0.0",
+  "description": "Build and manage blocklists for DNS and uBlock.",
+  "scripts": {
+    "build-blocklists": "python build_blocklists.py"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
