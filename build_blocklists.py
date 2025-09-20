@@ -128,6 +128,51 @@ def ensure_dirs(*paths: str) -> None:
         os.makedirs(p, exist_ok=True)
 
 
+def write_google_hide_cosmetic(all_domains: set, out_path: str) -> None:
+    """Write a uBlock cosmetic filter list to hide Google search results linking to any domain in all_domains."""
+    if not all_domains:
+        # Remove file if exists to avoid stale output
+        try:
+            if os.path.exists(out_path):
+                os.remove(out_path)
+        except OSError:
+            pass
+        return
+
+    rules = []
+    header = [
+        "! Title: Google search result hider (auto-generated)",
+        "! Description: Hide Google results linking to listed domains",
+        "! Syntax: uBlock Origin cosmetic filters",
+        "! Homepage: https://github.com/Maingron/fight-fascists",
+        "!"  # blank separator
+    ]
+
+    def rule_for_has(d: str) -> str:
+        return f"google.*##div:is(.vt6azd, .SoaBEf:has(div>div>.WlydOe)):has(a[href*=\"://{d}\"])"
+
+    # Keep output compact: only emit the :has(...) rule per domain.
+    # The :upward(...) variant is omitted for size; re-add if robustness is needed.
+
+    # Expand with www variants for more accurate matches
+    expanded = set(all_domains)
+    for d in list(all_domains):
+        if not d.startswith('www.'):
+            expanded.add('www.' + d)
+
+    for d in sorted(expanded):
+        # Skip obviously invalid leftovers
+        if '/' in d or ':' in d:
+            continue
+        rules.append(rule_for_has(d))
+
+    with open(out_path, 'w', encoding='utf-8') as f:
+        for line in header:
+            f.write(line + "\n")
+        for r in rules:
+            f.write(r + "\n")
+
+
 def cleanup_outputs(out_dir: str, valid_names: set) -> None:
     """Remove .txt files in out_dir whose names are not in valid_names."""
     if not os.path.isdir(out_dir):
@@ -177,6 +222,7 @@ def main():
     combined_domains = set()
 
     # Process each logical list name
+    all_domains_global = set()
     for name, kinds in lists_by_name.items():
         print(f"Processing {name}...")
 
@@ -218,7 +264,7 @@ def main():
         with open(final_ublock_path, 'w', encoding='utf-8') as final_out:
             for ln in lines:
                 final_out.write(ln + '\n')
-        # Add to combined uBlock accumulator
+        # Accumulate into combined uBlock
         combined_ublock_lines.update(lines)
         try:
             os.remove(combined_ublock_tmp)
@@ -244,7 +290,7 @@ def main():
                 if d:
                     domains.add(d)
 
-        # Add www. variant for all domains (avoid double www.)
+        # Add www variants for DNS file writing
         expanded = set(domains)
         for d in list(domains):
             if not d.startswith('www.'):
@@ -253,26 +299,35 @@ def main():
         with open(final_dns_path, 'w', encoding='utf-8') as out_dns_f:
             for d in sorted(expanded):
                 out_dns_f.write(f"0.0.0.0 {d}\n")
-        # Add to combined DNS accumulator
-        combined_domains.update(expanded)
 
-    # Write combined outputs
-    if lists_by_name:
-        combined_ublock_path = os.path.join(out_ublock, 'combined.txt')
-        combined_dns_path = os.path.join(out_dns, 'combined.txt')
-        with open(combined_ublock_path, 'w', encoding='utf-8') as cu:
-            for ln in sorted(combined_ublock_lines):
-                cu.write(ln + '\n')
-        with open(combined_dns_path, 'w', encoding='utf-8') as cd:
-            for d in sorted(combined_domains):
-                cd.write(f"0.0.0.0 {d}\n")
+        # Accumulate into global sets
+        all_domains_global.update(domains)
+        combined_domains.update(domains)
 
-    # Cleanup: remove outputs whose names no longer exist in sources
-    valid_names = set(lists_by_name.keys())
-    # Keep combined.txt
-    valid_names.add('combined.txt')
-    cleanup_outputs(out_ublock, valid_names)
-    cleanup_outputs(out_dns, valid_names)
+    # 3) Generate Google search result hider list (combined)
+    google_hide_path = os.path.join(out_ublock, 'google-hide.txt')
+    write_google_hide_cosmetic(all_domains_global, google_hide_path)
+
+    # 4) Write combined outputs
+    combined_ublock_path = os.path.join(out_ublock, 'combined.txt')
+    with open(combined_ublock_path, 'w', encoding='utf-8') as f:
+        for ln in sorted(combined_ublock_lines):
+            f.write(ln + '\n')
+
+    combined_dns_path = os.path.join(out_dns, 'combined.txt')
+    expanded_all = set(combined_domains)
+    for d in list(combined_domains):
+        if not d.startswith('www.'):
+            expanded_all.add('www.' + d)
+    with open(combined_dns_path, 'w', encoding='utf-8') as f:
+        for d in sorted(expanded_all):
+            f.write(f"0.0.0.0 {d}\n")
+
+    # Cleanup: remove outputs whose names no longer exist in sources (preserve google-hide.txt and combined.txt)
+    valid_ublock_names = set(lists_by_name.keys()) | {os.path.basename(google_hide_path), 'combined.txt'}
+    cleanup_outputs(out_ublock, valid_ublock_names)
+    valid_dns_names = set(lists_by_name.keys()) | {'combined.txt'}
+    cleanup_outputs(out_dns, valid_dns_names)
 
 
 if __name__ == "__main__":
