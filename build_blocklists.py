@@ -209,7 +209,8 @@ def write_google_hide_cosmetic(all_domains: set, path_targets: set, out_path: st
     }
 
     def rule_for_has(target: str) -> List[str]:
-        return [f"{engine}##{sel}:has(a[href*=\"://{target}\"])" for engine, selectors in search_engines.items() for sel in selectors]
+        # Make attribute match ASCII case-insensitive using CSS4 ' i' flag
+        return [f"{engine}##{sel}:has(a[href*=\"://{target}\" i])" for engine, selectors in search_engines.items() for sel in selectors]
 
     # Keep output compact: only emit the :has(...) rule per domain.
     # The :upward(...) variant is omitted for size; re-add if robustness is needed.
@@ -288,7 +289,7 @@ def write_link_hide_cosmetic(all_domains: set, path_targets: set, out_path: str)
             continue
         if base_host(d) in hosts_with_paths:
             continue
-        rules.append(f"##a[href*=\"://{d}\"]")
+    rules.append(f"##a[href*=\"://{d}\" i]")
 
     # Path targets (add www variants)
     expanded_paths = set(path_targets)
@@ -299,7 +300,7 @@ def write_link_hide_cosmetic(all_domains: set, path_targets: set, out_path: str)
     for t in sorted(expanded_paths):
         if '://' in t or ' ' in t:
             continue
-        rules.append(f"##a[href*=\"{t}\"]")
+    rules.append(f"##a[href*=\"{t}\" i]")
 
     # Also add platform-scoped relative path rules for each host/path target
     # Example: for "youtube.com/channel/UC..." emit:
@@ -317,7 +318,7 @@ def write_link_hide_cosmetic(all_domains: set, path_targets: set, out_path: str)
         else:
             host_variants.add('www.' + host)
         for h in host_variants:
-            rule = f"{h}##a[href*=\"{rel}\"]"
+            rule = f"{h}##a[href*=\"{rel}\" i]"
             if rule not in seen_rel:
                 rules.append(rule)
                 seen_rel.add(rule)
@@ -334,7 +335,7 @@ def write_link_hide_cosmetic(all_domains: set, path_targets: set, out_path: str)
         safe = re.escape(rel.lstrip('/'))  # escape but drop leading '/'
         # re.escape does not escape '/', but :matches-path uses '/' as delimiter, so escape slashes explicitly
         safe = safe.replace('/', r'\/')
-        path_regex = f"/{safe}/"
+        path_regex = f"/{safe}/i"
         host_variants = {host}
         if host.startswith('www.'):
             host_variants.add(host[4:])
@@ -580,8 +581,42 @@ def main():
         for d in sorted(expanded_all):
             f.write(f"0.0.0.0 {d}\n")
 
+    # 5) Aggregate an all-in-one uBlock list: combined + google-hide + link-hide
+    give_all_path = os.path.join(out_ublock, 'give-me-all.txt')
+    try:
+        with open(give_all_path, 'w', encoding='utf-8') as out_f:
+            out_f.write('! Title: Give me all (auto-generated)\n')
+            out_f.write('! Description: Aggregate of network filters (combined) plus cosmetic google-hide and link-hide.\n')
+            out_f.write('! Syntax: uBlock Origin filters (network + cosmetic)\n')
+            out_f.write('! Homepage: https://github.com/Maingron/fight-fascists\n')
+            out_f.write('!\n')
+
+            # Network rules
+            if os.path.exists(combined_ublock_path):
+                with open(combined_ublock_path, 'r', encoding='utf-8', errors='ignore') as f_in:
+                    for ln in f_in:
+                        ln = ln.rstrip('\n')
+                        if ln:
+                            out_f.write(ln + '\n')
+            out_f.write('\n')
+
+            # Cosmetic: search result hider
+            if os.path.exists(google_hide_path):
+                with open(google_hide_path, 'r', encoding='utf-8', errors='ignore') as f_in:
+                    for ln in f_in:
+                        out_f.write(ln.rstrip('\n') + '\n')
+            out_f.write('\n')
+
+            # Cosmetic: global link hider
+            if os.path.exists(link_hide_path):
+                with open(link_hide_path, 'r', encoding='utf-8', errors='ignore') as f_in:
+                    for ln in f_in:
+                        out_f.write(ln.rstrip('\n') + '\n')
+    except OSError:
+        pass
+
     # Cleanup: remove outputs whose names no longer exist in sources (preserve google-hide.txt and combined.txt)
-    valid_ublock_names = set(lists_by_name.keys()) | {os.path.basename(google_hide_path), os.path.basename(link_hide_path), 'combined.txt'}
+    valid_ublock_names = set(lists_by_name.keys()) | {os.path.basename(google_hide_path), os.path.basename(link_hide_path), 'combined.txt', 'give-me-all.txt'}
     cleanup_outputs(out_ublock, valid_ublock_names)
     valid_dns_names = set(lists_by_name.keys()) | {'combined.txt'}
     cleanup_outputs(out_dns, valid_dns_names)

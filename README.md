@@ -30,10 +30,12 @@ Then add the lists as Custom filter lists in uBO:
 - Search result hider: `dist/blocklists/ublock/google-hide.txt`
 - Global link hider: `dist/blocklists/ublock/link-hide.txt`
 - Any of the compiled network lists in `dist/blocklists/ublock/*.txt` (e.g., `news-and-fascist.txt`)
+- All-in-one (optional): `dist/blocklists/ublock/give-me-all.txt` (aggregates combined + google-hide + link-hide)
 
 Notes
 - The Search result hider hides Google and DuckDuckGo results that link to listed targets using cosmetic rules.
 - The Global link hider hides any `<a>` element whose href contains a listed target anywhere on the web, and also adds on-platform rules.
+- Matching for cosmetic rules is case-insensitive (uses CSS `[href*="…" i]` and `:matches-path(/…/i)`).
 
 ## What gets generated (overview)
 - dist/blocklists/ublock/<source>.txt: Cleaned ABP/uBlock network rules
@@ -41,6 +43,7 @@ Notes
 - dist/blocklists/ublock/google-hide.txt: Cosmetic rules to hide search results
 - dist/blocklists/ublock/link-hide.txt: Cosmetic rules to hide links globally and on-platform
 - dist/blocklists/ublock/combined.txt: Union of all network rules
+- dist/blocklists/ublock/give-me-all.txt: Aggregate of network + google-hide + link-hide
 - dist/blocklists/dns-lists/combined.txt: Union of all DNS domains
 
 ## Adding entries (how to write source lists)
