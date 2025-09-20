@@ -1,1 +1,24 @@
 ||nius.de^
+||alice-weidel.de^
+||alice-weidel.com^
+||alice-weidel.ch^
+||alice-weidel.net^
+||aliceweidel.io^ # something crypto idk
+||afd-kaiserslautern.de^
+||afd.koeln^
+||bodensee.afd-bw.de^
+||afd-bw.de^
+||afdbayern.de^
+||afd-landtag.bayern^
+||afd-fraktion-bw.de^
+||afdbundestagbayern.de^
+||afd-oberbayern.de^
+||afd-bayern.de^
+||afd-hessen.de^
+||afd-frankfurt.de^
+||afd-niedersachsen.de^
+||afd-nds.de^
+||die-heimat.de^
+||npdhamburg.de^
+||der-dritte-weg.info^
+||npdmaterialdienst.de^

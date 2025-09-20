@@ -1,9 +1,27 @@
 ||a.bildstatic.de^
+||afd-bayern.de^
 ||afd-bjoern-hoecke.de^
+||afd-bw.de^
+||afd-fraktion-bw.de^
+||afd-frankfurt.de^
+||afd-hessen.de^
+||afd-kaiserslautern.de^
+||afd-landtag.bayern^
+||afd-nds.de^
+||afd-niedersachsen.de^
+||afd-oberbayern.de^
 ||afd-thl.de^
 ||afd-thueringen.de^
 ||afd.de^
+||afd.koeln^
+||afdbayern.de^
 ||afdbundestag.de^
+||afdbundestagbayern.de^
+||alice-weidel.ch^
+||alice-weidel.com^
+||alice-weidel.de^
+||alice-weidel.net^
+||aliceweidel.io^ # something crypto idk
 ||api.nius.de^
 ||auto-swiat.pl^
 ||autobazar.eu^
@@ -19,6 +37,7 @@
 ||bildstatic.de^
 ||bjornhoeckeehefrau.de^
 ||blau-magazin.de^
+||bodensee.afd-bw.de^
 ||bonial.com^
 ||bonial.de^
 ||bonial.fr^
@@ -26,6 +45,8 @@
 ||bz-berlin.de^
 ||computerbild.de^
 ||computerhoy.com^
+||der-dritte-weg.info^
+||die-heimat.de^
 ||diedame.de^
 ||emarketer.com^
 ||eprofessional.de^
@@ -64,6 +85,8 @@
 ||n24.de^
 ||nius.de^
 ||noizz.de^
+||npdhamburg.de^
+||npdmaterialdienst.de^
 ||politico.com^
 ||politico.eu^
 ||protocol.com^
