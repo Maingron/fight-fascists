@@ -46,6 +46,7 @@ instagram.com/afd_mh
 instagram.com/alexanderjungbluth
 instagram.com/anja.arndt.afd
 instagram.com/arnobausemer
+instagram.com/auf1.tv
 instagram.com/christine.\_anderson
 instagram.com/docbrandenburg
 instagram.com/drberndbaumann
@@ -95,6 +96,7 @@ t.me/marykhanafd
 t.me/paulbrandenburg
 t.me/reconquete_off
 t.me/reneaust
+t.me/s/auf1tv
 t.me/tomaszfroelich
 theplattform.net/c/paulbrandenburg.com
 tiktok.com/@1966franki
@@ -222,6 +224,7 @@ x.com/Rene_Aust
 x.com/SiegbertDroese
 x.com/Tino_Chrupalla
 x.com/ZemmourEric
+x.com/auf1tv
 x.com/docbrandenburg
 x.com/dr_neuhoff
 x.com/elonmusk
@@ -246,6 +249,7 @@ youtube.com/@PaulBrandenburgCom
 youtube.com/@Weichreite
 youtube.com/@afdfraktionimbundestag
 youtube.com/@afdkreisverbandheidekreis6286
+youtube.com/@auf1tv
 youtube.com/@dr.marcjongenmdbafd8192
 youtube.com/@generationz1266
 youtube.com/@guillaumepeltier9110
@@ -362,6 +366,10 @@ youtube.com/shorts/6B2i5cKgVco
 ||angesaugt.at^
 ||api.fpoe.at^
 ||api.nius.de^
+||auf1.info^
+||auf1.net^
+||auf1.shop^
+||auf1.tv^
 ||auto-swiat.pl^
 ||autobazar.eu^
 ||autobild.de^

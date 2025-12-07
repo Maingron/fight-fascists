@@ -5,1629 +5,1653 @@
 !
 ##a[href*="://zemmour2022.fr" i]
 ##a[href*="youtube.com/shorts/6B2i5cKgVco" i]
-www.facebook.com##a[href*="/AfDHeide" i]
-facebook.com##a[href*="/AfDHeide" i]
-www.facebook.com##a[href*="/alternativefuerde" i]
-facebook.com##a[href*="/alternativefuerde" i]
-www.tiktok.com##a[href*="/@afdfraktionsachsenanhalt" i]
-tiktok.com##a[href*="/@afdfraktionsachsenanhalt" i]
-www.tiktok.com##a[href*="/@tino.chrupalla.afd" i]
-tiktok.com##a[href*="/@tino.chrupalla.afd" i]
-www.youtube.com##a[href*="/channel/UCyw8Tkb44AGA2eB8K9fRioQ" i]
-youtube.com##a[href*="/channel/UCyw8Tkb44AGA2eB8K9fRioQ" i]
-www.tiktok.com##a[href*="/@rn2027ourien" i]
-tiktok.com##a[href*="/@rn2027ourien" i]
-www.instagram.com##a[href*="/reconquete_officiel" i]
-instagram.com##a[href*="/reconquete_officiel" i]
-www.tiktok.com##a[href*="/@gemeinsamblau" i]
-tiktok.com##a[href*="/@gemeinsamblau" i]
-www.youtube.com##a[href*="/@PaulBrandenburgCom" i]
-youtube.com##a[href*="/@PaulBrandenburgCom" i]
-radio.de##a[href*="/podcast/nacktes-geld" i]
-www.radio.de##a[href*="/podcast/nacktes-geld" i]
-www.facebook.com##a[href*="/arno.bausemer" i]
-facebook.com##a[href*="/arno.bausemer" i]
-radio.de##a[href*="/podcast/nachschlag3" i]
-www.radio.de##a[href*="/podcast/nachschlag3" i]
-www.t.me##a[href*="/paulbrandenburg" i]
-t.me##a[href*="/paulbrandenburg" i]
-www.tiktok.com##a[href*="/@afd.nrw" i]
-tiktok.com##a[href*="/@afd.nrw" i]
-www.tiktok.com##a[href*="/@miguel_klauss" i]
-tiktok.com##a[href*="/@miguel_klauss" i]
-www.tiktok.com##a[href*="/@michael49.49.2" i]
-tiktok.com##a[href*="/@michael49.49.2" i]
-www.tiktok.com##a[href*="/@rassemblement.national88" i]
-tiktok.com##a[href*="/@rassemblement.national88" i]
-www.tiktok.com##a[href*="/@gabrielle.mailbeck.afd" i]
-tiktok.com##a[href*="/@gabrielle.mailbeck.afd" i]
-www.tiktok.com##a[href*="/@presidentielle_2027" i]
-tiktok.com##a[href*="/@presidentielle_2027" i]
-www.tiktok.com##a[href*="/@afd.zerbst" i]
-tiktok.com##a[href*="/@afd.zerbst" i]
-www.tiktok.com##a[href*="/@muenzenmaier" i]
-tiktok.com##a[href*="/@muenzenmaier" i]
-whatsapp.com##a[href*="/channel/0029VbBjgrrFsn0d2kpktt44" i]
-www.whatsapp.com##a[href*="/channel/0029VbBjgrrFsn0d2kpktt44" i]
-www.instagram.com##a[href*="/afd.bund" i]
-instagram.com##a[href*="/afd.bund" i]
-www.x.com##a[href*="/AfD" i]
-x.com##a[href*="/AfD" i]
-www.tiktok.com##a[href*="/@mr_afd" i]
-tiktok.com##a[href*="/@mr_afd" i]
-www.tiktok.com##a[href*="/@afddeutschland10" i]
-tiktok.com##a[href*="/@afddeutschland10" i]
-www.x.com##a[href*="/Tino_Chrupalla" i]
-x.com##a[href*="/Tino_Chrupalla" i]
-www.x.com##a[href*="/NicolasBay_" i]
-x.com##a[href*="/NicolasBay_" i]
-www.tiktok.com##a[href*="/@afd.support" i]
-tiktok.com##a[href*="/@afd.support" i]
-www.x.com##a[href*="/AfDimBundestag" i]
-x.com##a[href*="/AfDimBundestag" i]
-www.tiktok.com##a[href*="/@afd_brandenburg" i]
-tiktok.com##a[href*="/@afd_brandenburg" i]
-www.youtube.com##a[href*="/channel/UCU3z3px1_RCqYBwrs8LJVWg" i]
-youtube.com##a[href*="/channel/UCU3z3px1_RCqYBwrs8LJVWg" i]
-www.tiktok.com##a[href*="/@svenhaemischafd" i]
-tiktok.com##a[href*="/@svenhaemischafd" i]
-www.tiktok.com##a[href*="/@zemmour_eric" i]
-tiktok.com##a[href*="/@zemmour_eric" i]
-www.tiktok.com##a[href*="/@afdedits25" i]
-tiktok.com##a[href*="/@afdedits25" i]
-www.instagram.com##a[href*="/patriotsep" i]
-instagram.com##a[href*="/patriotsep" i]
-www.tiktok.com##a[href*="/@rassemblementnatinonal" i]
-tiktok.com##a[href*="/@rassemblementnatinonal" i]
-apps.apple.com##a[href*="/app/truth-social/id1586018825" i]
-www.apps.apple.com##a[href*="/app/truth-social/id1586018825" i]
-www.facebook.com##a[href*="/PatriotsEP" i]
-facebook.com##a[href*="/PatriotsEP" i]
-www.youtube.com##a[href*="/channel/UCO3Rpw8jHn32aiUFOHYh_gQ" i]
-youtube.com##a[href*="/channel/UCO3Rpw8jHn32aiUFOHYh_gQ" i]
-www.youtube.com##a[href*="/@dr.marcjongenmdbafd8192" i]
-youtube.com##a[href*="/@dr.marcjongenmdbafd8192" i]
-www.t.me##a[href*="/afdfraktionimbundestag" i]
-t.me##a[href*="/afdfraktionimbundestag" i]
-www.tiktok.com##a[href*="/@afd_rheinland_pfalz" i]
-tiktok.com##a[href*="/@afd_rheinland_pfalz" i]
-www.tiktok.com##a[href*="/@fpoe_at" i]
-tiktok.com##a[href*="/@fpoe_at" i]
-www.facebook.com##a[href*="/buchheit.markus" i]
-facebook.com##a[href*="/buchheit.markus" i]
-www.tiktok.com##a[href*="/@afd9489" i]
-tiktok.com##a[href*="/@afd9489" i]
-www.instagram.com##a[href*="/fpoe_at" i]
-instagram.com##a[href*="/fpoe_at" i]
-www.youtube.com##a[href*="/@protegeonsnosenfants2351" i]
-youtube.com##a[href*="/@protegeonsnosenfants2351" i]
-www.instagram.com##a[href*="/matzerathm" i]
-instagram.com##a[href*="/matzerathm" i]
-www.facebook.com##a[href*="/AfDFraktionLeipzig" i]
-facebook.com##a[href*="/AfDFraktionLeipzig" i]
-www.tiktok.com##a[href*="/@lena.kotre" i]
-tiktok.com##a[href*="/@lena.kotre" i]
-www.facebook.com##a[href*="/DrBerndBaumann" i]
-facebook.com##a[href*="/DrBerndBaumann" i]
-www.tiktok.com##a[href*="/@lernetlapolitique" i]
-tiktok.com##a[href*="/@lernetlapolitique" i]
-www.youtube.com##a[href*="/@generationz1266" i]
-youtube.com##a[href*="/@generationz1266" i]
-www.tiktok.com##a[href*="/@_rassemblement_national_" i]
-tiktok.com##a[href*="/@_rassemblement_national_" i]
-www.tiktok.com##a[href*="/@rasemblementnational" i]
-tiktok.com##a[href*="/@rasemblementnational" i]
-www.youtube.com##a[href*="/@Weichreite" i]
-youtube.com##a[href*="/@Weichreite" i]
-www.tiktok.com##a[href*="/@petrbystronafd" i]
-tiktok.com##a[href*="/@petrbystronafd" i]
-www.tiktok.com##a[href*="/@lafrancerevient" i]
-tiktok.com##a[href*="/@lafrancerevient" i]
-www.facebook.com##a[href*="/ReneAustAfD/" i]
-facebook.com##a[href*="/ReneAustAfD/" i]
-linktr.ee##a[href*="/herbertkickl" i]
-www.linktr.ee##a[href*="/herbertkickl" i]
-www.t.me##a[href*="/tomaszfroelich" i]
-t.me##a[href*="/tomaszfroelich" i]
-www.t.me##a[href*="/HKickl" i]
-t.me##a[href*="/HKickl" i]
-www.pinterest.com##a[href*="/zemmoureric" i]
-pinterest.com##a[href*="/zemmoureric" i]
-www.x.com##a[href*="/realDonaldTrump" i]
-x.com##a[href*="/realDonaldTrump" i]
-www.tiktok.com##a[href*="/@rassemblementnational04" i]
-tiktok.com##a[href*="/@rassemblementnational04" i]
-www.youtube.com##a[href*="/@reneausteu" i]
-youtube.com##a[href*="/@reneausteu" i]
-www.t.me##a[href*="/freiheitstrychlerde" i]
-t.me##a[href*="/freiheitstrychlerde" i]
-www.instagram.com##a[href*="/ericzemmour_" i]
-instagram.com##a[href*="/ericzemmour_" i]
-www.youtube.com##a[href*="/channel/UC-y7GfmlOsfUyDkkLEakz4Q" i]
-youtube.com##a[href*="/channel/UC-y7GfmlOsfUyDkkLEakz4Q" i]
-www.tiktok.com##a[href*="/@unionpourtous" i]
-tiktok.com##a[href*="/@unionpourtous" i]
-fr.pinterest.com##a[href*="/zemmoureric" i]
-www.fr.pinterest.com##a[href*="/zemmoureric" i]
-www.tiktok.com##a[href*="/@rnrassemblement_national" i]
-tiktok.com##a[href*="/@rnrassemblement_national" i]
-www.tiktok.com##a[href*="/@afd_fan_2013" i]
-tiktok.com##a[href*="/@afd_fan_2013" i]
-www.youtube.com##a[href*="/channel/UCRdEdkAlZetdf74bYaBRv3g" i]
-youtube.com##a[href*="/channel/UCRdEdkAlZetdf74bYaBRv3g" i]
-radio.de##a[href*="/podcast/nacktes-niveau" i]
-www.radio.de##a[href*="/podcast/nacktes-niveau" i]
-www.youtube.com##a[href*="/c/AfDKanal" i]
-youtube.com##a[href*="/c/AfDKanal" i]
-www.tiktok.com##a[href*="/@afd000003" i]
-tiktok.com##a[href*="/@afd000003" i]
-www.tiktok.com##a[href*="/@afd_im_erftkreis" i]
-tiktok.com##a[href*="/@afd_im_erftkreis" i]
-www.tiktok.com##a[href*="/@alexanderjungbluth" i]
-tiktok.com##a[href*="/@alexanderjungbluth" i]
-www.tiktok.com##a[href*="/@julienodoul" i]
-tiktok.com##a[href*="/@julienodoul" i]
-www.tiktok.com##a[href*="/@rassemblement_nat" i]
-tiktok.com##a[href*="/@rassemblement_nat" i]
-www.instagram.com##a[href*="/afd.augsburgland" i]
-instagram.com##a[href*="/afd.augsburgland" i]
-www.tiktok.com##a[href*="/@afd000001" i]
-tiktok.com##a[href*="/@afd000001" i]
-www.tiktok.com##a[href*="/@afd1185" i]
-tiktok.com##a[href*="/@afd1185" i]
-www.youtube.com##a[href*="/c/PetrBystronAfD" i]
-youtube.com##a[href*="/c/PetrBystronAfD" i]
-www.x.com##a[href*="/AlexJungbluth" i]
-x.com##a[href*="/AlexJungbluth" i]
-www.tiktok.com##a[href*="/@afdsupport3" i]
-tiktok.com##a[href*="/@afdsupport3" i]
-www.tiktok.com##a[href*="/@afd.kv.erding" i]
-tiktok.com##a[href*="/@afd.kv.erding" i]
-www.tiktok.com##a[href*="/@blaugedacht" i]
-tiktok.com##a[href*="/@blaugedacht" i]
-www.tiktok.com##a[href*="/@afddddddt1905" i]
-tiktok.com##a[href*="/@afddddddt1905" i]
-www.t.me##a[href*="/afddresden" i]
-t.me##a[href*="/afddresden" i]
-www.tiktok.com##a[href*="/@real_german" i]
-tiktok.com##a[href*="/@real_german" i]
-www.youtube.com##a[href*="/@markusbuchheit3541" i]
-youtube.com##a[href*="/@markusbuchheit3541" i]
-www.x.com##a[href*="/MarkusMatzerath" i]
-x.com##a[href*="/MarkusMatzerath" i]
-whatsapp.com##a[href*="/channel/0029VaUxHcI5EjxzMqIv8r1q" i]
-www.whatsapp.com##a[href*="/channel/0029VaUxHcI5EjxzMqIv8r1q" i]
-www.tiktok.com##a[href*="/@afd_goeppingen" i]
-tiktok.com##a[href*="/@afd_goeppingen" i]
-www.x.com##a[href*="/weichreite" i]
-x.com##a[href*="/weichreite" i]
-www.t.me##a[href*="/alexanderjungbluthafd" i]
-t.me##a[href*="/alexanderjungbluthafd" i]
-www.tiktok.com##a[href*="/@dachauafdkreisverband" i]
-tiktok.com##a[href*="/@dachauafdkreisverband" i]
-www.instagram.com##a[href*="/markus.buchheit" i]
-instagram.com##a[href*="/markus.buchheit" i]
-www.x.com##a[href*="/LxdxaxF" i]
-x.com##a[href*="/LxdxaxF" i]
 www.tiktok.com##a[href*="/@afdsachsen" i]
 tiktok.com##a[href*="/@afdsachsen" i]
-www.tiktok.com##a[href*="/@france_rn2" i]
-tiktok.com##a[href*="/@france_rn2" i]
-www.facebook.com##a[href*="/Alexander.Sell100" i]
-facebook.com##a[href*="/Alexander.Sell100" i]
-www.youtube.com##a[href*="/@ChristineAnderson_MdEP" i]
-youtube.com##a[href*="/@ChristineAnderson_MdEP" i]
-www.linkedin.com##a[href*="/company/parti-reconquete" i]
-linkedin.com##a[href*="/company/parti-reconquete" i]
-www.x.com##a[href*="/AndersonAfDMdEP" i]
-x.com##a[href*="/AndersonAfDMdEP" i]
-www.youtube.com##a[href*="/@unionnationale" i]
-youtube.com##a[href*="/@unionnationale" i]
-www.instagram.com##a[href*="/drberndbaumann" i]
-instagram.com##a[href*="/drberndbaumann" i]
-www.facebook.com##a[href*="/hans.neuhoff.73" i]
-facebook.com##a[href*="/hans.neuhoff.73" i]
-www.tiktok.com##a[href*="/@flaviusadf" i]
-tiktok.com##a[href*="/@flaviusadf" i]
-www.x.com##a[href*="/AdannMdL" i]
-x.com##a[href*="/AdannMdL" i]
-www.facebook.com##a[href*="/MarineLePen" i]
-facebook.com##a[href*="/MarineLePen" i]
-www.tiktok.com##a[href*="/@afd_kv_calw_freudenstadt" i]
-tiktok.com##a[href*="/@afd_kv_calw_freudenstadt" i]
-www.tiktok.com##a[href*="/@1966franki" i]
-tiktok.com##a[href*="/@1966franki" i]
-www.tiktok.com##a[href*="/@afdinfokanal" i]
-tiktok.com##a[href*="/@afdinfokanal" i]
-www.x.com##a[href*="/dr_neuhoff" i]
-x.com##a[href*="/dr_neuhoff" i]
-www.x.com##a[href*="/elonmusk" i]
-x.com##a[href*="/elonmusk" i]
-www.youtube.com##a[href*="/@linas.7782" i]
-youtube.com##a[href*="/@linas.7782" i]
-www.x.com##a[href*="/tomaszfroelich" i]
-x.com##a[href*="/tomaszfroelich" i]
-www.tiktok.com##a[href*="/@afd.fraktion.nrw" i]
-tiktok.com##a[href*="/@afd.fraktion.nrw" i]
-www.facebook.com##a[href*="/irmhild.bossdorf" i]
-facebook.com##a[href*="/irmhild.bossdorf" i]
-www.tiktok.com##a[href*="/@afd.supporter" i]
-tiktok.com##a[href*="/@afd.supporter" i]
-www.tiktok.com##a[href*="/@afd889" i]
-tiktok.com##a[href*="/@afd889" i]
-www.facebook.com##a[href*="/AfD.Leipzig" i]
-facebook.com##a[href*="/AfD.Leipzig" i]
-www.tiktok.com##a[href*="/@afd_supporter_" i]
-tiktok.com##a[href*="/@afd_supporter_" i]
-www.facebook.com##a[href*="/bystronpetr" i]
-facebook.com##a[href*="/bystronpetr" i]
-www.facebook.com##a[href*="/afdfraktionNRW" i]
-facebook.com##a[href*="/afdfraktionNRW" i]
-www.x.com##a[href*="/BuchheitMarkus" i]
-x.com##a[href*="/BuchheitMarkus" i]
-www.tiktok.com##a[href*="/@afd366" i]
-tiktok.com##a[href*="/@afd366" i]
-www.tiktok.com##a[href*="/@kicklherbert" i]
-tiktok.com##a[href*="/@kicklherbert" i]
-www.x.com##a[href*="/Reconquete_off" i]
-x.com##a[href*="/Reconquete_off" i]
-www.tiktok.com##a[href*="/@jordanbardella" i]
-tiktok.com##a[href*="/@jordanbardella" i]
-www.tiktok.com##a[href*="/@afd.eu" i]
-tiktok.com##a[href*="/@afd.eu" i]
-www.t.me##a[href*="/marinelepen" i]
-t.me##a[href*="/marinelepen" i]
-www.crossiety.app##a[href*="/groups/17745" i]
-crossiety.app##a[href*="/groups/17745" i]
-www.instagram.com##a[href*="/froelich.tomasz" i]
-instagram.com##a[href*="/froelich.tomasz" i]
-www.twitch.tv##a[href*="/weichreite" i]
-twitch.tv##a[href*="/weichreite" i]
-www.music.youtube.com##a[href*="/channel/UCksi8_CDUF0DbnLrgIoRrRg" i]
-music.youtube.com##a[href*="/channel/UCksi8_CDUF0DbnLrgIoRrRg" i]
-www.tiktok.com##a[href*="/@rnational_off" i]
-tiktok.com##a[href*="/@rnational_off" i]
-www.youtube.com##a[href*="/c/%C3%89ricZemmourOfficiel" i]
-youtube.com##a[href*="/c/%C3%89ricZemmourOfficiel" i]
-www.t.me##a[href*="/freiheitstrychlerat" i]
-t.me##a[href*="/freiheitstrychlerat" i]
-www.tiktok.com##a[href*="/@alfred.dannenberg" i]
-tiktok.com##a[href*="/@alfred.dannenberg" i]
-www.tiktok.com##a[href*="/@rn.nice.06" i]
-tiktok.com##a[href*="/@rn.nice.06" i]
-www.youtube.com##a[href*="/c/paulbrandenburgcom" i]
-youtube.com##a[href*="/c/paulbrandenburgcom" i]
-www.rumble.com##a[href*="/paulbrandenburgcom" i]
-rumble.com##a[href*="/paulbrandenburgcom" i]
-www.facebook.com##a[href*="/aljungbluth" i]
-facebook.com##a[href*="/aljungbluth" i]
-www.youtube.com##a[href*="/@DrBerndBaumannMdB" i]
-youtube.com##a[href*="/@DrBerndBaumannMdB" i]
-www.x.com##a[href*="/DrBerndBaumann" i]
-x.com##a[href*="/DrBerndBaumann" i]
-www.x.com##a[href*="/petrbystronafd" i]
-x.com##a[href*="/petrbystronafd" i]
-www.instagram.com##a[href*="/reneaust.afd" i]
-instagram.com##a[href*="/reneaust.afd" i]
-www.facebook.com##a[href*="/herbertkickl" i]
-facebook.com##a[href*="/herbertkickl" i]
-www.instagram.com##a[href*="/generation_zemmour" i]
-instagram.com##a[href*="/generation_zemmour" i]
-www.tiktok.com##a[href*="/@barguzin_71" i]
-tiktok.com##a[href*="/@barguzin_71" i]
-www.youtube.com##a[href*="/@afdkreisverbandheidekreis6286" i]
-youtube.com##a[href*="/@afdkreisverbandheidekreis6286" i]
-www.youtube.com##a[href*="/@afdfraktionimbundestag" i]
-youtube.com##a[href*="/@afdfraktionimbundestag" i]
-www.tiktok.com##a[href*="/@rassemblementnational25" i]
-tiktok.com##a[href*="/@rassemblementnational25" i]
-www.tiktok.com##a[href*="/@afddiebesten" i]
-tiktok.com##a[href*="/@afddiebesten" i]
-www.x.com##a[href*="/vilimsky" i]
-x.com##a[href*="/vilimsky" i]
-www.x.com##a[href*="/SiegbertDroese" i]
-x.com##a[href*="/SiegbertDroese" i]
-www.t.me##a[href*="/marykhanafd" i]
-t.me##a[href*="/marykhanafd" i]
-www.tiktok.com##a[href*="/@2027rn" i]
-tiktok.com##a[href*="/@2027rn" i]
-www.tiktok.com##a[href*="/@lerassemblementnational" i]
-tiktok.com##a[href*="/@lerassemblementnational" i]
-www.youtube.com##a[href*="/channel/UCBoIJhUfNcn8G_odWECKVIA" i]
-youtube.com##a[href*="/channel/UCBoIJhUfNcn8G_odWECKVIA" i]
-www.facebook.com##a[href*="/Regionalfernsehen" i]
-facebook.com##a[href*="/Regionalfernsehen" i]
-www.instagram.com##a[href*="/arnobausemer" i]
-instagram.com##a[href*="/arnobausemer" i]
-www.youtube.com##a[href*="/@guillaumepeltier9110" i]
-youtube.com##a[href*="/@guillaumepeltier9110" i]
-www.t.me##a[href*="/generationzemmour" i]
-t.me##a[href*="/generationzemmour" i]
-www.t.me##a[href*="/EricZemmourOfficiel" i]
-t.me##a[href*="/EricZemmourOfficiel" i]
-linktr.ee##a[href*="/fpoe" i]
-www.linktr.ee##a[href*="/fpoe" i]
-www.t.me##a[href*="/KlagemauerTV" i]
-t.me##a[href*="/KlagemauerTV" i]
-www.x.com##a[href*="/IrmhildBoss" i]
-x.com##a[href*="/IrmhildBoss" i]
-www.facebook.com##a[href*="/AfDFraktionDresden" i]
-facebook.com##a[href*="/AfDFraktionDresden" i]
-www.x.com##a[href*="/mary_khan94" i]
-x.com##a[href*="/mary_khan94" i]
-www.tiktok.com##a[href*="/@afd0143" i]
-tiktok.com##a[href*="/@afd0143" i]
-www.t.me##a[href*="/drberndbaumann" i]
-t.me##a[href*="/drberndbaumann" i]
-www.facebook.com##a[href*="/afdimbundestag" i]
-facebook.com##a[href*="/afdimbundestag" i]
-www.tiktok.com##a[href*="/@auto_enchere" i]
-tiktok.com##a[href*="/@auto_enchere" i]
-www.youtube.com##a[href*="/@rtvooe" i]
-youtube.com##a[href*="/@rtvooe" i]
-www.facebook.com##a[href*="/afddresden" i]
-facebook.com##a[href*="/afddresden" i]
-www.instagram.com##a[href*="/nicolas_bay_fn" i]
-instagram.com##a[href*="/nicolas_bay_fn" i]
+www.tiktok.com##a[href*="/@lafrancerevient" i]
+tiktok.com##a[href*="/@lafrancerevient" i]
 www.tiktok.com##a[href*="/@rn2.0.2.7" i]
 tiktok.com##a[href*="/@rn2.0.2.7" i]
-www.instagram.com##a[href*="/anja.arndt.afd" i]
-instagram.com##a[href*="/anja.arndt.afd" i]
-www.tiktok.com##a[href*="/@alice_weidel_afd" i]
-tiktok.com##a[href*="/@alice_weidel_afd" i]
-www.youtube.com##a[href*="/@Nicolas_Bay" i]
-youtube.com##a[href*="/@Nicolas_Bay" i]
-www.youtube.com##a[href*="/channel/UC_dZp8bZipnjntBGLVHm6rw" i]
-youtube.com##a[href*="/channel/UC_dZp8bZipnjntBGLVHm6rw" i]
-www.tiktok.com##a[href*="/@deutschland833" i]
-tiktok.com##a[href*="/@deutschland833" i]
-www.x.com##a[href*="/MLP_officiel" i]
-x.com##a[href*="/MLP_officiel" i]
-www.instagram.com##a[href*="/afd_jugend_leipzig" i]
-instagram.com##a[href*="/afd_jugend_leipzig" i]
-www.tiktok.com##a[href*="/@afd_die1" i]
-tiktok.com##a[href*="/@afd_die1" i]
-www.youtube.com##a[href*="/channel/UCeP-mETJStV6mg34dfUl6rA" i]
-youtube.com##a[href*="/channel/UCeP-mETJStV6mg34dfUl6rA" i]
-www.tiktok.com##a[href*="/@vive.le.rassemble" i]
-tiktok.com##a[href*="/@vive.le.rassemble" i]
-www.cafepress.com##a[href*="/shop/wodanesdag" i]
-cafepress.com##a[href*="/shop/wodanesdag" i]
-www.instagram.com##a[href*="/docbrandenburg" i]
-instagram.com##a[href*="/docbrandenburg" i]
-www.instagram.com##a[href*="/petr.bystron" i]
-instagram.com##a[href*="/petr.bystron" i]
-www.tiktok.com##a[href*="/@www.afd.de" i]
-tiktok.com##a[href*="/@www.afd.de" i]
-www.tiktok.com##a[href*="/@afdfraktion_im_bundestag" i]
-tiktok.com##a[href*="/@afdfraktion_im_bundestag" i]
-www.youtube.com##a[href*="/channel/UCVXqMg5NOK5z8dwtzqRcMNg" i]
-youtube.com##a[href*="/channel/UCVXqMg5NOK5z8dwtzqRcMNg" i]
-www.tiktok.com##a[href*="/@afd000002" i]
-tiktok.com##a[href*="/@afd000002" i]
-www.facebook.com##a[href*="/TinoAfD" i]
-facebook.com##a[href*="/TinoAfD" i]
-www.tiktok.com##a[href*="/@rivoslwmpez" i]
-tiktok.com##a[href*="/@rivoslwmpez" i]
-www.tiktok.com##a[href*="/@afdfraktionimbundestag" i]
-tiktok.com##a[href*="/@afdfraktionimbundestag" i]
-www.tiktok.com##a[href*="/@afdwuppertal" i]
-tiktok.com##a[href*="/@afdwuppertal" i]
-www.tiktok.com##a[href*="/@afd_jibbit" i]
-tiktok.com##a[href*="/@afd_jibbit" i]
-www.instagram.com##a[href*="/pascal.pfannes" i]
-instagram.com##a[href*="/pascal.pfannes" i]
-www.facebook.com##a[href*="/BeatrixVonStorch" i]
-facebook.com##a[href*="/BeatrixVonStorch" i]
-www.t.me##a[href*="/WeichreiteKanal" i]
-t.me##a[href*="/WeichreiteKanal" i]
-www.x.com##a[href*="/HilaireBouye" i]
-x.com##a[href*="/HilaireBouye" i]
-www.tiktok.com##a[href*="/@rassemblementnational88" i]
-tiktok.com##a[href*="/@rassemblementnational88" i]
-www.instagram.com##a[href*="/fpoe_tv" i]
-instagram.com##a[href*="/fpoe_tv" i]
-www.t.me##a[href*="/reconquete_off" i]
-t.me##a[href*="/reconquete_off" i]
-www.facebook.com##a[href*="/afdleipzig" i]
-facebook.com##a[href*="/afdleipzig" i]
-www.tiktok.com##a[href*="/@rassemblement.national" i]
-tiktok.com##a[href*="/@rassemblement.national" i]
-www.tiktok.com##a[href*="/@rassemblementnational28" i]
-tiktok.com##a[href*="/@rassemblementnational28" i]
-www.youtube.com##a[href*="/channel/UCOgZkiqXxUH6YwJ4c_qaCTw" i]
-youtube.com##a[href*="/channel/UCOgZkiqXxUH6YwJ4c_qaCTw" i]
+www.youtube.com##a[href*="/@afdkreisverbandheidekreis6286" i]
+youtube.com##a[href*="/@afdkreisverbandheidekreis6286" i]
+www.facebook.com##a[href*="/DrBerndBaumann" i]
+facebook.com##a[href*="/DrBerndBaumann" i]
+www.instagram.com##a[href*="/generation_zemmour" i]
+instagram.com##a[href*="/generation_zemmour" i]
+www.tiktok.com##a[href*="/@zemmour_eric" i]
+tiktok.com##a[href*="/@zemmour_eric" i]
 www.facebook.com##a[href*="/ZemmourEric" i]
 facebook.com##a[href*="/ZemmourEric" i]
-www.x.com##a[href*="/ZemmourEric" i]
-x.com##a[href*="/ZemmourEric" i]
-www.facebook.com##a[href*="/AfD.Dithmarschen" i]
-facebook.com##a[href*="/AfD.Dithmarschen" i]
-www.x.com##a[href*="/marc_jongen" i]
-x.com##a[href*="/marc_jongen" i]
-www.x.com##a[href*="/FPOE_TV" i]
-x.com##a[href*="/FPOE_TV" i]
-www.tiktok.com##a[href*="/@afd_ostdeutschland" i]
-tiktok.com##a[href*="/@afd_ostdeutschland" i]
-www.tiktok.com##a[href*="/@mutzurwahrheit90" i]
-tiktok.com##a[href*="/@mutzurwahrheit90" i]
-www.instagram.com##a[href*="/weichreitetv" i]
-instagram.com##a[href*="/weichreitetv" i]
-www.youtube.com##a[href*="/@MarineLePenOfficiel" i]
-youtube.com##a[href*="/@MarineLePenOfficiel" i]
-www.facebook.com##a[href*="/afd.rheinsieg" i]
-facebook.com##a[href*="/afd.rheinsieg" i]
-www.instagram.com##a[href*="/marykhan194" i]
-instagram.com##a[href*="/marykhan194" i]
-www.tiktok.com##a[href*="/@afdbayernlv" i]
-tiktok.com##a[href*="/@afdbayernlv" i]
-www.instagram.com##a[href*="/herbertkickl" i]
-instagram.com##a[href*="/herbertkickl" i]
-www.instagram.com##a[href*="/AfDimBundestag" i]
-instagram.com##a[href*="/AfDimBundestag" i]
-www.tiktok.com##a[href*="/@kaivo16" i]
-tiktok.com##a[href*="/@kaivo16" i]
-www.t.me##a[href*="/Reichsfoto" i]
-t.me##a[href*="/Reichsfoto" i]
-www.x.com##a[href*="/docbrandenburg" i]
-x.com##a[href*="/docbrandenburg" i]
-www.theplattform.net##a[href*="/c/paulbrandenburg.com" i]
-theplattform.net##a[href*="/c/paulbrandenburg.com" i]
-www.instagram.com##a[href*="/irmhildbossdorf.afd" i]
-instagram.com##a[href*="/irmhildbossdorf.afd" i]
-www.youtube.com##a[href*="/shorts/6B2i5cKgVco" i]
-youtube.com##a[href*="/shorts/6B2i5cKgVco" i]
-www.instagram.com##a[href*="/alexanderjungbluth" i]
-instagram.com##a[href*="/alexanderjungbluth" i]
-www.x.com##a[href*="/PatriotsEP" i]
-x.com##a[href*="/PatriotsEP" i]
-www.youtube.com##a[href*="/@AfDAktuell" i]
-youtube.com##a[href*="/@AfDAktuell" i]
-www.tiktok.com##a[href*="/@afd_bestofclips" i]
-tiktok.com##a[href*="/@afd_bestofclips" i]
-www.tiktok.com##a[href*="/@tomy.327glas" i]
-tiktok.com##a[href*="/@tomy.327glas" i]
-www.x.com##a[href*="/GenZemmour" i]
-x.com##a[href*="/GenZemmour" i]
-whatsapp.com##a[href*="/channel/0029VaCeyss9Gv7M7MQiQm3C" i]
-www.whatsapp.com##a[href*="/channel/0029VaCeyss9Gv7M7MQiQm3C" i]
-www.youtube.com##a[href*="/@Andreash7811" i]
-youtube.com##a[href*="/@Andreash7811" i]
-www.facebook.com##a[href*="/GenerationZemmour" i]
-facebook.com##a[href*="/GenerationZemmour" i]
-www.tiktok.com##a[href*="/@afd3761" i]
-tiktok.com##a[href*="/@afd3761" i]
-www.facebook.com##a[href*="/fpoe" i]
-facebook.com##a[href*="/fpoe" i]
-www.facebook.com##a[href*="/joernkoenig" i]
-facebook.com##a[href*="/joernkoenig" i]
-www.t.me##a[href*="/reneaust" i]
-t.me##a[href*="/reneaust" i]
-www.x.com##a[href*="/tesla" i]
-x.com##a[href*="/tesla" i]
-www.tiktok.com##a[href*="/@bjoernhoecke" i]
-tiktok.com##a[href*="/@bjoernhoecke" i]
-www.tiktok.com##a[href*="/@rassemblementnational29" i]
-tiktok.com##a[href*="/@rassemblementnational29" i]
-www.tiktok.com##a[href*="/@rassemblement_national09" i]
-tiktok.com##a[href*="/@rassemblement_national09" i]
-www.tiktok.com##a[href*="/@afdseit2013" i]
-tiktok.com##a[href*="/@afdseit2013" i]
-www.tiktok.com##a[href*="/@tomasz.froelich" i]
-tiktok.com##a[href*="/@tomasz.froelich" i]
 www.t.me##a[href*="/Nicolas_Bay" i]
 t.me##a[href*="/Nicolas_Bay" i]
-www.instagram.com##a[href*="/marine_lepen" i]
-instagram.com##a[href*="/marine_lepen" i]
-www.youtube.com##a[href*="/@AfDimEUParlament" i]
-youtube.com##a[href*="/@AfDimEUParlament" i]
-www.facebook.com##a[href*="/TomaszFroelich" i]
-facebook.com##a[href*="/TomaszFroelich" i]
+www.tiktok.com##a[href*="/@rassemblementnational29" i]
+tiktok.com##a[href*="/@rassemblementnational29" i]
+www.t.me##a[href*="/reneaust" i]
+t.me##a[href*="/reneaust" i]
+www.tiktok.com##a[href*="/@presidentielle_2027" i]
+tiktok.com##a[href*="/@presidentielle_2027" i]
+www.facebook.com##a[href*="/AfDHeide" i]
+facebook.com##a[href*="/AfDHeide" i]
+www.facebook.com##a[href*="/buchheit.markus" i]
+facebook.com##a[href*="/buchheit.markus" i]
+www.x.com##a[href*="/docbrandenburg" i]
+x.com##a[href*="/docbrandenburg" i]
+www.youtube.com##a[href*="/channel/UCeP-mETJStV6mg34dfUl6rA" i]
+youtube.com##a[href*="/channel/UCeP-mETJStV6mg34dfUl6rA" i]
+www.tiktok.com##a[href*="/@www.afd.de" i]
+tiktok.com##a[href*="/@www.afd.de" i]
+www.tiktok.com##a[href*="/@mutzurwahrheit90" i]
+tiktok.com##a[href*="/@mutzurwahrheit90" i]
+www.t.me##a[href*="/generationzemmour" i]
+t.me##a[href*="/generationzemmour" i]
+www.youtube.com##a[href*="/channel/UCU3z3px1_RCqYBwrs8LJVWg" i]
+youtube.com##a[href*="/channel/UCU3z3px1_RCqYBwrs8LJVWg" i]
+www.tiktok.com##a[href*="/@afdedits25" i]
+tiktok.com##a[href*="/@afdedits25" i]
+www.x.com##a[href*="/BuchheitMarkus" i]
+x.com##a[href*="/BuchheitMarkus" i]
+www.whatsapp.com##a[href*="/channel/0029VbBjgrrFsn0d2kpktt44" i]
+whatsapp.com##a[href*="/channel/0029VbBjgrrFsn0d2kpktt44" i]
+www.youtube.com##a[href*="/@generationz1266" i]
+youtube.com##a[href*="/@generationz1266" i]
+www.tiktok.com##a[href*="/@afdfraktionsachsenanhalt" i]
+tiktok.com##a[href*="/@afdfraktionsachsenanhalt" i]
+www.x.com##a[href*="/FPOE_TV" i]
+x.com##a[href*="/FPOE_TV" i]
+www.instagram.com##a[href*="/weichreitetv" i]
+instagram.com##a[href*="/weichreitetv" i]
+www.tiktok.com##a[href*="/@rassemblementnational88" i]
+tiktok.com##a[href*="/@rassemblementnational88" i]
+www.instagram.com##a[href*="/anja.arndt.afd" i]
+instagram.com##a[href*="/anja.arndt.afd" i]
+www.tiktok.com##a[href*="/@julienodoul" i]
+tiktok.com##a[href*="/@julienodoul" i]
+www.t.me##a[href*="/s/auf1tv" i]
+t.me##a[href*="/s/auf1tv" i]
 www.facebook.com##a[href*="/paulbrandenburgcom" i]
 facebook.com##a[href*="/paulbrandenburgcom" i]
-www.facebook.com##a[href*="/Dr.MarcJongen" i]
-facebook.com##a[href*="/Dr.MarcJongen" i]
+www.youtube.com##a[href*="/channel/UCyw8Tkb44AGA2eB8K9fRioQ" i]
+youtube.com##a[href*="/channel/UCyw8Tkb44AGA2eB8K9fRioQ" i]
 www.tiktok.com##a[href*="/@rnational_92" i]
 tiktok.com##a[href*="/@rnational_92" i]
-www.tiktok.com##a[href*="/@drberndbaumann" i]
-tiktok.com##a[href*="/@drberndbaumann" i]
-www.youtube.com##a[href*="/channel/UCq2rogaxLtQFrYG3X3KYNww" i]
-youtube.com##a[href*="/channel/UCq2rogaxLtQFrYG3X3KYNww" i]
-www.facebook.com##a[href*="/Christine.Anderson.AfD" i]
-facebook.com##a[href*="/Christine.Anderson.AfD" i]
+www.tiktok.com##a[href*="/@lerassemblementnational" i]
+tiktok.com##a[href*="/@lerassemblementnational" i]
+www.t.me##a[href*="/EricZemmourOfficiel" i]
+t.me##a[href*="/EricZemmourOfficiel" i]
+www.instagram.com##a[href*="/nicolas_bay_fn" i]
+instagram.com##a[href*="/nicolas_bay_fn" i]
+www.instagram.com##a[href*="/afd_jugend_leipzig" i]
+instagram.com##a[href*="/afd_jugend_leipzig" i]
+www.youtube.com##a[href*="/channel/UCO3Rpw8jHn32aiUFOHYh_gQ" i]
+youtube.com##a[href*="/channel/UCO3Rpw8jHn32aiUFOHYh_gQ" i]
+www.youtube.com##a[href*="/c/PetrBystronAfD" i]
+youtube.com##a[href*="/c/PetrBystronAfD" i]
+www.x.com##a[href*="/realDonaldTrump" i]
+x.com##a[href*="/realDonaldTrump" i]
+www.youtube.com##a[href*="/@Nicolas_Bay" i]
+youtube.com##a[href*="/@Nicolas_Bay" i]
+www.youtube.com##a[href*="/@unionnationale" i]
+youtube.com##a[href*="/@unionnationale" i]
+www.youtube.com##a[href*="/shorts/6B2i5cKgVco" i]
+youtube.com##a[href*="/shorts/6B2i5cKgVco" i]
+www.x.com##a[href*="/LxdxaxF" i]
+x.com##a[href*="/LxdxaxF" i]
+www.tiktok.com##a[href*="/@afdbayernlv" i]
+tiktok.com##a[href*="/@afdbayernlv" i]
+www.tiktok.com##a[href*="/@kaivo16" i]
+tiktok.com##a[href*="/@kaivo16" i]
+www.tiktok.com##a[href*="/@afd3761" i]
+tiktok.com##a[href*="/@afd3761" i]
+www.facebook.com##a[href*="/afddresden" i]
+facebook.com##a[href*="/afddresden" i]
+www.x.com##a[href*="/GenZemmour" i]
+x.com##a[href*="/GenZemmour" i]
+www.youtube.com##a[href*="/@AfDAktuell" i]
+youtube.com##a[href*="/@AfDAktuell" i]
+www.facebook.com##a[href*="/MarineLePen" i]
+facebook.com##a[href*="/MarineLePen" i]
+www.tiktok.com##a[href*="/@afd.zerbst" i]
+tiktok.com##a[href*="/@afd.zerbst" i]
+www.twitch.tv##a[href*="/weichreite" i]
+twitch.tv##a[href*="/weichreite" i]
+www.tiktok.com##a[href*="/@svenhaemischafd" i]
+tiktok.com##a[href*="/@svenhaemischafd" i]
+www.tiktok.com##a[href*="/@mr_afd" i]
+tiktok.com##a[href*="/@mr_afd" i]
+www.tiktok.com##a[href*="/@muenzenmaier" i]
+tiktok.com##a[href*="/@muenzenmaier" i]
+www.tiktok.com##a[href*="/@afdsupport3" i]
+tiktok.com##a[href*="/@afdsupport3" i]
+www.tiktok.com##a[href*="/@rnational_off" i]
+tiktok.com##a[href*="/@rnational_off" i]
+www.facebook.com##a[href*="/herbertkickl" i]
+facebook.com##a[href*="/herbertkickl" i]
+www.t.me##a[href*="/paulbrandenburg" i]
+t.me##a[href*="/paulbrandenburg" i]
 www.instagram.com##a[href*="/hilaire_bouye" i]
 instagram.com##a[href*="/hilaire_bouye" i]
+www.tiktok.com##a[href*="/@afd.supporter" i]
+tiktok.com##a[href*="/@afd.supporter" i]
+www.t.me##a[href*="/HKickl" i]
+t.me##a[href*="/HKickl" i]
+www.tiktok.com##a[href*="/@afd9489" i]
+tiktok.com##a[href*="/@afd9489" i]
+www.x.com##a[href*="/AfD" i]
+x.com##a[href*="/AfD" i]
 www.x.com##a[href*="/Rene_Aust" i]
 x.com##a[href*="/Rene_Aust" i]
-www.facebook.com##a[href*="/NicolasBayFN" i]
-facebook.com##a[href*="/NicolasBayFN" i]
-www.instagram.com##a[href*="/afd_mh" i]
-instagram.com##a[href*="/afd_mh" i]
-www.facebook.com##a[href*="/reconquete2022" i]
-facebook.com##a[href*="/reconquete2022" i]
+www.x.com##a[href*="/Tino_Chrupalla" i]
+x.com##a[href*="/Tino_Chrupalla" i]
+www.instagram.com##a[href*="/alexanderjungbluth" i]
+instagram.com##a[href*="/alexanderjungbluth" i]
+www.facebook.com##a[href*="/alternativefuerde" i]
+facebook.com##a[href*="/alternativefuerde" i]
+www.tiktok.com##a[href*="/@auto_enchere" i]
+tiktok.com##a[href*="/@auto_enchere" i]
+www.youtube.com##a[href*="/@afdfraktionimbundestag" i]
+youtube.com##a[href*="/@afdfraktionimbundestag" i]
+www.tiktok.com##a[href*="/@rassemblementnational04" i]
+tiktok.com##a[href*="/@rassemblementnational04" i]
+www.theplattform.net##a[href*="/c/paulbrandenburg.com" i]
+theplattform.net##a[href*="/c/paulbrandenburg.com" i]
+www.instagram.com##a[href*="/afd.bund" i]
+instagram.com##a[href*="/afd.bund" i]
+www.instagram.com##a[href*="/AfDimBundestag" i]
+instagram.com##a[href*="/AfDimBundestag" i]
+www.instagram.com##a[href*="/arnobausemer" i]
+instagram.com##a[href*="/arnobausemer" i]
+www.youtube.com##a[href*="/channel/UCOgZkiqXxUH6YwJ4c_qaCTw" i]
+youtube.com##a[href*="/channel/UCOgZkiqXxUH6YwJ4c_qaCTw" i]
+www.whatsapp.com##a[href*="/channel/0029VaUxHcI5EjxzMqIv8r1q" i]
+whatsapp.com##a[href*="/channel/0029VaUxHcI5EjxzMqIv8r1q" i]
+www.t.me##a[href*="/afddresden" i]
+t.me##a[href*="/afddresden" i]
+www.tiktok.com##a[href*="/@afd_die1" i]
+tiktok.com##a[href*="/@afd_die1" i]
+fr.pinterest.com##a[href*="/zemmoureric" i]
+www.fr.pinterest.com##a[href*="/zemmoureric" i]
+www.tiktok.com##a[href*="/@afd_jibbit" i]
+tiktok.com##a[href*="/@afd_jibbit" i]
+www.tiktok.com##a[href*="/@drberndbaumann" i]
+tiktok.com##a[href*="/@drberndbaumann" i]
+www.youtube.com##a[href*="/@auf1tv" i]
+youtube.com##a[href*="/@auf1tv" i]
+www.facebook.com##a[href*="/ReneAustAfD/" i]
+facebook.com##a[href*="/ReneAustAfD/" i]
+www.x.com##a[href*="/Reconquete_off" i]
+x.com##a[href*="/Reconquete_off" i]
+www.x.com##a[href*="/AfDimBundestag" i]
+x.com##a[href*="/AfDimBundestag" i]
+www.x.com##a[href*="/AlexJungbluth" i]
+x.com##a[href*="/AlexJungbluth" i]
+www.tiktok.com##a[href*="/@afdwuppertal" i]
+tiktok.com##a[href*="/@afdwuppertal" i]
+www.instagram.com##a[href*="/pascal.pfannes" i]
+instagram.com##a[href*="/pascal.pfannes" i]
+www.x.com##a[href*="/ZemmourEric" i]
+x.com##a[href*="/ZemmourEric" i]
+www.facebook.com##a[href*="/GenerationZemmour" i]
+facebook.com##a[href*="/GenerationZemmour" i]
+www.x.com##a[href*="/SiegbertDroese" i]
+x.com##a[href*="/SiegbertDroese" i]
+www.tiktok.com##a[href*="/@afd889" i]
+tiktok.com##a[href*="/@afd889" i]
 www.youtube.com##a[href*="/@reconqueteloiret3220" i]
 youtube.com##a[href*="/@reconqueteloiret3220" i]
-www.facebook.com##html:matches-path(/AfDHeide/i)
-facebook.com##html:matches-path(/AfDHeide/i)
-www.facebook.com##html:matches-path(/alternativefuerde/i)
-facebook.com##html:matches-path(/alternativefuerde/i)
-www.tiktok.com##html:matches-path(/@afdfraktionsachsenanhalt/i)
-tiktok.com##html:matches-path(/@afdfraktionsachsenanhalt/i)
-www.tiktok.com##html:matches-path(/@tino\.chrupalla\.afd/i)
-tiktok.com##html:matches-path(/@tino\.chrupalla\.afd/i)
-www.youtube.com##html:matches-path(/channel\/UCyw8Tkb44AGA2eB8K9fRioQ/i)
-youtube.com##html:matches-path(/channel\/UCyw8Tkb44AGA2eB8K9fRioQ/i)
-www.tiktok.com##html:matches-path(/@rn2027ourien/i)
-tiktok.com##html:matches-path(/@rn2027ourien/i)
-www.instagram.com##html:matches-path(/reconquete_officiel/i)
-instagram.com##html:matches-path(/reconquete_officiel/i)
-www.tiktok.com##html:matches-path(/@gemeinsamblau/i)
-tiktok.com##html:matches-path(/@gemeinsamblau/i)
-www.youtube.com##html:matches-path(/@PaulBrandenburgCom/i)
-youtube.com##html:matches-path(/@PaulBrandenburgCom/i)
-radio.de##html:matches-path(/podcast\/nacktes\-geld/i)
-www.radio.de##html:matches-path(/podcast\/nacktes\-geld/i)
-www.facebook.com##html:matches-path(/arno\.bausemer/i)
-facebook.com##html:matches-path(/arno\.bausemer/i)
-radio.de##html:matches-path(/podcast\/nachschlag3/i)
-www.radio.de##html:matches-path(/podcast\/nachschlag3/i)
-www.t.me##html:matches-path(/paulbrandenburg/i)
-t.me##html:matches-path(/paulbrandenburg/i)
-www.tiktok.com##html:matches-path(/@afd\.nrw/i)
-tiktok.com##html:matches-path(/@afd\.nrw/i)
-www.tiktok.com##html:matches-path(/@miguel_klauss/i)
-tiktok.com##html:matches-path(/@miguel_klauss/i)
-www.tiktok.com##html:matches-path(/@michael49\.49\.2/i)
-tiktok.com##html:matches-path(/@michael49\.49\.2/i)
-www.tiktok.com##html:matches-path(/@rassemblement\.national88/i)
-tiktok.com##html:matches-path(/@rassemblement\.national88/i)
-www.tiktok.com##html:matches-path(/@gabrielle\.mailbeck\.afd/i)
-tiktok.com##html:matches-path(/@gabrielle\.mailbeck\.afd/i)
-www.tiktok.com##html:matches-path(/@presidentielle_2027/i)
-tiktok.com##html:matches-path(/@presidentielle_2027/i)
-www.tiktok.com##html:matches-path(/@afd\.zerbst/i)
-tiktok.com##html:matches-path(/@afd\.zerbst/i)
-www.tiktok.com##html:matches-path(/@muenzenmaier/i)
-tiktok.com##html:matches-path(/@muenzenmaier/i)
-whatsapp.com##html:matches-path(/channel\/0029VbBjgrrFsn0d2kpktt44/i)
-www.whatsapp.com##html:matches-path(/channel\/0029VbBjgrrFsn0d2kpktt44/i)
-www.instagram.com##html:matches-path(/afd\.bund/i)
-instagram.com##html:matches-path(/afd\.bund/i)
-www.x.com##html:matches-path(/AfD/i)
-x.com##html:matches-path(/AfD/i)
-www.tiktok.com##html:matches-path(/@mr_afd/i)
-tiktok.com##html:matches-path(/@mr_afd/i)
-www.tiktok.com##html:matches-path(/@afddeutschland10/i)
-tiktok.com##html:matches-path(/@afddeutschland10/i)
-www.x.com##html:matches-path(/Tino_Chrupalla/i)
-x.com##html:matches-path(/Tino_Chrupalla/i)
-www.x.com##html:matches-path(/NicolasBay_/i)
-x.com##html:matches-path(/NicolasBay_/i)
-www.tiktok.com##html:matches-path(/@afd\.support/i)
-tiktok.com##html:matches-path(/@afd\.support/i)
-www.x.com##html:matches-path(/AfDimBundestag/i)
-x.com##html:matches-path(/AfDimBundestag/i)
-www.tiktok.com##html:matches-path(/@afd_brandenburg/i)
-tiktok.com##html:matches-path(/@afd_brandenburg/i)
-www.youtube.com##html:matches-path(/channel\/UCU3z3px1_RCqYBwrs8LJVWg/i)
-youtube.com##html:matches-path(/channel\/UCU3z3px1_RCqYBwrs8LJVWg/i)
-www.tiktok.com##html:matches-path(/@svenhaemischafd/i)
-tiktok.com##html:matches-path(/@svenhaemischafd/i)
-www.tiktok.com##html:matches-path(/@zemmour_eric/i)
-tiktok.com##html:matches-path(/@zemmour_eric/i)
-www.tiktok.com##html:matches-path(/@afdedits25/i)
-tiktok.com##html:matches-path(/@afdedits25/i)
-www.instagram.com##html:matches-path(/patriotsep/i)
-instagram.com##html:matches-path(/patriotsep/i)
-www.tiktok.com##html:matches-path(/@rassemblementnatinonal/i)
-tiktok.com##html:matches-path(/@rassemblementnatinonal/i)
-apps.apple.com##html:matches-path(/app\/truth\-social\/id1586018825/i)
-www.apps.apple.com##html:matches-path(/app\/truth\-social\/id1586018825/i)
-www.facebook.com##html:matches-path(/PatriotsEP/i)
-facebook.com##html:matches-path(/PatriotsEP/i)
-www.youtube.com##html:matches-path(/channel\/UCO3Rpw8jHn32aiUFOHYh_gQ/i)
-youtube.com##html:matches-path(/channel\/UCO3Rpw8jHn32aiUFOHYh_gQ/i)
-www.youtube.com##html:matches-path(/@dr\.marcjongenmdbafd8192/i)
-youtube.com##html:matches-path(/@dr\.marcjongenmdbafd8192/i)
-www.t.me##html:matches-path(/afdfraktionimbundestag/i)
-t.me##html:matches-path(/afdfraktionimbundestag/i)
-www.tiktok.com##html:matches-path(/@afd_rheinland_pfalz/i)
-tiktok.com##html:matches-path(/@afd_rheinland_pfalz/i)
-www.tiktok.com##html:matches-path(/@fpoe_at/i)
-tiktok.com##html:matches-path(/@fpoe_at/i)
-www.facebook.com##html:matches-path(/buchheit\.markus/i)
-facebook.com##html:matches-path(/buchheit\.markus/i)
-www.tiktok.com##html:matches-path(/@afd9489/i)
-tiktok.com##html:matches-path(/@afd9489/i)
-www.instagram.com##html:matches-path(/fpoe_at/i)
-instagram.com##html:matches-path(/fpoe_at/i)
-www.youtube.com##html:matches-path(/@protegeonsnosenfants2351/i)
-youtube.com##html:matches-path(/@protegeonsnosenfants2351/i)
-www.instagram.com##html:matches-path(/matzerathm/i)
-instagram.com##html:matches-path(/matzerathm/i)
-www.facebook.com##html:matches-path(/AfDFraktionLeipzig/i)
-facebook.com##html:matches-path(/AfDFraktionLeipzig/i)
-www.tiktok.com##html:matches-path(/@lena\.kotre/i)
-tiktok.com##html:matches-path(/@lena\.kotre/i)
-www.facebook.com##html:matches-path(/DrBerndBaumann/i)
-facebook.com##html:matches-path(/DrBerndBaumann/i)
-www.tiktok.com##html:matches-path(/@lernetlapolitique/i)
-tiktok.com##html:matches-path(/@lernetlapolitique/i)
-www.youtube.com##html:matches-path(/@generationz1266/i)
-youtube.com##html:matches-path(/@generationz1266/i)
-www.tiktok.com##html:matches-path(/@_rassemblement_national_/i)
-tiktok.com##html:matches-path(/@_rassemblement_national_/i)
-www.tiktok.com##html:matches-path(/@rasemblementnational/i)
-tiktok.com##html:matches-path(/@rasemblementnational/i)
-www.youtube.com##html:matches-path(/@Weichreite/i)
-youtube.com##html:matches-path(/@Weichreite/i)
-www.tiktok.com##html:matches-path(/@petrbystronafd/i)
-tiktok.com##html:matches-path(/@petrbystronafd/i)
-www.tiktok.com##html:matches-path(/@lafrancerevient/i)
-tiktok.com##html:matches-path(/@lafrancerevient/i)
-www.facebook.com##html:matches-path(/ReneAustAfD\//i)
-facebook.com##html:matches-path(/ReneAustAfD\//i)
-linktr.ee##html:matches-path(/herbertkickl/i)
-www.linktr.ee##html:matches-path(/herbertkickl/i)
-www.t.me##html:matches-path(/tomaszfroelich/i)
-t.me##html:matches-path(/tomaszfroelich/i)
-www.t.me##html:matches-path(/HKickl/i)
-t.me##html:matches-path(/HKickl/i)
-www.pinterest.com##html:matches-path(/zemmoureric/i)
-pinterest.com##html:matches-path(/zemmoureric/i)
-www.x.com##html:matches-path(/realDonaldTrump/i)
-x.com##html:matches-path(/realDonaldTrump/i)
-www.tiktok.com##html:matches-path(/@rassemblementnational04/i)
-tiktok.com##html:matches-path(/@rassemblementnational04/i)
-www.youtube.com##html:matches-path(/@reneausteu/i)
-youtube.com##html:matches-path(/@reneausteu/i)
-www.t.me##html:matches-path(/freiheitstrychlerde/i)
-t.me##html:matches-path(/freiheitstrychlerde/i)
-www.instagram.com##html:matches-path(/ericzemmour_/i)
-instagram.com##html:matches-path(/ericzemmour_/i)
-www.youtube.com##html:matches-path(/channel\/UC\-y7GfmlOsfUyDkkLEakz4Q/i)
-youtube.com##html:matches-path(/channel\/UC\-y7GfmlOsfUyDkkLEakz4Q/i)
-www.tiktok.com##html:matches-path(/@unionpourtous/i)
-tiktok.com##html:matches-path(/@unionpourtous/i)
-fr.pinterest.com##html:matches-path(/zemmoureric/i)
-www.fr.pinterest.com##html:matches-path(/zemmoureric/i)
-www.tiktok.com##html:matches-path(/@rnrassemblement_national/i)
-tiktok.com##html:matches-path(/@rnrassemblement_national/i)
-www.tiktok.com##html:matches-path(/@afd_fan_2013/i)
-tiktok.com##html:matches-path(/@afd_fan_2013/i)
-www.youtube.com##html:matches-path(/channel\/UCRdEdkAlZetdf74bYaBRv3g/i)
-youtube.com##html:matches-path(/channel\/UCRdEdkAlZetdf74bYaBRv3g/i)
-radio.de##html:matches-path(/podcast\/nacktes\-niveau/i)
-www.radio.de##html:matches-path(/podcast\/nacktes\-niveau/i)
-www.youtube.com##html:matches-path(/c\/AfDKanal/i)
-youtube.com##html:matches-path(/c\/AfDKanal/i)
-www.tiktok.com##html:matches-path(/@afd000003/i)
-tiktok.com##html:matches-path(/@afd000003/i)
-www.tiktok.com##html:matches-path(/@afd_im_erftkreis/i)
-tiktok.com##html:matches-path(/@afd_im_erftkreis/i)
-www.tiktok.com##html:matches-path(/@alexanderjungbluth/i)
-tiktok.com##html:matches-path(/@alexanderjungbluth/i)
-www.tiktok.com##html:matches-path(/@julienodoul/i)
-tiktok.com##html:matches-path(/@julienodoul/i)
-www.tiktok.com##html:matches-path(/@rassemblement_nat/i)
-tiktok.com##html:matches-path(/@rassemblement_nat/i)
-www.instagram.com##html:matches-path(/afd\.augsburgland/i)
-instagram.com##html:matches-path(/afd\.augsburgland/i)
-www.tiktok.com##html:matches-path(/@afd000001/i)
-tiktok.com##html:matches-path(/@afd000001/i)
-www.tiktok.com##html:matches-path(/@afd1185/i)
-tiktok.com##html:matches-path(/@afd1185/i)
-www.youtube.com##html:matches-path(/c\/PetrBystronAfD/i)
-youtube.com##html:matches-path(/c\/PetrBystronAfD/i)
-www.x.com##html:matches-path(/AlexJungbluth/i)
-x.com##html:matches-path(/AlexJungbluth/i)
-www.tiktok.com##html:matches-path(/@afdsupport3/i)
-tiktok.com##html:matches-path(/@afdsupport3/i)
-www.tiktok.com##html:matches-path(/@afd\.kv\.erding/i)
-tiktok.com##html:matches-path(/@afd\.kv\.erding/i)
-www.tiktok.com##html:matches-path(/@blaugedacht/i)
-tiktok.com##html:matches-path(/@blaugedacht/i)
-www.tiktok.com##html:matches-path(/@afddddddt1905/i)
-tiktok.com##html:matches-path(/@afddddddt1905/i)
-www.t.me##html:matches-path(/afddresden/i)
-t.me##html:matches-path(/afddresden/i)
-www.tiktok.com##html:matches-path(/@real_german/i)
-tiktok.com##html:matches-path(/@real_german/i)
-www.youtube.com##html:matches-path(/@markusbuchheit3541/i)
-youtube.com##html:matches-path(/@markusbuchheit3541/i)
-www.x.com##html:matches-path(/MarkusMatzerath/i)
-x.com##html:matches-path(/MarkusMatzerath/i)
-whatsapp.com##html:matches-path(/channel\/0029VaUxHcI5EjxzMqIv8r1q/i)
-www.whatsapp.com##html:matches-path(/channel\/0029VaUxHcI5EjxzMqIv8r1q/i)
-www.tiktok.com##html:matches-path(/@afd_goeppingen/i)
-tiktok.com##html:matches-path(/@afd_goeppingen/i)
-www.x.com##html:matches-path(/weichreite/i)
-x.com##html:matches-path(/weichreite/i)
-www.t.me##html:matches-path(/alexanderjungbluthafd/i)
-t.me##html:matches-path(/alexanderjungbluthafd/i)
-www.tiktok.com##html:matches-path(/@dachauafdkreisverband/i)
-tiktok.com##html:matches-path(/@dachauafdkreisverband/i)
-www.instagram.com##html:matches-path(/markus\.buchheit/i)
-instagram.com##html:matches-path(/markus\.buchheit/i)
-www.x.com##html:matches-path(/LxdxaxF/i)
-x.com##html:matches-path(/LxdxaxF/i)
+www.tiktok.com##a[href*="/@afd0143" i]
+tiktok.com##a[href*="/@afd0143" i]
+linktr.ee##a[href*="/fpoe" i]
+www.linktr.ee##a[href*="/fpoe" i]
+www.youtube.com##a[href*="/channel/UC-y7GfmlOsfUyDkkLEakz4Q" i]
+youtube.com##a[href*="/channel/UC-y7GfmlOsfUyDkkLEakz4Q" i]
+www.t.me##a[href*="/WeichreiteKanal" i]
+t.me##a[href*="/WeichreiteKanal" i]
+www.tiktok.com##a[href*="/@rasemblementnational" i]
+tiktok.com##a[href*="/@rasemblementnational" i]
+www.youtube.com##a[href*="/@linas.7782" i]
+youtube.com##a[href*="/@linas.7782" i]
+www.tiktok.com##a[href*="/@alexanderjungbluth" i]
+tiktok.com##a[href*="/@alexanderjungbluth" i]
+www.tiktok.com##a[href*="/@petrbystronafd" i]
+tiktok.com##a[href*="/@petrbystronafd" i]
+www.tiktok.com##a[href*="/@real_german" i]
+tiktok.com##a[href*="/@real_german" i]
+www.tiktok.com##a[href*="/@1966franki" i]
+tiktok.com##a[href*="/@1966franki" i]
+www.facebook.com##a[href*="/TomaszFroelich" i]
+facebook.com##a[href*="/TomaszFroelich" i]
+www.x.com##a[href*="/MarkusMatzerath" i]
+x.com##a[href*="/MarkusMatzerath" i]
+www.instagram.com##a[href*="/reneaust.afd" i]
+instagram.com##a[href*="/reneaust.afd" i]
+www.facebook.com##a[href*="/irmhild.bossdorf" i]
+facebook.com##a[href*="/irmhild.bossdorf" i]
+www.youtube.com##a[href*="/c/%C3%89ricZemmourOfficiel" i]
+youtube.com##a[href*="/c/%C3%89ricZemmourOfficiel" i]
+www.facebook.com##a[href*="/fpoe" i]
+facebook.com##a[href*="/fpoe" i]
+www.tiktok.com##a[href*="/@afd.kv.erding" i]
+tiktok.com##a[href*="/@afd.kv.erding" i]
+www.tiktok.com##a[href*="/@afd_kv_calw_freudenstadt" i]
+tiktok.com##a[href*="/@afd_kv_calw_freudenstadt" i]
+www.x.com##a[href*="/AdannMdL" i]
+x.com##a[href*="/AdannMdL" i]
+radio.de##a[href*="/podcast/nacktes-geld" i]
+www.radio.de##a[href*="/podcast/nacktes-geld" i]
+www.facebook.com##a[href*="/Alexander.Sell100" i]
+facebook.com##a[href*="/Alexander.Sell100" i]
+www.x.com##a[href*="/MLP_officiel" i]
+x.com##a[href*="/MLP_officiel" i]
+www.x.com##a[href*="/tesla" i]
+x.com##a[href*="/tesla" i]
+www.tiktok.com##a[href*="/@2027rn" i]
+tiktok.com##a[href*="/@2027rn" i]
+www.t.me##a[href*="/Reichsfoto" i]
+t.me##a[href*="/Reichsfoto" i]
+www.instagram.com##a[href*="/afd.augsburgland" i]
+instagram.com##a[href*="/afd.augsburgland" i]
+www.tiktok.com##a[href*="/@rassemblement_nat" i]
+tiktok.com##a[href*="/@rassemblement_nat" i]
+www.x.com##a[href*="/DrBerndBaumann" i]
+x.com##a[href*="/DrBerndBaumann" i]
+www.facebook.com##a[href*="/arno.bausemer" i]
+facebook.com##a[href*="/arno.bausemer" i]
+www.x.com##a[href*="/mary_khan94" i]
+x.com##a[href*="/mary_khan94" i]
+www.facebook.com##a[href*="/Regionalfernsehen" i]
+facebook.com##a[href*="/Regionalfernsehen" i]
+www.tiktok.com##a[href*="/@afddddddt1905" i]
+tiktok.com##a[href*="/@afddddddt1905" i]
+www.instagram.com##a[href*="/fpoe_tv" i]
+instagram.com##a[href*="/fpoe_tv" i]
+www.tiktok.com##a[href*="/@lena.kotre" i]
+tiktok.com##a[href*="/@lena.kotre" i]
+rumble.com##a[href*="/paulbrandenburgcom" i]
+www.rumble.com##a[href*="/paulbrandenburgcom" i]
+www.instagram.com##a[href*="/docbrandenburg" i]
+instagram.com##a[href*="/docbrandenburg" i]
+www.tiktok.com##a[href*="/@afd_goeppingen" i]
+tiktok.com##a[href*="/@afd_goeppingen" i]
+www.tiktok.com##a[href*="/@afd_rheinland_pfalz" i]
+tiktok.com##a[href*="/@afd_rheinland_pfalz" i]
+www.x.com##a[href*="/weichreite" i]
+x.com##a[href*="/weichreite" i]
+cafepress.com##a[href*="/shop/wodanesdag" i]
+www.cafepress.com##a[href*="/shop/wodanesdag" i]
+www.youtube.com##a[href*="/@reneausteu" i]
+youtube.com##a[href*="/@reneausteu" i]
+www.facebook.com##a[href*="/TinoAfD" i]
+facebook.com##a[href*="/TinoAfD" i]
+www.tiktok.com##a[href*="/@rn2027ourien" i]
+tiktok.com##a[href*="/@rn2027ourien" i]
+www.whatsapp.com##a[href*="/channel/0029VaCeyss9Gv7M7MQiQm3C" i]
+whatsapp.com##a[href*="/channel/0029VaCeyss9Gv7M7MQiQm3C" i]
+www.tiktok.com##a[href*="/@afd_ostdeutschland" i]
+tiktok.com##a[href*="/@afd_ostdeutschland" i]
+www.youtube.com##a[href*="/channel/UCRdEdkAlZetdf74bYaBRv3g" i]
+youtube.com##a[href*="/channel/UCRdEdkAlZetdf74bYaBRv3g" i]
+www.instagram.com##a[href*="/froelich.tomasz" i]
+instagram.com##a[href*="/froelich.tomasz" i]
+www.facebook.com##a[href*="/bystronpetr" i]
+facebook.com##a[href*="/bystronpetr" i]
+www.tiktok.com##a[href*="/@fpoe_at" i]
+tiktok.com##a[href*="/@fpoe_at" i]
+radio.de##a[href*="/podcast/nacktes-niveau" i]
+www.radio.de##a[href*="/podcast/nacktes-niveau" i]
+www.tiktok.com##a[href*="/@afd000003" i]
+tiktok.com##a[href*="/@afd000003" i]
+www.facebook.com##a[href*="/BeatrixVonStorch" i]
+facebook.com##a[href*="/BeatrixVonStorch" i]
+www.instagram.com##a[href*="/marine_lepen" i]
+instagram.com##a[href*="/marine_lepen" i]
+www.tiktok.com##a[href*="/@miguel_klauss" i]
+tiktok.com##a[href*="/@miguel_klauss" i]
+www.instagram.com##a[href*="/markus.buchheit" i]
+instagram.com##a[href*="/markus.buchheit" i]
+www.facebook.com##a[href*="/PatriotsEP" i]
+facebook.com##a[href*="/PatriotsEP" i]
+www.youtube.com##a[href*="/channel/UCVXqMg5NOK5z8dwtzqRcMNg" i]
+youtube.com##a[href*="/channel/UCVXqMg5NOK5z8dwtzqRcMNg" i]
+www.facebook.com##a[href*="/AfD.Leipzig" i]
+facebook.com##a[href*="/AfD.Leipzig" i]
+www.tiktok.com##a[href*="/@gabrielle.mailbeck.afd" i]
+tiktok.com##a[href*="/@gabrielle.mailbeck.afd" i]
+www.youtube.com##a[href*="/@markusbuchheit3541" i]
+youtube.com##a[href*="/@markusbuchheit3541" i]
+www.facebook.com##a[href*="/afd.rheinsieg" i]
+facebook.com##a[href*="/afd.rheinsieg" i]
+www.tiktok.com##a[href*="/@rassemblementnational28" i]
+tiktok.com##a[href*="/@rassemblementnational28" i]
+www.tiktok.com##a[href*="/@afd_brandenburg" i]
+tiktok.com##a[href*="/@afd_brandenburg" i]
+www.instagram.com##a[href*="/irmhildbossdorf.afd" i]
+instagram.com##a[href*="/irmhildbossdorf.afd" i]
+www.t.me##a[href*="/freiheitstrychlerde" i]
+t.me##a[href*="/freiheitstrychlerde" i]
+www.x.com##a[href*="/AndersonAfDMdEP" i]
+x.com##a[href*="/AndersonAfDMdEP" i]
+www.x.com##a[href*="/dr_neuhoff" i]
+x.com##a[href*="/dr_neuhoff" i]
+linktr.ee##a[href*="/herbertkickl" i]
+www.linktr.ee##a[href*="/herbertkickl" i]
+www.tiktok.com##a[href*="/@afd.eu" i]
+tiktok.com##a[href*="/@afd.eu" i]
+www.crossiety.app##a[href*="/groups/17745" i]
+crossiety.app##a[href*="/groups/17745" i]
+www.tiktok.com##a[href*="/@afd.nrw" i]
+tiktok.com##a[href*="/@afd.nrw" i]
+www.instagram.com##a[href*="/petr.bystron" i]
+instagram.com##a[href*="/petr.bystron" i]
+www.tiktok.com##a[href*="/@france_rn2" i]
+tiktok.com##a[href*="/@france_rn2" i]
+www.tiktok.com##a[href*="/@tomy.327glas" i]
+tiktok.com##a[href*="/@tomy.327glas" i]
+music.youtube.com##a[href*="/channel/UCksi8_CDUF0DbnLrgIoRrRg" i]
+www.music.youtube.com##a[href*="/channel/UCksi8_CDUF0DbnLrgIoRrRg" i]
+www.tiktok.com##a[href*="/@rassemblement_national09" i]
+tiktok.com##a[href*="/@rassemblement_national09" i]
+www.facebook.com##a[href*="/AfDFraktionDresden" i]
+facebook.com##a[href*="/AfDFraktionDresden" i]
+www.pinterest.com##a[href*="/zemmoureric" i]
+pinterest.com##a[href*="/zemmoureric" i]
+www.tiktok.com##a[href*="/@_rassemblement_national_" i]
+tiktok.com##a[href*="/@_rassemblement_national_" i]
+www.facebook.com##a[href*="/afdfraktionNRW" i]
+facebook.com##a[href*="/afdfraktionNRW" i]
+www.x.com##a[href*="/IrmhildBoss" i]
+x.com##a[href*="/IrmhildBoss" i]
+www.facebook.com##a[href*="/afdleipzig" i]
+facebook.com##a[href*="/afdleipzig" i]
+www.facebook.com##a[href*="/afdimbundestag" i]
+facebook.com##a[href*="/afdimbundestag" i]
+www.tiktok.com##a[href*="/@rn.nice.06" i]
+tiktok.com##a[href*="/@rn.nice.06" i]
+www.facebook.com##a[href*="/aljungbluth" i]
+facebook.com##a[href*="/aljungbluth" i]
+www.tiktok.com##a[href*="/@unionpourtous" i]
+tiktok.com##a[href*="/@unionpourtous" i]
+www.tiktok.com##a[href*="/@afddiebesten" i]
+tiktok.com##a[href*="/@afddiebesten" i]
+www.tiktok.com##a[href*="/@rassemblementnational25" i]
+tiktok.com##a[href*="/@rassemblementnational25" i]
+www.t.me##a[href*="/tomaszfroelich" i]
+t.me##a[href*="/tomaszfroelich" i]
+www.x.com##a[href*="/tomaszfroelich" i]
+x.com##a[href*="/tomaszfroelich" i]
+www.x.com##a[href*="/petrbystronafd" i]
+x.com##a[href*="/petrbystronafd" i]
+www.youtube.com##a[href*="/@guillaumepeltier9110" i]
+youtube.com##a[href*="/@guillaumepeltier9110" i]
+www.tiktok.com##a[href*="/@afdseit2013" i]
+tiktok.com##a[href*="/@afdseit2013" i]
+www.instagram.com##a[href*="/ericzemmour_" i]
+instagram.com##a[href*="/ericzemmour_" i]
+www.youtube.com##a[href*="/@dr.marcjongenmdbafd8192" i]
+youtube.com##a[href*="/@dr.marcjongenmdbafd8192" i]
+www.tiktok.com##a[href*="/@bjoernhoecke" i]
+tiktok.com##a[href*="/@bjoernhoecke" i]
+www.x.com##a[href*="/marc_jongen" i]
+x.com##a[href*="/marc_jongen" i]
+www.tiktok.com##a[href*="/@afdinfokanal" i]
+tiktok.com##a[href*="/@afdinfokanal" i]
+www.tiktok.com##a[href*="/@barguzin_71" i]
+tiktok.com##a[href*="/@barguzin_71" i]
+www.instagram.com##a[href*="/marykhan194" i]
+instagram.com##a[href*="/marykhan194" i]
+www.tiktok.com##a[href*="/@alfred.dannenberg" i]
+tiktok.com##a[href*="/@alfred.dannenberg" i]
+www.tiktok.com##a[href*="/@tomasz.froelich" i]
+tiktok.com##a[href*="/@tomasz.froelich" i]
+www.t.me##a[href*="/marinelepen" i]
+t.me##a[href*="/marinelepen" i]
+www.youtube.com##a[href*="/@protegeonsnosenfants2351" i]
+youtube.com##a[href*="/@protegeonsnosenfants2351" i]
+www.x.com##a[href*="/PatriotsEP" i]
+x.com##a[href*="/PatriotsEP" i]
+www.tiktok.com##a[href*="/@michael49.49.2" i]
+tiktok.com##a[href*="/@michael49.49.2" i]
+www.instagram.com##a[href*="/afd_mh" i]
+instagram.com##a[href*="/afd_mh" i]
+www.facebook.com##a[href*="/joernkoenig" i]
+facebook.com##a[href*="/joernkoenig" i]
+www.tiktok.com##a[href*="/@afdfraktionimbundestag" i]
+tiktok.com##a[href*="/@afdfraktionimbundestag" i]
+www.tiktok.com##a[href*="/@rivoslwmpez" i]
+tiktok.com##a[href*="/@rivoslwmpez" i]
+www.youtube.com##a[href*="/c/AfDKanal" i]
+youtube.com##a[href*="/c/AfDKanal" i]
+www.instagram.com##a[href*="/patriotsep" i]
+instagram.com##a[href*="/patriotsep" i]
+www.tiktok.com##a[href*="/@rassemblement.national88" i]
+tiktok.com##a[href*="/@rassemblement.national88" i]
+www.tiktok.com##a[href*="/@lernetlapolitique" i]
+tiktok.com##a[href*="/@lernetlapolitique" i]
+www.instagram.com##a[href*="/fpoe_at" i]
+instagram.com##a[href*="/fpoe_at" i]
+www.tiktok.com##a[href*="/@afd.support" i]
+tiktok.com##a[href*="/@afd.support" i]
+www.x.com##a[href*="/elonmusk" i]
+x.com##a[href*="/elonmusk" i]
+www.facebook.com##a[href*="/hans.neuhoff.73" i]
+facebook.com##a[href*="/hans.neuhoff.73" i]
+www.tiktok.com##a[href*="/@afd.fraktion.nrw" i]
+tiktok.com##a[href*="/@afd.fraktion.nrw" i]
+www.youtube.com##a[href*="/@PaulBrandenburgCom" i]
+youtube.com##a[href*="/@PaulBrandenburgCom" i]
+www.tiktok.com##a[href*="/@afd_bestofclips" i]
+tiktok.com##a[href*="/@afd_bestofclips" i]
+www.linkedin.com##a[href*="/company/parti-reconquete" i]
+linkedin.com##a[href*="/company/parti-reconquete" i]
+www.youtube.com##a[href*="/@MarineLePenOfficiel" i]
+youtube.com##a[href*="/@MarineLePenOfficiel" i]
+www.tiktok.com##a[href*="/@afdfraktion_im_bundestag" i]
+tiktok.com##a[href*="/@afdfraktion_im_bundestag" i]
+www.facebook.com##a[href*="/Dr.MarcJongen" i]
+facebook.com##a[href*="/Dr.MarcJongen" i]
+www.t.me##a[href*="/freiheitstrychlerat" i]
+t.me##a[href*="/freiheitstrychlerat" i]
+www.youtube.com##a[href*="/@Weichreite" i]
+youtube.com##a[href*="/@Weichreite" i]
+www.youtube.com##a[href*="/c/paulbrandenburgcom" i]
+youtube.com##a[href*="/c/paulbrandenburgcom" i]
+www.x.com##a[href*="/auf1tv" i]
+x.com##a[href*="/auf1tv" i]
+www.tiktok.com##a[href*="/@alice_weidel_afd" i]
+tiktok.com##a[href*="/@alice_weidel_afd" i]
+www.tiktok.com##a[href*="/@afd1185" i]
+tiktok.com##a[href*="/@afd1185" i]
+www.tiktok.com##a[href*="/@rassemblementnatinonal" i]
+tiktok.com##a[href*="/@rassemblementnatinonal" i]
+www.tiktok.com##a[href*="/@afd000002" i]
+tiktok.com##a[href*="/@afd000002" i]
+www.tiktok.com##a[href*="/@flaviusadf" i]
+tiktok.com##a[href*="/@flaviusadf" i]
+www.tiktok.com##a[href*="/@jordanbardella" i]
+tiktok.com##a[href*="/@jordanbardella" i]
+www.tiktok.com##a[href*="/@gemeinsamblau" i]
+tiktok.com##a[href*="/@gemeinsamblau" i]
+www.tiktok.com##a[href*="/@afd_im_erftkreis" i]
+tiktok.com##a[href*="/@afd_im_erftkreis" i]
+www.facebook.com##a[href*="/AfDFraktionLeipzig" i]
+facebook.com##a[href*="/AfDFraktionLeipzig" i]
+www.facebook.com##a[href*="/reconquete2022" i]
+facebook.com##a[href*="/reconquete2022" i]
+www.youtube.com##a[href*="/channel/UC_dZp8bZipnjntBGLVHm6rw" i]
+youtube.com##a[href*="/channel/UC_dZp8bZipnjntBGLVHm6rw" i]
+www.tiktok.com##a[href*="/@blaugedacht" i]
+tiktok.com##a[href*="/@blaugedacht" i]
+www.instagram.com##a[href*="/matzerathm" i]
+instagram.com##a[href*="/matzerathm" i]
+www.facebook.com##a[href*="/NicolasBayFN" i]
+facebook.com##a[href*="/NicolasBayFN" i]
+www.tiktok.com##a[href*="/@rassemblement.national" i]
+tiktok.com##a[href*="/@rassemblement.national" i]
+www.instagram.com##a[href*="/auf1.tv" i]
+instagram.com##a[href*="/auf1.tv" i]
+www.t.me##a[href*="/afdfraktionimbundestag" i]
+t.me##a[href*="/afdfraktionimbundestag" i]
+apps.apple.com##a[href*="/app/truth-social/id1586018825" i]
+www.apps.apple.com##a[href*="/app/truth-social/id1586018825" i]
+www.tiktok.com##a[href*="/@afd_fan_2013" i]
+tiktok.com##a[href*="/@afd_fan_2013" i]
+www.youtube.com##a[href*="/@ChristineAnderson_MdEP" i]
+youtube.com##a[href*="/@ChristineAnderson_MdEP" i]
+www.t.me##a[href*="/alexanderjungbluthafd" i]
+t.me##a[href*="/alexanderjungbluthafd" i]
+www.youtube.com##a[href*="/channel/UCBoIJhUfNcn8G_odWECKVIA" i]
+youtube.com##a[href*="/channel/UCBoIJhUfNcn8G_odWECKVIA" i]
+www.t.me##a[href*="/marykhanafd" i]
+t.me##a[href*="/marykhanafd" i]
+www.tiktok.com##a[href*="/@kicklherbert" i]
+tiktok.com##a[href*="/@kicklherbert" i]
+www.youtube.com##a[href*="/@rtvooe" i]
+youtube.com##a[href*="/@rtvooe" i]
+www.youtube.com##a[href*="/@Andreash7811" i]
+youtube.com##a[href*="/@Andreash7811" i]
+www.x.com##a[href*="/HilaireBouye" i]
+x.com##a[href*="/HilaireBouye" i]
+www.youtube.com##a[href*="/@DrBerndBaumannMdB" i]
+youtube.com##a[href*="/@DrBerndBaumannMdB" i]
+www.tiktok.com##a[href*="/@afd366" i]
+tiktok.com##a[href*="/@afd366" i]
+www.facebook.com##a[href*="/Christine.Anderson.AfD" i]
+facebook.com##a[href*="/Christine.Anderson.AfD" i]
+www.tiktok.com##a[href*="/@rnrassemblement_national" i]
+tiktok.com##a[href*="/@rnrassemblement_national" i]
+www.tiktok.com##a[href*="/@afddeutschland10" i]
+tiktok.com##a[href*="/@afddeutschland10" i]
+www.tiktok.com##a[href*="/@tino.chrupalla.afd" i]
+tiktok.com##a[href*="/@tino.chrupalla.afd" i]
+www.x.com##a[href*="/vilimsky" i]
+x.com##a[href*="/vilimsky" i]
+www.x.com##a[href*="/NicolasBay_" i]
+x.com##a[href*="/NicolasBay_" i]
+www.tiktok.com##a[href*="/@vive.le.rassemble" i]
+tiktok.com##a[href*="/@vive.le.rassemble" i]
+www.t.me##a[href*="/KlagemauerTV" i]
+t.me##a[href*="/KlagemauerTV" i]
+www.t.me##a[href*="/reconquete_off" i]
+t.me##a[href*="/reconquete_off" i]
+www.instagram.com##a[href*="/reconquete_officiel" i]
+instagram.com##a[href*="/reconquete_officiel" i]
+www.tiktok.com##a[href*="/@afd_supporter_" i]
+tiktok.com##a[href*="/@afd_supporter_" i]
+www.instagram.com##a[href*="/drberndbaumann" i]
+instagram.com##a[href*="/drberndbaumann" i]
+www.facebook.com##a[href*="/AfD.Dithmarschen" i]
+facebook.com##a[href*="/AfD.Dithmarschen" i]
+www.instagram.com##a[href*="/herbertkickl" i]
+instagram.com##a[href*="/herbertkickl" i]
+www.tiktok.com##a[href*="/@deutschland833" i]
+tiktok.com##a[href*="/@deutschland833" i]
+www.tiktok.com##a[href*="/@afd000001" i]
+tiktok.com##a[href*="/@afd000001" i]
+radio.de##a[href*="/podcast/nachschlag3" i]
+www.radio.de##a[href*="/podcast/nachschlag3" i]
+www.youtube.com##a[href*="/@AfDimEUParlament" i]
+youtube.com##a[href*="/@AfDimEUParlament" i]
+www.tiktok.com##a[href*="/@dachauafdkreisverband" i]
+tiktok.com##a[href*="/@dachauafdkreisverband" i]
+www.youtube.com##a[href*="/channel/UCq2rogaxLtQFrYG3X3KYNww" i]
+youtube.com##a[href*="/channel/UCq2rogaxLtQFrYG3X3KYNww" i]
+www.t.me##a[href*="/drberndbaumann" i]
+t.me##a[href*="/drberndbaumann" i]
 www.tiktok.com##html:matches-path(/@afdsachsen/i)
 tiktok.com##html:matches-path(/@afdsachsen/i)
-www.tiktok.com##html:matches-path(/@france_rn2/i)
-tiktok.com##html:matches-path(/@france_rn2/i)
-www.facebook.com##html:matches-path(/Alexander\.Sell100/i)
-facebook.com##html:matches-path(/Alexander\.Sell100/i)
-www.youtube.com##html:matches-path(/@ChristineAnderson_MdEP/i)
-youtube.com##html:matches-path(/@ChristineAnderson_MdEP/i)
-www.linkedin.com##html:matches-path(/company\/parti\-reconquete/i)
-linkedin.com##html:matches-path(/company\/parti\-reconquete/i)
-www.x.com##html:matches-path(/AndersonAfDMdEP/i)
-x.com##html:matches-path(/AndersonAfDMdEP/i)
-www.youtube.com##html:matches-path(/@unionnationale/i)
-youtube.com##html:matches-path(/@unionnationale/i)
-www.instagram.com##html:matches-path(/drberndbaumann/i)
-instagram.com##html:matches-path(/drberndbaumann/i)
-www.facebook.com##html:matches-path(/hans\.neuhoff\.73/i)
-facebook.com##html:matches-path(/hans\.neuhoff\.73/i)
-www.tiktok.com##html:matches-path(/@flaviusadf/i)
-tiktok.com##html:matches-path(/@flaviusadf/i)
-www.x.com##html:matches-path(/AdannMdL/i)
-x.com##html:matches-path(/AdannMdL/i)
-www.facebook.com##html:matches-path(/MarineLePen/i)
-facebook.com##html:matches-path(/MarineLePen/i)
-www.tiktok.com##html:matches-path(/@afd_kv_calw_freudenstadt/i)
-tiktok.com##html:matches-path(/@afd_kv_calw_freudenstadt/i)
-www.tiktok.com##html:matches-path(/@1966franki/i)
-tiktok.com##html:matches-path(/@1966franki/i)
-www.tiktok.com##html:matches-path(/@afdinfokanal/i)
-tiktok.com##html:matches-path(/@afdinfokanal/i)
-www.x.com##html:matches-path(/dr_neuhoff/i)
-x.com##html:matches-path(/dr_neuhoff/i)
-www.x.com##html:matches-path(/elonmusk/i)
-x.com##html:matches-path(/elonmusk/i)
-www.youtube.com##html:matches-path(/@linas\.7782/i)
-youtube.com##html:matches-path(/@linas\.7782/i)
-www.x.com##html:matches-path(/tomaszfroelich/i)
-x.com##html:matches-path(/tomaszfroelich/i)
-www.tiktok.com##html:matches-path(/@afd\.fraktion\.nrw/i)
-tiktok.com##html:matches-path(/@afd\.fraktion\.nrw/i)
-www.facebook.com##html:matches-path(/irmhild\.bossdorf/i)
-facebook.com##html:matches-path(/irmhild\.bossdorf/i)
-www.tiktok.com##html:matches-path(/@afd\.supporter/i)
-tiktok.com##html:matches-path(/@afd\.supporter/i)
-www.tiktok.com##html:matches-path(/@afd889/i)
-tiktok.com##html:matches-path(/@afd889/i)
-www.facebook.com##html:matches-path(/AfD\.Leipzig/i)
-facebook.com##html:matches-path(/AfD\.Leipzig/i)
-www.tiktok.com##html:matches-path(/@afd_supporter_/i)
-tiktok.com##html:matches-path(/@afd_supporter_/i)
-www.facebook.com##html:matches-path(/bystronpetr/i)
-facebook.com##html:matches-path(/bystronpetr/i)
-www.facebook.com##html:matches-path(/afdfraktionNRW/i)
-facebook.com##html:matches-path(/afdfraktionNRW/i)
-www.x.com##html:matches-path(/BuchheitMarkus/i)
-x.com##html:matches-path(/BuchheitMarkus/i)
-www.tiktok.com##html:matches-path(/@afd366/i)
-tiktok.com##html:matches-path(/@afd366/i)
-www.tiktok.com##html:matches-path(/@kicklherbert/i)
-tiktok.com##html:matches-path(/@kicklherbert/i)
-www.x.com##html:matches-path(/Reconquete_off/i)
-x.com##html:matches-path(/Reconquete_off/i)
-www.tiktok.com##html:matches-path(/@jordanbardella/i)
-tiktok.com##html:matches-path(/@jordanbardella/i)
-www.tiktok.com##html:matches-path(/@afd\.eu/i)
-tiktok.com##html:matches-path(/@afd\.eu/i)
-www.t.me##html:matches-path(/marinelepen/i)
-t.me##html:matches-path(/marinelepen/i)
-www.crossiety.app##html:matches-path(/groups\/17745/i)
-crossiety.app##html:matches-path(/groups\/17745/i)
-www.instagram.com##html:matches-path(/froelich\.tomasz/i)
-instagram.com##html:matches-path(/froelich\.tomasz/i)
-www.twitch.tv##html:matches-path(/weichreite/i)
-twitch.tv##html:matches-path(/weichreite/i)
-www.music.youtube.com##html:matches-path(/channel\/UCksi8_CDUF0DbnLrgIoRrRg/i)
-music.youtube.com##html:matches-path(/channel\/UCksi8_CDUF0DbnLrgIoRrRg/i)
-www.tiktok.com##html:matches-path(/@rnational_off/i)
-tiktok.com##html:matches-path(/@rnational_off/i)
-www.youtube.com##html:matches-path(/c\/%C3%89ricZemmourOfficiel/i)
-youtube.com##html:matches-path(/c\/%C3%89ricZemmourOfficiel/i)
-www.t.me##html:matches-path(/freiheitstrychlerat/i)
-t.me##html:matches-path(/freiheitstrychlerat/i)
-www.tiktok.com##html:matches-path(/@alfred\.dannenberg/i)
-tiktok.com##html:matches-path(/@alfred\.dannenberg/i)
-www.tiktok.com##html:matches-path(/@rn\.nice\.06/i)
-tiktok.com##html:matches-path(/@rn\.nice\.06/i)
-www.youtube.com##html:matches-path(/c\/paulbrandenburgcom/i)
-youtube.com##html:matches-path(/c\/paulbrandenburgcom/i)
-www.rumble.com##html:matches-path(/paulbrandenburgcom/i)
-rumble.com##html:matches-path(/paulbrandenburgcom/i)
-www.facebook.com##html:matches-path(/aljungbluth/i)
-facebook.com##html:matches-path(/aljungbluth/i)
-www.youtube.com##html:matches-path(/@DrBerndBaumannMdB/i)
-youtube.com##html:matches-path(/@DrBerndBaumannMdB/i)
-www.x.com##html:matches-path(/DrBerndBaumann/i)
-x.com##html:matches-path(/DrBerndBaumann/i)
-www.x.com##html:matches-path(/petrbystronafd/i)
-x.com##html:matches-path(/petrbystronafd/i)
-www.instagram.com##html:matches-path(/reneaust\.afd/i)
-instagram.com##html:matches-path(/reneaust\.afd/i)
-www.facebook.com##html:matches-path(/herbertkickl/i)
-facebook.com##html:matches-path(/herbertkickl/i)
-www.instagram.com##html:matches-path(/generation_zemmour/i)
-instagram.com##html:matches-path(/generation_zemmour/i)
-www.tiktok.com##html:matches-path(/@barguzin_71/i)
-tiktok.com##html:matches-path(/@barguzin_71/i)
-www.youtube.com##html:matches-path(/@afdkreisverbandheidekreis6286/i)
-youtube.com##html:matches-path(/@afdkreisverbandheidekreis6286/i)
-www.youtube.com##html:matches-path(/@afdfraktionimbundestag/i)
-youtube.com##html:matches-path(/@afdfraktionimbundestag/i)
-www.tiktok.com##html:matches-path(/@rassemblementnational25/i)
-tiktok.com##html:matches-path(/@rassemblementnational25/i)
-www.tiktok.com##html:matches-path(/@afddiebesten/i)
-tiktok.com##html:matches-path(/@afddiebesten/i)
-www.x.com##html:matches-path(/vilimsky/i)
-x.com##html:matches-path(/vilimsky/i)
-www.x.com##html:matches-path(/SiegbertDroese/i)
-x.com##html:matches-path(/SiegbertDroese/i)
-www.t.me##html:matches-path(/marykhanafd/i)
-t.me##html:matches-path(/marykhanafd/i)
-www.tiktok.com##html:matches-path(/@2027rn/i)
-tiktok.com##html:matches-path(/@2027rn/i)
-www.tiktok.com##html:matches-path(/@lerassemblementnational/i)
-tiktok.com##html:matches-path(/@lerassemblementnational/i)
-www.youtube.com##html:matches-path(/channel\/UCBoIJhUfNcn8G_odWECKVIA/i)
-youtube.com##html:matches-path(/channel\/UCBoIJhUfNcn8G_odWECKVIA/i)
-www.facebook.com##html:matches-path(/Regionalfernsehen/i)
-facebook.com##html:matches-path(/Regionalfernsehen/i)
-www.instagram.com##html:matches-path(/arnobausemer/i)
-instagram.com##html:matches-path(/arnobausemer/i)
-www.youtube.com##html:matches-path(/@guillaumepeltier9110/i)
-youtube.com##html:matches-path(/@guillaumepeltier9110/i)
-www.t.me##html:matches-path(/generationzemmour/i)
-t.me##html:matches-path(/generationzemmour/i)
-www.t.me##html:matches-path(/EricZemmourOfficiel/i)
-t.me##html:matches-path(/EricZemmourOfficiel/i)
-linktr.ee##html:matches-path(/fpoe/i)
-www.linktr.ee##html:matches-path(/fpoe/i)
-www.t.me##html:matches-path(/KlagemauerTV/i)
-t.me##html:matches-path(/KlagemauerTV/i)
-www.x.com##html:matches-path(/IrmhildBoss/i)
-x.com##html:matches-path(/IrmhildBoss/i)
-www.facebook.com##html:matches-path(/AfDFraktionDresden/i)
-facebook.com##html:matches-path(/AfDFraktionDresden/i)
-www.x.com##html:matches-path(/mary_khan94/i)
-x.com##html:matches-path(/mary_khan94/i)
-www.tiktok.com##html:matches-path(/@afd0143/i)
-tiktok.com##html:matches-path(/@afd0143/i)
-www.t.me##html:matches-path(/drberndbaumann/i)
-t.me##html:matches-path(/drberndbaumann/i)
-www.facebook.com##html:matches-path(/afdimbundestag/i)
-facebook.com##html:matches-path(/afdimbundestag/i)
-www.tiktok.com##html:matches-path(/@auto_enchere/i)
-tiktok.com##html:matches-path(/@auto_enchere/i)
-www.youtube.com##html:matches-path(/@rtvooe/i)
-youtube.com##html:matches-path(/@rtvooe/i)
-www.facebook.com##html:matches-path(/afddresden/i)
-facebook.com##html:matches-path(/afddresden/i)
-www.instagram.com##html:matches-path(/nicolas_bay_fn/i)
-instagram.com##html:matches-path(/nicolas_bay_fn/i)
+www.tiktok.com##html:matches-path(/@lafrancerevient/i)
+tiktok.com##html:matches-path(/@lafrancerevient/i)
 www.tiktok.com##html:matches-path(/@rn2\.0\.2\.7/i)
 tiktok.com##html:matches-path(/@rn2\.0\.2\.7/i)
-www.instagram.com##html:matches-path(/anja\.arndt\.afd/i)
-instagram.com##html:matches-path(/anja\.arndt\.afd/i)
-www.tiktok.com##html:matches-path(/@alice_weidel_afd/i)
-tiktok.com##html:matches-path(/@alice_weidel_afd/i)
-www.youtube.com##html:matches-path(/@Nicolas_Bay/i)
-youtube.com##html:matches-path(/@Nicolas_Bay/i)
-www.youtube.com##html:matches-path(/channel\/UC_dZp8bZipnjntBGLVHm6rw/i)
-youtube.com##html:matches-path(/channel\/UC_dZp8bZipnjntBGLVHm6rw/i)
-www.tiktok.com##html:matches-path(/@deutschland833/i)
-tiktok.com##html:matches-path(/@deutschland833/i)
-www.x.com##html:matches-path(/MLP_officiel/i)
-x.com##html:matches-path(/MLP_officiel/i)
-www.instagram.com##html:matches-path(/afd_jugend_leipzig/i)
-instagram.com##html:matches-path(/afd_jugend_leipzig/i)
-www.tiktok.com##html:matches-path(/@afd_die1/i)
-tiktok.com##html:matches-path(/@afd_die1/i)
-www.youtube.com##html:matches-path(/channel\/UCeP\-mETJStV6mg34dfUl6rA/i)
-youtube.com##html:matches-path(/channel\/UCeP\-mETJStV6mg34dfUl6rA/i)
-www.tiktok.com##html:matches-path(/@vive\.le\.rassemble/i)
-tiktok.com##html:matches-path(/@vive\.le\.rassemble/i)
-www.cafepress.com##html:matches-path(/shop\/wodanesdag/i)
-cafepress.com##html:matches-path(/shop\/wodanesdag/i)
-www.instagram.com##html:matches-path(/docbrandenburg/i)
-instagram.com##html:matches-path(/docbrandenburg/i)
-www.instagram.com##html:matches-path(/petr\.bystron/i)
-instagram.com##html:matches-path(/petr\.bystron/i)
-www.tiktok.com##html:matches-path(/@www\.afd\.de/i)
-tiktok.com##html:matches-path(/@www\.afd\.de/i)
-www.tiktok.com##html:matches-path(/@afdfraktion_im_bundestag/i)
-tiktok.com##html:matches-path(/@afdfraktion_im_bundestag/i)
-www.youtube.com##html:matches-path(/channel\/UCVXqMg5NOK5z8dwtzqRcMNg/i)
-youtube.com##html:matches-path(/channel\/UCVXqMg5NOK5z8dwtzqRcMNg/i)
-www.tiktok.com##html:matches-path(/@afd000002/i)
-tiktok.com##html:matches-path(/@afd000002/i)
-www.facebook.com##html:matches-path(/TinoAfD/i)
-facebook.com##html:matches-path(/TinoAfD/i)
-www.tiktok.com##html:matches-path(/@rivoslwmpez/i)
-tiktok.com##html:matches-path(/@rivoslwmpez/i)
-www.tiktok.com##html:matches-path(/@afdfraktionimbundestag/i)
-tiktok.com##html:matches-path(/@afdfraktionimbundestag/i)
-www.tiktok.com##html:matches-path(/@afdwuppertal/i)
-tiktok.com##html:matches-path(/@afdwuppertal/i)
-www.tiktok.com##html:matches-path(/@afd_jibbit/i)
-tiktok.com##html:matches-path(/@afd_jibbit/i)
-www.instagram.com##html:matches-path(/pascal\.pfannes/i)
-instagram.com##html:matches-path(/pascal\.pfannes/i)
-www.facebook.com##html:matches-path(/BeatrixVonStorch/i)
-facebook.com##html:matches-path(/BeatrixVonStorch/i)
-www.t.me##html:matches-path(/WeichreiteKanal/i)
-t.me##html:matches-path(/WeichreiteKanal/i)
-www.x.com##html:matches-path(/HilaireBouye/i)
-x.com##html:matches-path(/HilaireBouye/i)
-www.tiktok.com##html:matches-path(/@rassemblementnational88/i)
-tiktok.com##html:matches-path(/@rassemblementnational88/i)
-www.instagram.com##html:matches-path(/fpoe_tv/i)
-instagram.com##html:matches-path(/fpoe_tv/i)
-www.t.me##html:matches-path(/reconquete_off/i)
-t.me##html:matches-path(/reconquete_off/i)
-www.facebook.com##html:matches-path(/afdleipzig/i)
-facebook.com##html:matches-path(/afdleipzig/i)
-www.tiktok.com##html:matches-path(/@rassemblement\.national/i)
-tiktok.com##html:matches-path(/@rassemblement\.national/i)
-www.tiktok.com##html:matches-path(/@rassemblementnational28/i)
-tiktok.com##html:matches-path(/@rassemblementnational28/i)
-www.youtube.com##html:matches-path(/channel\/UCOgZkiqXxUH6YwJ4c_qaCTw/i)
-youtube.com##html:matches-path(/channel\/UCOgZkiqXxUH6YwJ4c_qaCTw/i)
+www.youtube.com##html:matches-path(/@afdkreisverbandheidekreis6286/i)
+youtube.com##html:matches-path(/@afdkreisverbandheidekreis6286/i)
+www.facebook.com##html:matches-path(/DrBerndBaumann/i)
+facebook.com##html:matches-path(/DrBerndBaumann/i)
+www.instagram.com##html:matches-path(/generation_zemmour/i)
+instagram.com##html:matches-path(/generation_zemmour/i)
+www.tiktok.com##html:matches-path(/@zemmour_eric/i)
+tiktok.com##html:matches-path(/@zemmour_eric/i)
 www.facebook.com##html:matches-path(/ZemmourEric/i)
 facebook.com##html:matches-path(/ZemmourEric/i)
-www.x.com##html:matches-path(/ZemmourEric/i)
-x.com##html:matches-path(/ZemmourEric/i)
-www.facebook.com##html:matches-path(/AfD\.Dithmarschen/i)
-facebook.com##html:matches-path(/AfD\.Dithmarschen/i)
-www.x.com##html:matches-path(/marc_jongen/i)
-x.com##html:matches-path(/marc_jongen/i)
-www.x.com##html:matches-path(/FPOE_TV/i)
-x.com##html:matches-path(/FPOE_TV/i)
-www.tiktok.com##html:matches-path(/@afd_ostdeutschland/i)
-tiktok.com##html:matches-path(/@afd_ostdeutschland/i)
-www.tiktok.com##html:matches-path(/@mutzurwahrheit90/i)
-tiktok.com##html:matches-path(/@mutzurwahrheit90/i)
-www.instagram.com##html:matches-path(/weichreitetv/i)
-instagram.com##html:matches-path(/weichreitetv/i)
-www.youtube.com##html:matches-path(/@MarineLePenOfficiel/i)
-youtube.com##html:matches-path(/@MarineLePenOfficiel/i)
-www.facebook.com##html:matches-path(/afd\.rheinsieg/i)
-facebook.com##html:matches-path(/afd\.rheinsieg/i)
-www.instagram.com##html:matches-path(/marykhan194/i)
-instagram.com##html:matches-path(/marykhan194/i)
-www.tiktok.com##html:matches-path(/@afdbayernlv/i)
-tiktok.com##html:matches-path(/@afdbayernlv/i)
-www.instagram.com##html:matches-path(/herbertkickl/i)
-instagram.com##html:matches-path(/herbertkickl/i)
-www.instagram.com##html:matches-path(/AfDimBundestag/i)
-instagram.com##html:matches-path(/AfDimBundestag/i)
-www.tiktok.com##html:matches-path(/@kaivo16/i)
-tiktok.com##html:matches-path(/@kaivo16/i)
-www.t.me##html:matches-path(/Reichsfoto/i)
-t.me##html:matches-path(/Reichsfoto/i)
-www.x.com##html:matches-path(/docbrandenburg/i)
-x.com##html:matches-path(/docbrandenburg/i)
-www.theplattform.net##html:matches-path(/c\/paulbrandenburg\.com/i)
-theplattform.net##html:matches-path(/c\/paulbrandenburg\.com/i)
-www.instagram.com##html:matches-path(/irmhildbossdorf\.afd/i)
-instagram.com##html:matches-path(/irmhildbossdorf\.afd/i)
-www.youtube.com##html:matches-path(/shorts\/6B2i5cKgVco/i)
-youtube.com##html:matches-path(/shorts\/6B2i5cKgVco/i)
-www.instagram.com##html:matches-path(/alexanderjungbluth/i)
-instagram.com##html:matches-path(/alexanderjungbluth/i)
-www.x.com##html:matches-path(/PatriotsEP/i)
-x.com##html:matches-path(/PatriotsEP/i)
-www.youtube.com##html:matches-path(/@AfDAktuell/i)
-youtube.com##html:matches-path(/@AfDAktuell/i)
-www.tiktok.com##html:matches-path(/@afd_bestofclips/i)
-tiktok.com##html:matches-path(/@afd_bestofclips/i)
-www.tiktok.com##html:matches-path(/@tomy\.327glas/i)
-tiktok.com##html:matches-path(/@tomy\.327glas/i)
-www.x.com##html:matches-path(/GenZemmour/i)
-x.com##html:matches-path(/GenZemmour/i)
-whatsapp.com##html:matches-path(/channel\/0029VaCeyss9Gv7M7MQiQm3C/i)
-www.whatsapp.com##html:matches-path(/channel\/0029VaCeyss9Gv7M7MQiQm3C/i)
-www.youtube.com##html:matches-path(/@Andreash7811/i)
-youtube.com##html:matches-path(/@Andreash7811/i)
-www.facebook.com##html:matches-path(/GenerationZemmour/i)
-facebook.com##html:matches-path(/GenerationZemmour/i)
-www.tiktok.com##html:matches-path(/@afd3761/i)
-tiktok.com##html:matches-path(/@afd3761/i)
-www.facebook.com##html:matches-path(/fpoe/i)
-facebook.com##html:matches-path(/fpoe/i)
-www.facebook.com##html:matches-path(/joernkoenig/i)
-facebook.com##html:matches-path(/joernkoenig/i)
-www.t.me##html:matches-path(/reneaust/i)
-t.me##html:matches-path(/reneaust/i)
-www.x.com##html:matches-path(/tesla/i)
-x.com##html:matches-path(/tesla/i)
-www.tiktok.com##html:matches-path(/@bjoernhoecke/i)
-tiktok.com##html:matches-path(/@bjoernhoecke/i)
-www.tiktok.com##html:matches-path(/@rassemblementnational29/i)
-tiktok.com##html:matches-path(/@rassemblementnational29/i)
-www.tiktok.com##html:matches-path(/@rassemblement_national09/i)
-tiktok.com##html:matches-path(/@rassemblement_national09/i)
-www.tiktok.com##html:matches-path(/@afdseit2013/i)
-tiktok.com##html:matches-path(/@afdseit2013/i)
-www.tiktok.com##html:matches-path(/@tomasz\.froelich/i)
-tiktok.com##html:matches-path(/@tomasz\.froelich/i)
 www.t.me##html:matches-path(/Nicolas_Bay/i)
 t.me##html:matches-path(/Nicolas_Bay/i)
-www.instagram.com##html:matches-path(/marine_lepen/i)
-instagram.com##html:matches-path(/marine_lepen/i)
-www.youtube.com##html:matches-path(/@AfDimEUParlament/i)
-youtube.com##html:matches-path(/@AfDimEUParlament/i)
-www.facebook.com##html:matches-path(/TomaszFroelich/i)
-facebook.com##html:matches-path(/TomaszFroelich/i)
+www.tiktok.com##html:matches-path(/@rassemblementnational29/i)
+tiktok.com##html:matches-path(/@rassemblementnational29/i)
+www.t.me##html:matches-path(/reneaust/i)
+t.me##html:matches-path(/reneaust/i)
+www.tiktok.com##html:matches-path(/@presidentielle_2027/i)
+tiktok.com##html:matches-path(/@presidentielle_2027/i)
+www.facebook.com##html:matches-path(/AfDHeide/i)
+facebook.com##html:matches-path(/AfDHeide/i)
+www.facebook.com##html:matches-path(/buchheit\.markus/i)
+facebook.com##html:matches-path(/buchheit\.markus/i)
+www.x.com##html:matches-path(/docbrandenburg/i)
+x.com##html:matches-path(/docbrandenburg/i)
+www.youtube.com##html:matches-path(/channel\/UCeP\-mETJStV6mg34dfUl6rA/i)
+youtube.com##html:matches-path(/channel\/UCeP\-mETJStV6mg34dfUl6rA/i)
+www.tiktok.com##html:matches-path(/@www\.afd\.de/i)
+tiktok.com##html:matches-path(/@www\.afd\.de/i)
+www.tiktok.com##html:matches-path(/@mutzurwahrheit90/i)
+tiktok.com##html:matches-path(/@mutzurwahrheit90/i)
+www.t.me##html:matches-path(/generationzemmour/i)
+t.me##html:matches-path(/generationzemmour/i)
+www.youtube.com##html:matches-path(/channel\/UCU3z3px1_RCqYBwrs8LJVWg/i)
+youtube.com##html:matches-path(/channel\/UCU3z3px1_RCqYBwrs8LJVWg/i)
+www.tiktok.com##html:matches-path(/@afdedits25/i)
+tiktok.com##html:matches-path(/@afdedits25/i)
+www.x.com##html:matches-path(/BuchheitMarkus/i)
+x.com##html:matches-path(/BuchheitMarkus/i)
+www.whatsapp.com##html:matches-path(/channel\/0029VbBjgrrFsn0d2kpktt44/i)
+whatsapp.com##html:matches-path(/channel\/0029VbBjgrrFsn0d2kpktt44/i)
+www.youtube.com##html:matches-path(/@generationz1266/i)
+youtube.com##html:matches-path(/@generationz1266/i)
+www.tiktok.com##html:matches-path(/@afdfraktionsachsenanhalt/i)
+tiktok.com##html:matches-path(/@afdfraktionsachsenanhalt/i)
+www.x.com##html:matches-path(/FPOE_TV/i)
+x.com##html:matches-path(/FPOE_TV/i)
+www.instagram.com##html:matches-path(/weichreitetv/i)
+instagram.com##html:matches-path(/weichreitetv/i)
+www.tiktok.com##html:matches-path(/@rassemblementnational88/i)
+tiktok.com##html:matches-path(/@rassemblementnational88/i)
+www.instagram.com##html:matches-path(/anja\.arndt\.afd/i)
+instagram.com##html:matches-path(/anja\.arndt\.afd/i)
+www.tiktok.com##html:matches-path(/@julienodoul/i)
+tiktok.com##html:matches-path(/@julienodoul/i)
+www.t.me##html:matches-path(/s\/auf1tv/i)
+t.me##html:matches-path(/s\/auf1tv/i)
 www.facebook.com##html:matches-path(/paulbrandenburgcom/i)
 facebook.com##html:matches-path(/paulbrandenburgcom/i)
-www.facebook.com##html:matches-path(/Dr\.MarcJongen/i)
-facebook.com##html:matches-path(/Dr\.MarcJongen/i)
+www.youtube.com##html:matches-path(/channel\/UCyw8Tkb44AGA2eB8K9fRioQ/i)
+youtube.com##html:matches-path(/channel\/UCyw8Tkb44AGA2eB8K9fRioQ/i)
 www.tiktok.com##html:matches-path(/@rnational_92/i)
 tiktok.com##html:matches-path(/@rnational_92/i)
-www.tiktok.com##html:matches-path(/@drberndbaumann/i)
-tiktok.com##html:matches-path(/@drberndbaumann/i)
-www.youtube.com##html:matches-path(/channel\/UCq2rogaxLtQFrYG3X3KYNww/i)
-youtube.com##html:matches-path(/channel\/UCq2rogaxLtQFrYG3X3KYNww/i)
-www.facebook.com##html:matches-path(/Christine\.Anderson\.AfD/i)
-facebook.com##html:matches-path(/Christine\.Anderson\.AfD/i)
+www.tiktok.com##html:matches-path(/@lerassemblementnational/i)
+tiktok.com##html:matches-path(/@lerassemblementnational/i)
+www.t.me##html:matches-path(/EricZemmourOfficiel/i)
+t.me##html:matches-path(/EricZemmourOfficiel/i)
+www.instagram.com##html:matches-path(/nicolas_bay_fn/i)
+instagram.com##html:matches-path(/nicolas_bay_fn/i)
+www.instagram.com##html:matches-path(/afd_jugend_leipzig/i)
+instagram.com##html:matches-path(/afd_jugend_leipzig/i)
+www.youtube.com##html:matches-path(/channel\/UCO3Rpw8jHn32aiUFOHYh_gQ/i)
+youtube.com##html:matches-path(/channel\/UCO3Rpw8jHn32aiUFOHYh_gQ/i)
+www.youtube.com##html:matches-path(/c\/PetrBystronAfD/i)
+youtube.com##html:matches-path(/c\/PetrBystronAfD/i)
+www.x.com##html:matches-path(/realDonaldTrump/i)
+x.com##html:matches-path(/realDonaldTrump/i)
+www.youtube.com##html:matches-path(/@Nicolas_Bay/i)
+youtube.com##html:matches-path(/@Nicolas_Bay/i)
+www.youtube.com##html:matches-path(/@unionnationale/i)
+youtube.com##html:matches-path(/@unionnationale/i)
+www.youtube.com##html:matches-path(/shorts\/6B2i5cKgVco/i)
+youtube.com##html:matches-path(/shorts\/6B2i5cKgVco/i)
+www.x.com##html:matches-path(/LxdxaxF/i)
+x.com##html:matches-path(/LxdxaxF/i)
+www.tiktok.com##html:matches-path(/@afdbayernlv/i)
+tiktok.com##html:matches-path(/@afdbayernlv/i)
+www.tiktok.com##html:matches-path(/@kaivo16/i)
+tiktok.com##html:matches-path(/@kaivo16/i)
+www.tiktok.com##html:matches-path(/@afd3761/i)
+tiktok.com##html:matches-path(/@afd3761/i)
+www.facebook.com##html:matches-path(/afddresden/i)
+facebook.com##html:matches-path(/afddresden/i)
+www.x.com##html:matches-path(/GenZemmour/i)
+x.com##html:matches-path(/GenZemmour/i)
+www.youtube.com##html:matches-path(/@AfDAktuell/i)
+youtube.com##html:matches-path(/@AfDAktuell/i)
+www.facebook.com##html:matches-path(/MarineLePen/i)
+facebook.com##html:matches-path(/MarineLePen/i)
+www.tiktok.com##html:matches-path(/@afd\.zerbst/i)
+tiktok.com##html:matches-path(/@afd\.zerbst/i)
+www.twitch.tv##html:matches-path(/weichreite/i)
+twitch.tv##html:matches-path(/weichreite/i)
+www.tiktok.com##html:matches-path(/@svenhaemischafd/i)
+tiktok.com##html:matches-path(/@svenhaemischafd/i)
+www.tiktok.com##html:matches-path(/@mr_afd/i)
+tiktok.com##html:matches-path(/@mr_afd/i)
+www.tiktok.com##html:matches-path(/@muenzenmaier/i)
+tiktok.com##html:matches-path(/@muenzenmaier/i)
+www.tiktok.com##html:matches-path(/@afdsupport3/i)
+tiktok.com##html:matches-path(/@afdsupport3/i)
+www.tiktok.com##html:matches-path(/@rnational_off/i)
+tiktok.com##html:matches-path(/@rnational_off/i)
+www.facebook.com##html:matches-path(/herbertkickl/i)
+facebook.com##html:matches-path(/herbertkickl/i)
+www.t.me##html:matches-path(/paulbrandenburg/i)
+t.me##html:matches-path(/paulbrandenburg/i)
 www.instagram.com##html:matches-path(/hilaire_bouye/i)
 instagram.com##html:matches-path(/hilaire_bouye/i)
+www.tiktok.com##html:matches-path(/@afd\.supporter/i)
+tiktok.com##html:matches-path(/@afd\.supporter/i)
+www.t.me##html:matches-path(/HKickl/i)
+t.me##html:matches-path(/HKickl/i)
+www.tiktok.com##html:matches-path(/@afd9489/i)
+tiktok.com##html:matches-path(/@afd9489/i)
+www.x.com##html:matches-path(/AfD/i)
+x.com##html:matches-path(/AfD/i)
 www.x.com##html:matches-path(/Rene_Aust/i)
 x.com##html:matches-path(/Rene_Aust/i)
-www.facebook.com##html:matches-path(/NicolasBayFN/i)
-facebook.com##html:matches-path(/NicolasBayFN/i)
-www.instagram.com##html:matches-path(/afd_mh/i)
-instagram.com##html:matches-path(/afd_mh/i)
-www.facebook.com##html:matches-path(/reconquete2022/i)
-facebook.com##html:matches-path(/reconquete2022/i)
+www.x.com##html:matches-path(/Tino_Chrupalla/i)
+x.com##html:matches-path(/Tino_Chrupalla/i)
+www.instagram.com##html:matches-path(/alexanderjungbluth/i)
+instagram.com##html:matches-path(/alexanderjungbluth/i)
+www.facebook.com##html:matches-path(/alternativefuerde/i)
+facebook.com##html:matches-path(/alternativefuerde/i)
+www.tiktok.com##html:matches-path(/@auto_enchere/i)
+tiktok.com##html:matches-path(/@auto_enchere/i)
+www.youtube.com##html:matches-path(/@afdfraktionimbundestag/i)
+youtube.com##html:matches-path(/@afdfraktionimbundestag/i)
+www.tiktok.com##html:matches-path(/@rassemblementnational04/i)
+tiktok.com##html:matches-path(/@rassemblementnational04/i)
+www.theplattform.net##html:matches-path(/c\/paulbrandenburg\.com/i)
+theplattform.net##html:matches-path(/c\/paulbrandenburg\.com/i)
+www.instagram.com##html:matches-path(/afd\.bund/i)
+instagram.com##html:matches-path(/afd\.bund/i)
+www.instagram.com##html:matches-path(/AfDimBundestag/i)
+instagram.com##html:matches-path(/AfDimBundestag/i)
+www.instagram.com##html:matches-path(/arnobausemer/i)
+instagram.com##html:matches-path(/arnobausemer/i)
+www.youtube.com##html:matches-path(/channel\/UCOgZkiqXxUH6YwJ4c_qaCTw/i)
+youtube.com##html:matches-path(/channel\/UCOgZkiqXxUH6YwJ4c_qaCTw/i)
+www.whatsapp.com##html:matches-path(/channel\/0029VaUxHcI5EjxzMqIv8r1q/i)
+whatsapp.com##html:matches-path(/channel\/0029VaUxHcI5EjxzMqIv8r1q/i)
+www.t.me##html:matches-path(/afddresden/i)
+t.me##html:matches-path(/afddresden/i)
+www.tiktok.com##html:matches-path(/@afd_die1/i)
+tiktok.com##html:matches-path(/@afd_die1/i)
+fr.pinterest.com##html:matches-path(/zemmoureric/i)
+www.fr.pinterest.com##html:matches-path(/zemmoureric/i)
+www.tiktok.com##html:matches-path(/@afd_jibbit/i)
+tiktok.com##html:matches-path(/@afd_jibbit/i)
+www.tiktok.com##html:matches-path(/@drberndbaumann/i)
+tiktok.com##html:matches-path(/@drberndbaumann/i)
+www.youtube.com##html:matches-path(/@auf1tv/i)
+youtube.com##html:matches-path(/@auf1tv/i)
+www.facebook.com##html:matches-path(/ReneAustAfD\//i)
+facebook.com##html:matches-path(/ReneAustAfD\//i)
+www.x.com##html:matches-path(/Reconquete_off/i)
+x.com##html:matches-path(/Reconquete_off/i)
+www.x.com##html:matches-path(/AfDimBundestag/i)
+x.com##html:matches-path(/AfDimBundestag/i)
+www.x.com##html:matches-path(/AlexJungbluth/i)
+x.com##html:matches-path(/AlexJungbluth/i)
+www.tiktok.com##html:matches-path(/@afdwuppertal/i)
+tiktok.com##html:matches-path(/@afdwuppertal/i)
+www.instagram.com##html:matches-path(/pascal\.pfannes/i)
+instagram.com##html:matches-path(/pascal\.pfannes/i)
+www.x.com##html:matches-path(/ZemmourEric/i)
+x.com##html:matches-path(/ZemmourEric/i)
+www.facebook.com##html:matches-path(/GenerationZemmour/i)
+facebook.com##html:matches-path(/GenerationZemmour/i)
+www.x.com##html:matches-path(/SiegbertDroese/i)
+x.com##html:matches-path(/SiegbertDroese/i)
+www.tiktok.com##html:matches-path(/@afd889/i)
+tiktok.com##html:matches-path(/@afd889/i)
 www.youtube.com##html:matches-path(/@reconqueteloiret3220/i)
 youtube.com##html:matches-path(/@reconqueteloiret3220/i)
-facebook.com/AfDHeide##html
-www.facebook.com/AfDHeide##html
-facebook.com/alternativefuerde##html
-www.facebook.com/alternativefuerde##html
-tiktok.com/@afdfraktionsachsenanhalt##html
-www.tiktok.com/@afdfraktionsachsenanhalt##html
-tiktok.com/@tino.chrupalla.afd##html
-www.tiktok.com/@tino.chrupalla.afd##html
-youtube.com/channel/UCyw8Tkb44AGA2eB8K9fRioQ##html
-www.youtube.com/channel/UCyw8Tkb44AGA2eB8K9fRioQ##html
-tiktok.com/@rn2027ourien##html
-www.tiktok.com/@rn2027ourien##html
-instagram.com/reconquete_officiel##html
-www.instagram.com/reconquete_officiel##html
-tiktok.com/@gemeinsamblau##html
-www.tiktok.com/@gemeinsamblau##html
-youtube.com/@PaulBrandenburgCom##html
-www.youtube.com/@PaulBrandenburgCom##html
-radio.de/podcast/nacktes-geld##html
-www.radio.de/podcast/nacktes-geld##html
-facebook.com/arno.bausemer##html
-www.facebook.com/arno.bausemer##html
-radio.de/podcast/nachschlag3##html
-www.radio.de/podcast/nachschlag3##html
-t.me/paulbrandenburg##html
-www.t.me/paulbrandenburg##html
-tiktok.com/@afd.nrw##html
-www.tiktok.com/@afd.nrw##html
-tiktok.com/@miguel_klauss##html
-www.tiktok.com/@miguel_klauss##html
-tiktok.com/@michael49.49.2##html
-www.tiktok.com/@michael49.49.2##html
-tiktok.com/@rassemblement.national88##html
-www.tiktok.com/@rassemblement.national88##html
-tiktok.com/@gabrielle.mailbeck.afd##html
-www.tiktok.com/@gabrielle.mailbeck.afd##html
-tiktok.com/@presidentielle_2027##html
-www.tiktok.com/@presidentielle_2027##html
-tiktok.com/@afd.zerbst##html
-www.tiktok.com/@afd.zerbst##html
-tiktok.com/@muenzenmaier##html
-www.tiktok.com/@muenzenmaier##html
-whatsapp.com/channel/0029VbBjgrrFsn0d2kpktt44##html
-www.whatsapp.com/channel/0029VbBjgrrFsn0d2kpktt44##html
-instagram.com/afd.bund##html
-www.instagram.com/afd.bund##html
-x.com/AfD##html
-www.x.com/AfD##html
-tiktok.com/@mr_afd##html
-www.tiktok.com/@mr_afd##html
-tiktok.com/@afddeutschland10##html
-www.tiktok.com/@afddeutschland10##html
-x.com/Tino_Chrupalla##html
-www.x.com/Tino_Chrupalla##html
-x.com/NicolasBay_##html
-www.x.com/NicolasBay_##html
-tiktok.com/@afd.support##html
-www.tiktok.com/@afd.support##html
-x.com/AfDimBundestag##html
-www.x.com/AfDimBundestag##html
-tiktok.com/@afd_brandenburg##html
-www.tiktok.com/@afd_brandenburg##html
-youtube.com/channel/UCU3z3px1_RCqYBwrs8LJVWg##html
-www.youtube.com/channel/UCU3z3px1_RCqYBwrs8LJVWg##html
-tiktok.com/@svenhaemischafd##html
-www.tiktok.com/@svenhaemischafd##html
-tiktok.com/@zemmour_eric##html
-www.tiktok.com/@zemmour_eric##html
-tiktok.com/@afdedits25##html
-www.tiktok.com/@afdedits25##html
-instagram.com/patriotsep##html
-www.instagram.com/patriotsep##html
-tiktok.com/@rassemblementnatinonal##html
-www.tiktok.com/@rassemblementnatinonal##html
-apps.apple.com/app/truth-social/id1586018825##html
-www.apps.apple.com/app/truth-social/id1586018825##html
-facebook.com/PatriotsEP##html
-www.facebook.com/PatriotsEP##html
-youtube.com/channel/UCO3Rpw8jHn32aiUFOHYh_gQ##html
-www.youtube.com/channel/UCO3Rpw8jHn32aiUFOHYh_gQ##html
-youtube.com/@dr.marcjongenmdbafd8192##html
-www.youtube.com/@dr.marcjongenmdbafd8192##html
-t.me/afdfraktionimbundestag##html
-www.t.me/afdfraktionimbundestag##html
-tiktok.com/@afd_rheinland_pfalz##html
-www.tiktok.com/@afd_rheinland_pfalz##html
-tiktok.com/@fpoe_at##html
-www.tiktok.com/@fpoe_at##html
-facebook.com/buchheit.markus##html
-www.facebook.com/buchheit.markus##html
-tiktok.com/@afd9489##html
-www.tiktok.com/@afd9489##html
-instagram.com/fpoe_at##html
-www.instagram.com/fpoe_at##html
-youtube.com/@protegeonsnosenfants2351##html
-www.youtube.com/@protegeonsnosenfants2351##html
-instagram.com/matzerathm##html
-www.instagram.com/matzerathm##html
-facebook.com/AfDFraktionLeipzig##html
-www.facebook.com/AfDFraktionLeipzig##html
-tiktok.com/@lena.kotre##html
-www.tiktok.com/@lena.kotre##html
-facebook.com/DrBerndBaumann##html
-www.facebook.com/DrBerndBaumann##html
-tiktok.com/@lernetlapolitique##html
-www.tiktok.com/@lernetlapolitique##html
-youtube.com/@generationz1266##html
-www.youtube.com/@generationz1266##html
-tiktok.com/@_rassemblement_national_##html
-www.tiktok.com/@_rassemblement_national_##html
-tiktok.com/@rasemblementnational##html
-www.tiktok.com/@rasemblementnational##html
-youtube.com/@Weichreite##html
-www.youtube.com/@Weichreite##html
-tiktok.com/@petrbystronafd##html
-www.tiktok.com/@petrbystronafd##html
-tiktok.com/@lafrancerevient##html
-www.tiktok.com/@lafrancerevient##html
-facebook.com/ReneAustAfD/##html
-www.facebook.com/ReneAustAfD/##html
-linktr.ee/herbertkickl##html
-www.linktr.ee/herbertkickl##html
-t.me/tomaszfroelich##html
-www.t.me/tomaszfroelich##html
-t.me/HKickl##html
-www.t.me/HKickl##html
-pinterest.com/zemmoureric##html
-www.pinterest.com/zemmoureric##html
-x.com/realDonaldTrump##html
-www.x.com/realDonaldTrump##html
-tiktok.com/@rassemblementnational04##html
-www.tiktok.com/@rassemblementnational04##html
-youtube.com/@reneausteu##html
-www.youtube.com/@reneausteu##html
-t.me/freiheitstrychlerde##html
-www.t.me/freiheitstrychlerde##html
-instagram.com/ericzemmour_##html
-www.instagram.com/ericzemmour_##html
-youtube.com/channel/UC-y7GfmlOsfUyDkkLEakz4Q##html
-www.youtube.com/channel/UC-y7GfmlOsfUyDkkLEakz4Q##html
-tiktok.com/@unionpourtous##html
-www.tiktok.com/@unionpourtous##html
-fr.pinterest.com/zemmoureric##html
-www.fr.pinterest.com/zemmoureric##html
-tiktok.com/@rnrassemblement_national##html
-www.tiktok.com/@rnrassemblement_national##html
-tiktok.com/@afd_fan_2013##html
-www.tiktok.com/@afd_fan_2013##html
-youtube.com/channel/UCRdEdkAlZetdf74bYaBRv3g##html
-www.youtube.com/channel/UCRdEdkAlZetdf74bYaBRv3g##html
-radio.de/podcast/nacktes-niveau##html
-www.radio.de/podcast/nacktes-niveau##html
-youtube.com/c/AfDKanal##html
-www.youtube.com/c/AfDKanal##html
-tiktok.com/@afd000003##html
-www.tiktok.com/@afd000003##html
-tiktok.com/@afd_im_erftkreis##html
-www.tiktok.com/@afd_im_erftkreis##html
-tiktok.com/@alexanderjungbluth##html
-www.tiktok.com/@alexanderjungbluth##html
-tiktok.com/@julienodoul##html
-www.tiktok.com/@julienodoul##html
-tiktok.com/@rassemblement_nat##html
-www.tiktok.com/@rassemblement_nat##html
-instagram.com/afd.augsburgland##html
-www.instagram.com/afd.augsburgland##html
-tiktok.com/@afd000001##html
-www.tiktok.com/@afd000001##html
-tiktok.com/@afd1185##html
-www.tiktok.com/@afd1185##html
-youtube.com/c/PetrBystronAfD##html
-www.youtube.com/c/PetrBystronAfD##html
-x.com/AlexJungbluth##html
-www.x.com/AlexJungbluth##html
-tiktok.com/@afdsupport3##html
-www.tiktok.com/@afdsupport3##html
-tiktok.com/@afd.kv.erding##html
-www.tiktok.com/@afd.kv.erding##html
-tiktok.com/@blaugedacht##html
-www.tiktok.com/@blaugedacht##html
-tiktok.com/@afddddddt1905##html
-www.tiktok.com/@afddddddt1905##html
-t.me/afddresden##html
-www.t.me/afddresden##html
-tiktok.com/@real_german##html
-www.tiktok.com/@real_german##html
-youtube.com/@markusbuchheit3541##html
-www.youtube.com/@markusbuchheit3541##html
-x.com/MarkusMatzerath##html
-www.x.com/MarkusMatzerath##html
-whatsapp.com/channel/0029VaUxHcI5EjxzMqIv8r1q##html
-www.whatsapp.com/channel/0029VaUxHcI5EjxzMqIv8r1q##html
-tiktok.com/@afd_goeppingen##html
-www.tiktok.com/@afd_goeppingen##html
-x.com/weichreite##html
-www.x.com/weichreite##html
-t.me/alexanderjungbluthafd##html
-www.t.me/alexanderjungbluthafd##html
-tiktok.com/@dachauafdkreisverband##html
-www.tiktok.com/@dachauafdkreisverband##html
-instagram.com/markus.buchheit##html
-www.instagram.com/markus.buchheit##html
-x.com/LxdxaxF##html
-www.x.com/LxdxaxF##html
+www.tiktok.com##html:matches-path(/@afd0143/i)
+tiktok.com##html:matches-path(/@afd0143/i)
+linktr.ee##html:matches-path(/fpoe/i)
+www.linktr.ee##html:matches-path(/fpoe/i)
+www.youtube.com##html:matches-path(/channel\/UC\-y7GfmlOsfUyDkkLEakz4Q/i)
+youtube.com##html:matches-path(/channel\/UC\-y7GfmlOsfUyDkkLEakz4Q/i)
+www.t.me##html:matches-path(/WeichreiteKanal/i)
+t.me##html:matches-path(/WeichreiteKanal/i)
+www.tiktok.com##html:matches-path(/@rasemblementnational/i)
+tiktok.com##html:matches-path(/@rasemblementnational/i)
+www.youtube.com##html:matches-path(/@linas\.7782/i)
+youtube.com##html:matches-path(/@linas\.7782/i)
+www.tiktok.com##html:matches-path(/@alexanderjungbluth/i)
+tiktok.com##html:matches-path(/@alexanderjungbluth/i)
+www.tiktok.com##html:matches-path(/@petrbystronafd/i)
+tiktok.com##html:matches-path(/@petrbystronafd/i)
+www.tiktok.com##html:matches-path(/@real_german/i)
+tiktok.com##html:matches-path(/@real_german/i)
+www.tiktok.com##html:matches-path(/@1966franki/i)
+tiktok.com##html:matches-path(/@1966franki/i)
+www.facebook.com##html:matches-path(/TomaszFroelich/i)
+facebook.com##html:matches-path(/TomaszFroelich/i)
+www.x.com##html:matches-path(/MarkusMatzerath/i)
+x.com##html:matches-path(/MarkusMatzerath/i)
+www.instagram.com##html:matches-path(/reneaust\.afd/i)
+instagram.com##html:matches-path(/reneaust\.afd/i)
+www.facebook.com##html:matches-path(/irmhild\.bossdorf/i)
+facebook.com##html:matches-path(/irmhild\.bossdorf/i)
+www.youtube.com##html:matches-path(/c\/%C3%89ricZemmourOfficiel/i)
+youtube.com##html:matches-path(/c\/%C3%89ricZemmourOfficiel/i)
+www.facebook.com##html:matches-path(/fpoe/i)
+facebook.com##html:matches-path(/fpoe/i)
+www.tiktok.com##html:matches-path(/@afd\.kv\.erding/i)
+tiktok.com##html:matches-path(/@afd\.kv\.erding/i)
+www.tiktok.com##html:matches-path(/@afd_kv_calw_freudenstadt/i)
+tiktok.com##html:matches-path(/@afd_kv_calw_freudenstadt/i)
+www.x.com##html:matches-path(/AdannMdL/i)
+x.com##html:matches-path(/AdannMdL/i)
+radio.de##html:matches-path(/podcast\/nacktes\-geld/i)
+www.radio.de##html:matches-path(/podcast\/nacktes\-geld/i)
+www.facebook.com##html:matches-path(/Alexander\.Sell100/i)
+facebook.com##html:matches-path(/Alexander\.Sell100/i)
+www.x.com##html:matches-path(/MLP_officiel/i)
+x.com##html:matches-path(/MLP_officiel/i)
+www.x.com##html:matches-path(/tesla/i)
+x.com##html:matches-path(/tesla/i)
+www.tiktok.com##html:matches-path(/@2027rn/i)
+tiktok.com##html:matches-path(/@2027rn/i)
+www.t.me##html:matches-path(/Reichsfoto/i)
+t.me##html:matches-path(/Reichsfoto/i)
+www.instagram.com##html:matches-path(/afd\.augsburgland/i)
+instagram.com##html:matches-path(/afd\.augsburgland/i)
+www.tiktok.com##html:matches-path(/@rassemblement_nat/i)
+tiktok.com##html:matches-path(/@rassemblement_nat/i)
+www.x.com##html:matches-path(/DrBerndBaumann/i)
+x.com##html:matches-path(/DrBerndBaumann/i)
+www.facebook.com##html:matches-path(/arno\.bausemer/i)
+facebook.com##html:matches-path(/arno\.bausemer/i)
+www.x.com##html:matches-path(/mary_khan94/i)
+x.com##html:matches-path(/mary_khan94/i)
+www.facebook.com##html:matches-path(/Regionalfernsehen/i)
+facebook.com##html:matches-path(/Regionalfernsehen/i)
+www.tiktok.com##html:matches-path(/@afddddddt1905/i)
+tiktok.com##html:matches-path(/@afddddddt1905/i)
+www.instagram.com##html:matches-path(/fpoe_tv/i)
+instagram.com##html:matches-path(/fpoe_tv/i)
+www.tiktok.com##html:matches-path(/@lena\.kotre/i)
+tiktok.com##html:matches-path(/@lena\.kotre/i)
+rumble.com##html:matches-path(/paulbrandenburgcom/i)
+www.rumble.com##html:matches-path(/paulbrandenburgcom/i)
+www.instagram.com##html:matches-path(/docbrandenburg/i)
+instagram.com##html:matches-path(/docbrandenburg/i)
+www.tiktok.com##html:matches-path(/@afd_goeppingen/i)
+tiktok.com##html:matches-path(/@afd_goeppingen/i)
+www.tiktok.com##html:matches-path(/@afd_rheinland_pfalz/i)
+tiktok.com##html:matches-path(/@afd_rheinland_pfalz/i)
+www.x.com##html:matches-path(/weichreite/i)
+x.com##html:matches-path(/weichreite/i)
+cafepress.com##html:matches-path(/shop\/wodanesdag/i)
+www.cafepress.com##html:matches-path(/shop\/wodanesdag/i)
+www.youtube.com##html:matches-path(/@reneausteu/i)
+youtube.com##html:matches-path(/@reneausteu/i)
+www.facebook.com##html:matches-path(/TinoAfD/i)
+facebook.com##html:matches-path(/TinoAfD/i)
+www.tiktok.com##html:matches-path(/@rn2027ourien/i)
+tiktok.com##html:matches-path(/@rn2027ourien/i)
+www.whatsapp.com##html:matches-path(/channel\/0029VaCeyss9Gv7M7MQiQm3C/i)
+whatsapp.com##html:matches-path(/channel\/0029VaCeyss9Gv7M7MQiQm3C/i)
+www.tiktok.com##html:matches-path(/@afd_ostdeutschland/i)
+tiktok.com##html:matches-path(/@afd_ostdeutschland/i)
+www.youtube.com##html:matches-path(/channel\/UCRdEdkAlZetdf74bYaBRv3g/i)
+youtube.com##html:matches-path(/channel\/UCRdEdkAlZetdf74bYaBRv3g/i)
+www.instagram.com##html:matches-path(/froelich\.tomasz/i)
+instagram.com##html:matches-path(/froelich\.tomasz/i)
+www.facebook.com##html:matches-path(/bystronpetr/i)
+facebook.com##html:matches-path(/bystronpetr/i)
+www.tiktok.com##html:matches-path(/@fpoe_at/i)
+tiktok.com##html:matches-path(/@fpoe_at/i)
+radio.de##html:matches-path(/podcast\/nacktes\-niveau/i)
+www.radio.de##html:matches-path(/podcast\/nacktes\-niveau/i)
+www.tiktok.com##html:matches-path(/@afd000003/i)
+tiktok.com##html:matches-path(/@afd000003/i)
+www.facebook.com##html:matches-path(/BeatrixVonStorch/i)
+facebook.com##html:matches-path(/BeatrixVonStorch/i)
+www.instagram.com##html:matches-path(/marine_lepen/i)
+instagram.com##html:matches-path(/marine_lepen/i)
+www.tiktok.com##html:matches-path(/@miguel_klauss/i)
+tiktok.com##html:matches-path(/@miguel_klauss/i)
+www.instagram.com##html:matches-path(/markus\.buchheit/i)
+instagram.com##html:matches-path(/markus\.buchheit/i)
+www.facebook.com##html:matches-path(/PatriotsEP/i)
+facebook.com##html:matches-path(/PatriotsEP/i)
+www.youtube.com##html:matches-path(/channel\/UCVXqMg5NOK5z8dwtzqRcMNg/i)
+youtube.com##html:matches-path(/channel\/UCVXqMg5NOK5z8dwtzqRcMNg/i)
+www.facebook.com##html:matches-path(/AfD\.Leipzig/i)
+facebook.com##html:matches-path(/AfD\.Leipzig/i)
+www.tiktok.com##html:matches-path(/@gabrielle\.mailbeck\.afd/i)
+tiktok.com##html:matches-path(/@gabrielle\.mailbeck\.afd/i)
+www.youtube.com##html:matches-path(/@markusbuchheit3541/i)
+youtube.com##html:matches-path(/@markusbuchheit3541/i)
+www.facebook.com##html:matches-path(/afd\.rheinsieg/i)
+facebook.com##html:matches-path(/afd\.rheinsieg/i)
+www.tiktok.com##html:matches-path(/@rassemblementnational28/i)
+tiktok.com##html:matches-path(/@rassemblementnational28/i)
+www.tiktok.com##html:matches-path(/@afd_brandenburg/i)
+tiktok.com##html:matches-path(/@afd_brandenburg/i)
+www.instagram.com##html:matches-path(/irmhildbossdorf\.afd/i)
+instagram.com##html:matches-path(/irmhildbossdorf\.afd/i)
+www.t.me##html:matches-path(/freiheitstrychlerde/i)
+t.me##html:matches-path(/freiheitstrychlerde/i)
+www.x.com##html:matches-path(/AndersonAfDMdEP/i)
+x.com##html:matches-path(/AndersonAfDMdEP/i)
+www.x.com##html:matches-path(/dr_neuhoff/i)
+x.com##html:matches-path(/dr_neuhoff/i)
+linktr.ee##html:matches-path(/herbertkickl/i)
+www.linktr.ee##html:matches-path(/herbertkickl/i)
+www.tiktok.com##html:matches-path(/@afd\.eu/i)
+tiktok.com##html:matches-path(/@afd\.eu/i)
+www.crossiety.app##html:matches-path(/groups\/17745/i)
+crossiety.app##html:matches-path(/groups\/17745/i)
+www.tiktok.com##html:matches-path(/@afd\.nrw/i)
+tiktok.com##html:matches-path(/@afd\.nrw/i)
+www.instagram.com##html:matches-path(/petr\.bystron/i)
+instagram.com##html:matches-path(/petr\.bystron/i)
+www.tiktok.com##html:matches-path(/@france_rn2/i)
+tiktok.com##html:matches-path(/@france_rn2/i)
+www.tiktok.com##html:matches-path(/@tomy\.327glas/i)
+tiktok.com##html:matches-path(/@tomy\.327glas/i)
+music.youtube.com##html:matches-path(/channel\/UCksi8_CDUF0DbnLrgIoRrRg/i)
+www.music.youtube.com##html:matches-path(/channel\/UCksi8_CDUF0DbnLrgIoRrRg/i)
+www.tiktok.com##html:matches-path(/@rassemblement_national09/i)
+tiktok.com##html:matches-path(/@rassemblement_national09/i)
+www.facebook.com##html:matches-path(/AfDFraktionDresden/i)
+facebook.com##html:matches-path(/AfDFraktionDresden/i)
+www.pinterest.com##html:matches-path(/zemmoureric/i)
+pinterest.com##html:matches-path(/zemmoureric/i)
+www.tiktok.com##html:matches-path(/@_rassemblement_national_/i)
+tiktok.com##html:matches-path(/@_rassemblement_national_/i)
+www.facebook.com##html:matches-path(/afdfraktionNRW/i)
+facebook.com##html:matches-path(/afdfraktionNRW/i)
+www.x.com##html:matches-path(/IrmhildBoss/i)
+x.com##html:matches-path(/IrmhildBoss/i)
+www.facebook.com##html:matches-path(/afdleipzig/i)
+facebook.com##html:matches-path(/afdleipzig/i)
+www.facebook.com##html:matches-path(/afdimbundestag/i)
+facebook.com##html:matches-path(/afdimbundestag/i)
+www.tiktok.com##html:matches-path(/@rn\.nice\.06/i)
+tiktok.com##html:matches-path(/@rn\.nice\.06/i)
+www.facebook.com##html:matches-path(/aljungbluth/i)
+facebook.com##html:matches-path(/aljungbluth/i)
+www.tiktok.com##html:matches-path(/@unionpourtous/i)
+tiktok.com##html:matches-path(/@unionpourtous/i)
+www.tiktok.com##html:matches-path(/@afddiebesten/i)
+tiktok.com##html:matches-path(/@afddiebesten/i)
+www.tiktok.com##html:matches-path(/@rassemblementnational25/i)
+tiktok.com##html:matches-path(/@rassemblementnational25/i)
+www.t.me##html:matches-path(/tomaszfroelich/i)
+t.me##html:matches-path(/tomaszfroelich/i)
+www.x.com##html:matches-path(/tomaszfroelich/i)
+x.com##html:matches-path(/tomaszfroelich/i)
+www.x.com##html:matches-path(/petrbystronafd/i)
+x.com##html:matches-path(/petrbystronafd/i)
+www.youtube.com##html:matches-path(/@guillaumepeltier9110/i)
+youtube.com##html:matches-path(/@guillaumepeltier9110/i)
+www.tiktok.com##html:matches-path(/@afdseit2013/i)
+tiktok.com##html:matches-path(/@afdseit2013/i)
+www.instagram.com##html:matches-path(/ericzemmour_/i)
+instagram.com##html:matches-path(/ericzemmour_/i)
+www.youtube.com##html:matches-path(/@dr\.marcjongenmdbafd8192/i)
+youtube.com##html:matches-path(/@dr\.marcjongenmdbafd8192/i)
+www.tiktok.com##html:matches-path(/@bjoernhoecke/i)
+tiktok.com##html:matches-path(/@bjoernhoecke/i)
+www.x.com##html:matches-path(/marc_jongen/i)
+x.com##html:matches-path(/marc_jongen/i)
+www.tiktok.com##html:matches-path(/@afdinfokanal/i)
+tiktok.com##html:matches-path(/@afdinfokanal/i)
+www.tiktok.com##html:matches-path(/@barguzin_71/i)
+tiktok.com##html:matches-path(/@barguzin_71/i)
+www.instagram.com##html:matches-path(/marykhan194/i)
+instagram.com##html:matches-path(/marykhan194/i)
+www.tiktok.com##html:matches-path(/@alfred\.dannenberg/i)
+tiktok.com##html:matches-path(/@alfred\.dannenberg/i)
+www.tiktok.com##html:matches-path(/@tomasz\.froelich/i)
+tiktok.com##html:matches-path(/@tomasz\.froelich/i)
+www.t.me##html:matches-path(/marinelepen/i)
+t.me##html:matches-path(/marinelepen/i)
+www.youtube.com##html:matches-path(/@protegeonsnosenfants2351/i)
+youtube.com##html:matches-path(/@protegeonsnosenfants2351/i)
+www.x.com##html:matches-path(/PatriotsEP/i)
+x.com##html:matches-path(/PatriotsEP/i)
+www.tiktok.com##html:matches-path(/@michael49\.49\.2/i)
+tiktok.com##html:matches-path(/@michael49\.49\.2/i)
+www.instagram.com##html:matches-path(/afd_mh/i)
+instagram.com##html:matches-path(/afd_mh/i)
+www.facebook.com##html:matches-path(/joernkoenig/i)
+facebook.com##html:matches-path(/joernkoenig/i)
+www.tiktok.com##html:matches-path(/@afdfraktionimbundestag/i)
+tiktok.com##html:matches-path(/@afdfraktionimbundestag/i)
+www.tiktok.com##html:matches-path(/@rivoslwmpez/i)
+tiktok.com##html:matches-path(/@rivoslwmpez/i)
+www.youtube.com##html:matches-path(/c\/AfDKanal/i)
+youtube.com##html:matches-path(/c\/AfDKanal/i)
+www.instagram.com##html:matches-path(/patriotsep/i)
+instagram.com##html:matches-path(/patriotsep/i)
+www.tiktok.com##html:matches-path(/@rassemblement\.national88/i)
+tiktok.com##html:matches-path(/@rassemblement\.national88/i)
+www.tiktok.com##html:matches-path(/@lernetlapolitique/i)
+tiktok.com##html:matches-path(/@lernetlapolitique/i)
+www.instagram.com##html:matches-path(/fpoe_at/i)
+instagram.com##html:matches-path(/fpoe_at/i)
+www.tiktok.com##html:matches-path(/@afd\.support/i)
+tiktok.com##html:matches-path(/@afd\.support/i)
+www.x.com##html:matches-path(/elonmusk/i)
+x.com##html:matches-path(/elonmusk/i)
+www.facebook.com##html:matches-path(/hans\.neuhoff\.73/i)
+facebook.com##html:matches-path(/hans\.neuhoff\.73/i)
+www.tiktok.com##html:matches-path(/@afd\.fraktion\.nrw/i)
+tiktok.com##html:matches-path(/@afd\.fraktion\.nrw/i)
+www.youtube.com##html:matches-path(/@PaulBrandenburgCom/i)
+youtube.com##html:matches-path(/@PaulBrandenburgCom/i)
+www.tiktok.com##html:matches-path(/@afd_bestofclips/i)
+tiktok.com##html:matches-path(/@afd_bestofclips/i)
+www.linkedin.com##html:matches-path(/company\/parti\-reconquete/i)
+linkedin.com##html:matches-path(/company\/parti\-reconquete/i)
+www.youtube.com##html:matches-path(/@MarineLePenOfficiel/i)
+youtube.com##html:matches-path(/@MarineLePenOfficiel/i)
+www.tiktok.com##html:matches-path(/@afdfraktion_im_bundestag/i)
+tiktok.com##html:matches-path(/@afdfraktion_im_bundestag/i)
+www.facebook.com##html:matches-path(/Dr\.MarcJongen/i)
+facebook.com##html:matches-path(/Dr\.MarcJongen/i)
+www.t.me##html:matches-path(/freiheitstrychlerat/i)
+t.me##html:matches-path(/freiheitstrychlerat/i)
+www.youtube.com##html:matches-path(/@Weichreite/i)
+youtube.com##html:matches-path(/@Weichreite/i)
+www.youtube.com##html:matches-path(/c\/paulbrandenburgcom/i)
+youtube.com##html:matches-path(/c\/paulbrandenburgcom/i)
+www.x.com##html:matches-path(/auf1tv/i)
+x.com##html:matches-path(/auf1tv/i)
+www.tiktok.com##html:matches-path(/@alice_weidel_afd/i)
+tiktok.com##html:matches-path(/@alice_weidel_afd/i)
+www.tiktok.com##html:matches-path(/@afd1185/i)
+tiktok.com##html:matches-path(/@afd1185/i)
+www.tiktok.com##html:matches-path(/@rassemblementnatinonal/i)
+tiktok.com##html:matches-path(/@rassemblementnatinonal/i)
+www.tiktok.com##html:matches-path(/@afd000002/i)
+tiktok.com##html:matches-path(/@afd000002/i)
+www.tiktok.com##html:matches-path(/@flaviusadf/i)
+tiktok.com##html:matches-path(/@flaviusadf/i)
+www.tiktok.com##html:matches-path(/@jordanbardella/i)
+tiktok.com##html:matches-path(/@jordanbardella/i)
+www.tiktok.com##html:matches-path(/@gemeinsamblau/i)
+tiktok.com##html:matches-path(/@gemeinsamblau/i)
+www.tiktok.com##html:matches-path(/@afd_im_erftkreis/i)
+tiktok.com##html:matches-path(/@afd_im_erftkreis/i)
+www.facebook.com##html:matches-path(/AfDFraktionLeipzig/i)
+facebook.com##html:matches-path(/AfDFraktionLeipzig/i)
+www.facebook.com##html:matches-path(/reconquete2022/i)
+facebook.com##html:matches-path(/reconquete2022/i)
+www.youtube.com##html:matches-path(/channel\/UC_dZp8bZipnjntBGLVHm6rw/i)
+youtube.com##html:matches-path(/channel\/UC_dZp8bZipnjntBGLVHm6rw/i)
+www.tiktok.com##html:matches-path(/@blaugedacht/i)
+tiktok.com##html:matches-path(/@blaugedacht/i)
+www.instagram.com##html:matches-path(/matzerathm/i)
+instagram.com##html:matches-path(/matzerathm/i)
+www.facebook.com##html:matches-path(/NicolasBayFN/i)
+facebook.com##html:matches-path(/NicolasBayFN/i)
+www.tiktok.com##html:matches-path(/@rassemblement\.national/i)
+tiktok.com##html:matches-path(/@rassemblement\.national/i)
+www.instagram.com##html:matches-path(/auf1\.tv/i)
+instagram.com##html:matches-path(/auf1\.tv/i)
+www.t.me##html:matches-path(/afdfraktionimbundestag/i)
+t.me##html:matches-path(/afdfraktionimbundestag/i)
+apps.apple.com##html:matches-path(/app\/truth\-social\/id1586018825/i)
+www.apps.apple.com##html:matches-path(/app\/truth\-social\/id1586018825/i)
+www.tiktok.com##html:matches-path(/@afd_fan_2013/i)
+tiktok.com##html:matches-path(/@afd_fan_2013/i)
+www.youtube.com##html:matches-path(/@ChristineAnderson_MdEP/i)
+youtube.com##html:matches-path(/@ChristineAnderson_MdEP/i)
+www.t.me##html:matches-path(/alexanderjungbluthafd/i)
+t.me##html:matches-path(/alexanderjungbluthafd/i)
+www.youtube.com##html:matches-path(/channel\/UCBoIJhUfNcn8G_odWECKVIA/i)
+youtube.com##html:matches-path(/channel\/UCBoIJhUfNcn8G_odWECKVIA/i)
+www.t.me##html:matches-path(/marykhanafd/i)
+t.me##html:matches-path(/marykhanafd/i)
+www.tiktok.com##html:matches-path(/@kicklherbert/i)
+tiktok.com##html:matches-path(/@kicklherbert/i)
+www.youtube.com##html:matches-path(/@rtvooe/i)
+youtube.com##html:matches-path(/@rtvooe/i)
+www.youtube.com##html:matches-path(/@Andreash7811/i)
+youtube.com##html:matches-path(/@Andreash7811/i)
+www.x.com##html:matches-path(/HilaireBouye/i)
+x.com##html:matches-path(/HilaireBouye/i)
+www.youtube.com##html:matches-path(/@DrBerndBaumannMdB/i)
+youtube.com##html:matches-path(/@DrBerndBaumannMdB/i)
+www.tiktok.com##html:matches-path(/@afd366/i)
+tiktok.com##html:matches-path(/@afd366/i)
+www.facebook.com##html:matches-path(/Christine\.Anderson\.AfD/i)
+facebook.com##html:matches-path(/Christine\.Anderson\.AfD/i)
+www.tiktok.com##html:matches-path(/@rnrassemblement_national/i)
+tiktok.com##html:matches-path(/@rnrassemblement_national/i)
+www.tiktok.com##html:matches-path(/@afddeutschland10/i)
+tiktok.com##html:matches-path(/@afddeutschland10/i)
+www.tiktok.com##html:matches-path(/@tino\.chrupalla\.afd/i)
+tiktok.com##html:matches-path(/@tino\.chrupalla\.afd/i)
+www.x.com##html:matches-path(/vilimsky/i)
+x.com##html:matches-path(/vilimsky/i)
+www.x.com##html:matches-path(/NicolasBay_/i)
+x.com##html:matches-path(/NicolasBay_/i)
+www.tiktok.com##html:matches-path(/@vive\.le\.rassemble/i)
+tiktok.com##html:matches-path(/@vive\.le\.rassemble/i)
+www.t.me##html:matches-path(/KlagemauerTV/i)
+t.me##html:matches-path(/KlagemauerTV/i)
+www.t.me##html:matches-path(/reconquete_off/i)
+t.me##html:matches-path(/reconquete_off/i)
+www.instagram.com##html:matches-path(/reconquete_officiel/i)
+instagram.com##html:matches-path(/reconquete_officiel/i)
+www.tiktok.com##html:matches-path(/@afd_supporter_/i)
+tiktok.com##html:matches-path(/@afd_supporter_/i)
+www.instagram.com##html:matches-path(/drberndbaumann/i)
+instagram.com##html:matches-path(/drberndbaumann/i)
+www.facebook.com##html:matches-path(/AfD\.Dithmarschen/i)
+facebook.com##html:matches-path(/AfD\.Dithmarschen/i)
+www.instagram.com##html:matches-path(/herbertkickl/i)
+instagram.com##html:matches-path(/herbertkickl/i)
+www.tiktok.com##html:matches-path(/@deutschland833/i)
+tiktok.com##html:matches-path(/@deutschland833/i)
+www.tiktok.com##html:matches-path(/@afd000001/i)
+tiktok.com##html:matches-path(/@afd000001/i)
+radio.de##html:matches-path(/podcast\/nachschlag3/i)
+www.radio.de##html:matches-path(/podcast\/nachschlag3/i)
+www.youtube.com##html:matches-path(/@AfDimEUParlament/i)
+youtube.com##html:matches-path(/@AfDimEUParlament/i)
+www.tiktok.com##html:matches-path(/@dachauafdkreisverband/i)
+tiktok.com##html:matches-path(/@dachauafdkreisverband/i)
+www.youtube.com##html:matches-path(/channel\/UCq2rogaxLtQFrYG3X3KYNww/i)
+youtube.com##html:matches-path(/channel\/UCq2rogaxLtQFrYG3X3KYNww/i)
+www.t.me##html:matches-path(/drberndbaumann/i)
+t.me##html:matches-path(/drberndbaumann/i)
 tiktok.com/@afdsachsen##html
 www.tiktok.com/@afdsachsen##html
-tiktok.com/@france_rn2##html
-www.tiktok.com/@france_rn2##html
-facebook.com/Alexander.Sell100##html
-www.facebook.com/Alexander.Sell100##html
-youtube.com/@ChristineAnderson_MdEP##html
-www.youtube.com/@ChristineAnderson_MdEP##html
-linkedin.com/company/parti-reconquete##html
-www.linkedin.com/company/parti-reconquete##html
-x.com/AndersonAfDMdEP##html
-www.x.com/AndersonAfDMdEP##html
-youtube.com/@unionnationale##html
-www.youtube.com/@unionnationale##html
-instagram.com/drberndbaumann##html
-www.instagram.com/drberndbaumann##html
-facebook.com/hans.neuhoff.73##html
-www.facebook.com/hans.neuhoff.73##html
-tiktok.com/@flaviusadf##html
-www.tiktok.com/@flaviusadf##html
-x.com/AdannMdL##html
-www.x.com/AdannMdL##html
-facebook.com/MarineLePen##html
-www.facebook.com/MarineLePen##html
-tiktok.com/@afd_kv_calw_freudenstadt##html
-www.tiktok.com/@afd_kv_calw_freudenstadt##html
-tiktok.com/@1966franki##html
-www.tiktok.com/@1966franki##html
-tiktok.com/@afdinfokanal##html
-www.tiktok.com/@afdinfokanal##html
-x.com/dr_neuhoff##html
-www.x.com/dr_neuhoff##html
-x.com/elonmusk##html
-www.x.com/elonmusk##html
-youtube.com/@linas.7782##html
-www.youtube.com/@linas.7782##html
-x.com/tomaszfroelich##html
-www.x.com/tomaszfroelich##html
-tiktok.com/@afd.fraktion.nrw##html
-www.tiktok.com/@afd.fraktion.nrw##html
-facebook.com/irmhild.bossdorf##html
-www.facebook.com/irmhild.bossdorf##html
-tiktok.com/@afd.supporter##html
-www.tiktok.com/@afd.supporter##html
-tiktok.com/@afd889##html
-www.tiktok.com/@afd889##html
-facebook.com/AfD.Leipzig##html
-www.facebook.com/AfD.Leipzig##html
-tiktok.com/@afd_supporter_##html
-www.tiktok.com/@afd_supporter_##html
-facebook.com/bystronpetr##html
-www.facebook.com/bystronpetr##html
-facebook.com/afdfraktionNRW##html
-www.facebook.com/afdfraktionNRW##html
-x.com/BuchheitMarkus##html
-www.x.com/BuchheitMarkus##html
-tiktok.com/@afd366##html
-www.tiktok.com/@afd366##html
-tiktok.com/@kicklherbert##html
-www.tiktok.com/@kicklherbert##html
-x.com/Reconquete_off##html
-www.x.com/Reconquete_off##html
-tiktok.com/@jordanbardella##html
-www.tiktok.com/@jordanbardella##html
-tiktok.com/@afd.eu##html
-www.tiktok.com/@afd.eu##html
-t.me/marinelepen##html
-www.t.me/marinelepen##html
-crossiety.app/groups/17745##html
-www.crossiety.app/groups/17745##html
-instagram.com/froelich.tomasz##html
-www.instagram.com/froelich.tomasz##html
-twitch.tv/weichreite##html
-www.twitch.tv/weichreite##html
-music.youtube.com/channel/UCksi8_CDUF0DbnLrgIoRrRg##html
-www.music.youtube.com/channel/UCksi8_CDUF0DbnLrgIoRrRg##html
-tiktok.com/@rnational_off##html
-www.tiktok.com/@rnational_off##html
-youtube.com/c/%C3%89ricZemmourOfficiel##html
-www.youtube.com/c/%C3%89ricZemmourOfficiel##html
-t.me/freiheitstrychlerat##html
-www.t.me/freiheitstrychlerat##html
-tiktok.com/@alfred.dannenberg##html
-www.tiktok.com/@alfred.dannenberg##html
-tiktok.com/@rn.nice.06##html
-www.tiktok.com/@rn.nice.06##html
-youtube.com/c/paulbrandenburgcom##html
-www.youtube.com/c/paulbrandenburgcom##html
-rumble.com/paulbrandenburgcom##html
-www.rumble.com/paulbrandenburgcom##html
-facebook.com/aljungbluth##html
-www.facebook.com/aljungbluth##html
-youtube.com/@DrBerndBaumannMdB##html
-www.youtube.com/@DrBerndBaumannMdB##html
-x.com/DrBerndBaumann##html
-www.x.com/DrBerndBaumann##html
-x.com/petrbystronafd##html
-www.x.com/petrbystronafd##html
-instagram.com/reneaust.afd##html
-www.instagram.com/reneaust.afd##html
-facebook.com/herbertkickl##html
-www.facebook.com/herbertkickl##html
-instagram.com/generation_zemmour##html
-www.instagram.com/generation_zemmour##html
-tiktok.com/@barguzin_71##html
-www.tiktok.com/@barguzin_71##html
-youtube.com/@afdkreisverbandheidekreis6286##html
-www.youtube.com/@afdkreisverbandheidekreis6286##html
-youtube.com/@afdfraktionimbundestag##html
-www.youtube.com/@afdfraktionimbundestag##html
-tiktok.com/@rassemblementnational25##html
-www.tiktok.com/@rassemblementnational25##html
-tiktok.com/@afddiebesten##html
-www.tiktok.com/@afddiebesten##html
-x.com/vilimsky##html
-www.x.com/vilimsky##html
-x.com/SiegbertDroese##html
-www.x.com/SiegbertDroese##html
-t.me/marykhanafd##html
-www.t.me/marykhanafd##html
-tiktok.com/@2027rn##html
-www.tiktok.com/@2027rn##html
-tiktok.com/@lerassemblementnational##html
-www.tiktok.com/@lerassemblementnational##html
-youtube.com/channel/UCBoIJhUfNcn8G_odWECKVIA##html
-www.youtube.com/channel/UCBoIJhUfNcn8G_odWECKVIA##html
-facebook.com/Regionalfernsehen##html
-www.facebook.com/Regionalfernsehen##html
-instagram.com/arnobausemer##html
-www.instagram.com/arnobausemer##html
-youtube.com/@guillaumepeltier9110##html
-www.youtube.com/@guillaumepeltier9110##html
-t.me/generationzemmour##html
-www.t.me/generationzemmour##html
-t.me/EricZemmourOfficiel##html
-www.t.me/EricZemmourOfficiel##html
-linktr.ee/fpoe##html
-www.linktr.ee/fpoe##html
-t.me/KlagemauerTV##html
-www.t.me/KlagemauerTV##html
-x.com/IrmhildBoss##html
-www.x.com/IrmhildBoss##html
-facebook.com/AfDFraktionDresden##html
-www.facebook.com/AfDFraktionDresden##html
-x.com/mary_khan94##html
-www.x.com/mary_khan94##html
-tiktok.com/@afd0143##html
-www.tiktok.com/@afd0143##html
-t.me/drberndbaumann##html
-www.t.me/drberndbaumann##html
-facebook.com/afdimbundestag##html
-www.facebook.com/afdimbundestag##html
-tiktok.com/@auto_enchere##html
-www.tiktok.com/@auto_enchere##html
-youtube.com/@rtvooe##html
-www.youtube.com/@rtvooe##html
-facebook.com/afddresden##html
-www.facebook.com/afddresden##html
-instagram.com/nicolas_bay_fn##html
-www.instagram.com/nicolas_bay_fn##html
+tiktok.com/@lafrancerevient##html
+www.tiktok.com/@lafrancerevient##html
 tiktok.com/@rn2.0.2.7##html
 www.tiktok.com/@rn2.0.2.7##html
-instagram.com/anja.arndt.afd##html
-www.instagram.com/anja.arndt.afd##html
-tiktok.com/@alice_weidel_afd##html
-www.tiktok.com/@alice_weidel_afd##html
-youtube.com/@Nicolas_Bay##html
-www.youtube.com/@Nicolas_Bay##html
-youtube.com/channel/UC_dZp8bZipnjntBGLVHm6rw##html
-www.youtube.com/channel/UC_dZp8bZipnjntBGLVHm6rw##html
-tiktok.com/@deutschland833##html
-www.tiktok.com/@deutschland833##html
-x.com/MLP_officiel##html
-www.x.com/MLP_officiel##html
-instagram.com/afd_jugend_leipzig##html
-www.instagram.com/afd_jugend_leipzig##html
-tiktok.com/@afd_die1##html
-www.tiktok.com/@afd_die1##html
-youtube.com/channel/UCeP-mETJStV6mg34dfUl6rA##html
-www.youtube.com/channel/UCeP-mETJStV6mg34dfUl6rA##html
-tiktok.com/@vive.le.rassemble##html
-www.tiktok.com/@vive.le.rassemble##html
-cafepress.com/shop/wodanesdag##html
-www.cafepress.com/shop/wodanesdag##html
-instagram.com/docbrandenburg##html
-www.instagram.com/docbrandenburg##html
-instagram.com/petr.bystron##html
-www.instagram.com/petr.bystron##html
-tiktok.com/@www.afd.de##html
-www.tiktok.com/@www.afd.de##html
-tiktok.com/@afdfraktion_im_bundestag##html
-www.tiktok.com/@afdfraktion_im_bundestag##html
-youtube.com/channel/UCVXqMg5NOK5z8dwtzqRcMNg##html
-www.youtube.com/channel/UCVXqMg5NOK5z8dwtzqRcMNg##html
-tiktok.com/@afd000002##html
-www.tiktok.com/@afd000002##html
-facebook.com/TinoAfD##html
-www.facebook.com/TinoAfD##html
-tiktok.com/@rivoslwmpez##html
-www.tiktok.com/@rivoslwmpez##html
-tiktok.com/@afdfraktionimbundestag##html
-www.tiktok.com/@afdfraktionimbundestag##html
-tiktok.com/@afdwuppertal##html
-www.tiktok.com/@afdwuppertal##html
-tiktok.com/@afd_jibbit##html
-www.tiktok.com/@afd_jibbit##html
-instagram.com/pascal.pfannes##html
-www.instagram.com/pascal.pfannes##html
-facebook.com/BeatrixVonStorch##html
-www.facebook.com/BeatrixVonStorch##html
-t.me/WeichreiteKanal##html
-www.t.me/WeichreiteKanal##html
-x.com/HilaireBouye##html
-www.x.com/HilaireBouye##html
-tiktok.com/@rassemblementnational88##html
-www.tiktok.com/@rassemblementnational88##html
-instagram.com/fpoe_tv##html
-www.instagram.com/fpoe_tv##html
-t.me/reconquete_off##html
-www.t.me/reconquete_off##html
-facebook.com/afdleipzig##html
-www.facebook.com/afdleipzig##html
-tiktok.com/@rassemblement.national##html
-www.tiktok.com/@rassemblement.national##html
-tiktok.com/@rassemblementnational28##html
-www.tiktok.com/@rassemblementnational28##html
-youtube.com/channel/UCOgZkiqXxUH6YwJ4c_qaCTw##html
-www.youtube.com/channel/UCOgZkiqXxUH6YwJ4c_qaCTw##html
+youtube.com/@afdkreisverbandheidekreis6286##html
+www.youtube.com/@afdkreisverbandheidekreis6286##html
+facebook.com/DrBerndBaumann##html
+www.facebook.com/DrBerndBaumann##html
+instagram.com/generation_zemmour##html
+www.instagram.com/generation_zemmour##html
+tiktok.com/@zemmour_eric##html
+www.tiktok.com/@zemmour_eric##html
 facebook.com/ZemmourEric##html
 www.facebook.com/ZemmourEric##html
-x.com/ZemmourEric##html
-www.x.com/ZemmourEric##html
-facebook.com/AfD.Dithmarschen##html
-www.facebook.com/AfD.Dithmarschen##html
-x.com/marc_jongen##html
-www.x.com/marc_jongen##html
-x.com/FPOE_TV##html
-www.x.com/FPOE_TV##html
-tiktok.com/@afd_ostdeutschland##html
-www.tiktok.com/@afd_ostdeutschland##html
-tiktok.com/@mutzurwahrheit90##html
-www.tiktok.com/@mutzurwahrheit90##html
-instagram.com/weichreitetv##html
-www.instagram.com/weichreitetv##html
-youtube.com/@MarineLePenOfficiel##html
-www.youtube.com/@MarineLePenOfficiel##html
-facebook.com/afd.rheinsieg##html
-www.facebook.com/afd.rheinsieg##html
-instagram.com/marykhan194##html
-www.instagram.com/marykhan194##html
-tiktok.com/@afdbayernlv##html
-www.tiktok.com/@afdbayernlv##html
-instagram.com/herbertkickl##html
-www.instagram.com/herbertkickl##html
-instagram.com/AfDimBundestag##html
-www.instagram.com/AfDimBundestag##html
-tiktok.com/@kaivo16##html
-www.tiktok.com/@kaivo16##html
-t.me/Reichsfoto##html
-www.t.me/Reichsfoto##html
-x.com/docbrandenburg##html
-www.x.com/docbrandenburg##html
-theplattform.net/c/paulbrandenburg.com##html
-www.theplattform.net/c/paulbrandenburg.com##html
-instagram.com/irmhildbossdorf.afd##html
-www.instagram.com/irmhildbossdorf.afd##html
-youtube.com/shorts/6B2i5cKgVco##html
-www.youtube.com/shorts/6B2i5cKgVco##html
-instagram.com/alexanderjungbluth##html
-www.instagram.com/alexanderjungbluth##html
-x.com/PatriotsEP##html
-www.x.com/PatriotsEP##html
-youtube.com/@AfDAktuell##html
-www.youtube.com/@AfDAktuell##html
-tiktok.com/@afd_bestofclips##html
-www.tiktok.com/@afd_bestofclips##html
-tiktok.com/@tomy.327glas##html
-www.tiktok.com/@tomy.327glas##html
-x.com/GenZemmour##html
-www.x.com/GenZemmour##html
-whatsapp.com/channel/0029VaCeyss9Gv7M7MQiQm3C##html
-www.whatsapp.com/channel/0029VaCeyss9Gv7M7MQiQm3C##html
-youtube.com/@Andreash7811##html
-www.youtube.com/@Andreash7811##html
-facebook.com/GenerationZemmour##html
-www.facebook.com/GenerationZemmour##html
-tiktok.com/@afd3761##html
-www.tiktok.com/@afd3761##html
-facebook.com/fpoe##html
-www.facebook.com/fpoe##html
-facebook.com/joernkoenig##html
-www.facebook.com/joernkoenig##html
-t.me/reneaust##html
-www.t.me/reneaust##html
-x.com/tesla##html
-www.x.com/tesla##html
-tiktok.com/@bjoernhoecke##html
-www.tiktok.com/@bjoernhoecke##html
-tiktok.com/@rassemblementnational29##html
-www.tiktok.com/@rassemblementnational29##html
-tiktok.com/@rassemblement_national09##html
-www.tiktok.com/@rassemblement_national09##html
-tiktok.com/@afdseit2013##html
-www.tiktok.com/@afdseit2013##html
-tiktok.com/@tomasz.froelich##html
-www.tiktok.com/@tomasz.froelich##html
 t.me/Nicolas_Bay##html
 www.t.me/Nicolas_Bay##html
-instagram.com/marine_lepen##html
-www.instagram.com/marine_lepen##html
-youtube.com/@AfDimEUParlament##html
-www.youtube.com/@AfDimEUParlament##html
-facebook.com/TomaszFroelich##html
-www.facebook.com/TomaszFroelich##html
+tiktok.com/@rassemblementnational29##html
+www.tiktok.com/@rassemblementnational29##html
+t.me/reneaust##html
+www.t.me/reneaust##html
+tiktok.com/@presidentielle_2027##html
+www.tiktok.com/@presidentielle_2027##html
+facebook.com/AfDHeide##html
+www.facebook.com/AfDHeide##html
+facebook.com/buchheit.markus##html
+www.facebook.com/buchheit.markus##html
+x.com/docbrandenburg##html
+www.x.com/docbrandenburg##html
+youtube.com/channel/UCeP-mETJStV6mg34dfUl6rA##html
+www.youtube.com/channel/UCeP-mETJStV6mg34dfUl6rA##html
+tiktok.com/@www.afd.de##html
+www.tiktok.com/@www.afd.de##html
+tiktok.com/@mutzurwahrheit90##html
+www.tiktok.com/@mutzurwahrheit90##html
+t.me/generationzemmour##html
+www.t.me/generationzemmour##html
+youtube.com/channel/UCU3z3px1_RCqYBwrs8LJVWg##html
+www.youtube.com/channel/UCU3z3px1_RCqYBwrs8LJVWg##html
+tiktok.com/@afdedits25##html
+www.tiktok.com/@afdedits25##html
+x.com/BuchheitMarkus##html
+www.x.com/BuchheitMarkus##html
+whatsapp.com/channel/0029VbBjgrrFsn0d2kpktt44##html
+www.whatsapp.com/channel/0029VbBjgrrFsn0d2kpktt44##html
+youtube.com/@generationz1266##html
+www.youtube.com/@generationz1266##html
+tiktok.com/@afdfraktionsachsenanhalt##html
+www.tiktok.com/@afdfraktionsachsenanhalt##html
+x.com/FPOE_TV##html
+www.x.com/FPOE_TV##html
+instagram.com/weichreitetv##html
+www.instagram.com/weichreitetv##html
+tiktok.com/@rassemblementnational88##html
+www.tiktok.com/@rassemblementnational88##html
+instagram.com/anja.arndt.afd##html
+www.instagram.com/anja.arndt.afd##html
+tiktok.com/@julienodoul##html
+www.tiktok.com/@julienodoul##html
+t.me/s/auf1tv##html
+www.t.me/s/auf1tv##html
 facebook.com/paulbrandenburgcom##html
 www.facebook.com/paulbrandenburgcom##html
-facebook.com/Dr.MarcJongen##html
-www.facebook.com/Dr.MarcJongen##html
+youtube.com/channel/UCyw8Tkb44AGA2eB8K9fRioQ##html
+www.youtube.com/channel/UCyw8Tkb44AGA2eB8K9fRioQ##html
 tiktok.com/@rnational_92##html
 www.tiktok.com/@rnational_92##html
-tiktok.com/@drberndbaumann##html
-www.tiktok.com/@drberndbaumann##html
-youtube.com/channel/UCq2rogaxLtQFrYG3X3KYNww##html
-www.youtube.com/channel/UCq2rogaxLtQFrYG3X3KYNww##html
-facebook.com/Christine.Anderson.AfD##html
-www.facebook.com/Christine.Anderson.AfD##html
+tiktok.com/@lerassemblementnational##html
+www.tiktok.com/@lerassemblementnational##html
+t.me/EricZemmourOfficiel##html
+www.t.me/EricZemmourOfficiel##html
+instagram.com/nicolas_bay_fn##html
+www.instagram.com/nicolas_bay_fn##html
+instagram.com/afd_jugend_leipzig##html
+www.instagram.com/afd_jugend_leipzig##html
+youtube.com/channel/UCO3Rpw8jHn32aiUFOHYh_gQ##html
+www.youtube.com/channel/UCO3Rpw8jHn32aiUFOHYh_gQ##html
+youtube.com/c/PetrBystronAfD##html
+www.youtube.com/c/PetrBystronAfD##html
+x.com/realDonaldTrump##html
+www.x.com/realDonaldTrump##html
+youtube.com/@Nicolas_Bay##html
+www.youtube.com/@Nicolas_Bay##html
+youtube.com/@unionnationale##html
+www.youtube.com/@unionnationale##html
+youtube.com/shorts/6B2i5cKgVco##html
+www.youtube.com/shorts/6B2i5cKgVco##html
+x.com/LxdxaxF##html
+www.x.com/LxdxaxF##html
+tiktok.com/@afdbayernlv##html
+www.tiktok.com/@afdbayernlv##html
+tiktok.com/@kaivo16##html
+www.tiktok.com/@kaivo16##html
+tiktok.com/@afd3761##html
+www.tiktok.com/@afd3761##html
+facebook.com/afddresden##html
+www.facebook.com/afddresden##html
+x.com/GenZemmour##html
+www.x.com/GenZemmour##html
+youtube.com/@AfDAktuell##html
+www.youtube.com/@AfDAktuell##html
+facebook.com/MarineLePen##html
+www.facebook.com/MarineLePen##html
+tiktok.com/@afd.zerbst##html
+www.tiktok.com/@afd.zerbst##html
+twitch.tv/weichreite##html
+www.twitch.tv/weichreite##html
+tiktok.com/@svenhaemischafd##html
+www.tiktok.com/@svenhaemischafd##html
+tiktok.com/@mr_afd##html
+www.tiktok.com/@mr_afd##html
+tiktok.com/@muenzenmaier##html
+www.tiktok.com/@muenzenmaier##html
+tiktok.com/@afdsupport3##html
+www.tiktok.com/@afdsupport3##html
+tiktok.com/@rnational_off##html
+www.tiktok.com/@rnational_off##html
+facebook.com/herbertkickl##html
+www.facebook.com/herbertkickl##html
+t.me/paulbrandenburg##html
+www.t.me/paulbrandenburg##html
 instagram.com/hilaire_bouye##html
 www.instagram.com/hilaire_bouye##html
+tiktok.com/@afd.supporter##html
+www.tiktok.com/@afd.supporter##html
+t.me/HKickl##html
+www.t.me/HKickl##html
+tiktok.com/@afd9489##html
+www.tiktok.com/@afd9489##html
+x.com/AfD##html
+www.x.com/AfD##html
 x.com/Rene_Aust##html
 www.x.com/Rene_Aust##html
-facebook.com/NicolasBayFN##html
-www.facebook.com/NicolasBayFN##html
-instagram.com/afd_mh##html
-www.instagram.com/afd_mh##html
-facebook.com/reconquete2022##html
-www.facebook.com/reconquete2022##html
+x.com/Tino_Chrupalla##html
+www.x.com/Tino_Chrupalla##html
+instagram.com/alexanderjungbluth##html
+www.instagram.com/alexanderjungbluth##html
+facebook.com/alternativefuerde##html
+www.facebook.com/alternativefuerde##html
+tiktok.com/@auto_enchere##html
+www.tiktok.com/@auto_enchere##html
+youtube.com/@afdfraktionimbundestag##html
+www.youtube.com/@afdfraktionimbundestag##html
+tiktok.com/@rassemblementnational04##html
+www.tiktok.com/@rassemblementnational04##html
+theplattform.net/c/paulbrandenburg.com##html
+www.theplattform.net/c/paulbrandenburg.com##html
+instagram.com/afd.bund##html
+www.instagram.com/afd.bund##html
+instagram.com/AfDimBundestag##html
+www.instagram.com/AfDimBundestag##html
+instagram.com/arnobausemer##html
+www.instagram.com/arnobausemer##html
+youtube.com/channel/UCOgZkiqXxUH6YwJ4c_qaCTw##html
+www.youtube.com/channel/UCOgZkiqXxUH6YwJ4c_qaCTw##html
+whatsapp.com/channel/0029VaUxHcI5EjxzMqIv8r1q##html
+www.whatsapp.com/channel/0029VaUxHcI5EjxzMqIv8r1q##html
+t.me/afddresden##html
+www.t.me/afddresden##html
+tiktok.com/@afd_die1##html
+www.tiktok.com/@afd_die1##html
+fr.pinterest.com/zemmoureric##html
+www.fr.pinterest.com/zemmoureric##html
+tiktok.com/@afd_jibbit##html
+www.tiktok.com/@afd_jibbit##html
+tiktok.com/@drberndbaumann##html
+www.tiktok.com/@drberndbaumann##html
+youtube.com/@auf1tv##html
+www.youtube.com/@auf1tv##html
+facebook.com/ReneAustAfD/##html
+www.facebook.com/ReneAustAfD/##html
+x.com/Reconquete_off##html
+www.x.com/Reconquete_off##html
+x.com/AfDimBundestag##html
+www.x.com/AfDimBundestag##html
+x.com/AlexJungbluth##html
+www.x.com/AlexJungbluth##html
+tiktok.com/@afdwuppertal##html
+www.tiktok.com/@afdwuppertal##html
+instagram.com/pascal.pfannes##html
+www.instagram.com/pascal.pfannes##html
+x.com/ZemmourEric##html
+www.x.com/ZemmourEric##html
+facebook.com/GenerationZemmour##html
+www.facebook.com/GenerationZemmour##html
+x.com/SiegbertDroese##html
+www.x.com/SiegbertDroese##html
+tiktok.com/@afd889##html
+www.tiktok.com/@afd889##html
 youtube.com/@reconqueteloiret3220##html
 www.youtube.com/@reconqueteloiret3220##html
+tiktok.com/@afd0143##html
+www.tiktok.com/@afd0143##html
+linktr.ee/fpoe##html
+www.linktr.ee/fpoe##html
+youtube.com/channel/UC-y7GfmlOsfUyDkkLEakz4Q##html
+www.youtube.com/channel/UC-y7GfmlOsfUyDkkLEakz4Q##html
+t.me/WeichreiteKanal##html
+www.t.me/WeichreiteKanal##html
+tiktok.com/@rasemblementnational##html
+www.tiktok.com/@rasemblementnational##html
+youtube.com/@linas.7782##html
+www.youtube.com/@linas.7782##html
+tiktok.com/@alexanderjungbluth##html
+www.tiktok.com/@alexanderjungbluth##html
+tiktok.com/@petrbystronafd##html
+www.tiktok.com/@petrbystronafd##html
+tiktok.com/@real_german##html
+www.tiktok.com/@real_german##html
+tiktok.com/@1966franki##html
+www.tiktok.com/@1966franki##html
+facebook.com/TomaszFroelich##html
+www.facebook.com/TomaszFroelich##html
+x.com/MarkusMatzerath##html
+www.x.com/MarkusMatzerath##html
+instagram.com/reneaust.afd##html
+www.instagram.com/reneaust.afd##html
+facebook.com/irmhild.bossdorf##html
+www.facebook.com/irmhild.bossdorf##html
+youtube.com/c/%C3%89ricZemmourOfficiel##html
+www.youtube.com/c/%C3%89ricZemmourOfficiel##html
+facebook.com/fpoe##html
+www.facebook.com/fpoe##html
+tiktok.com/@afd.kv.erding##html
+www.tiktok.com/@afd.kv.erding##html
+tiktok.com/@afd_kv_calw_freudenstadt##html
+www.tiktok.com/@afd_kv_calw_freudenstadt##html
+x.com/AdannMdL##html
+www.x.com/AdannMdL##html
+radio.de/podcast/nacktes-geld##html
+www.radio.de/podcast/nacktes-geld##html
+facebook.com/Alexander.Sell100##html
+www.facebook.com/Alexander.Sell100##html
+x.com/MLP_officiel##html
+www.x.com/MLP_officiel##html
+x.com/tesla##html
+www.x.com/tesla##html
+tiktok.com/@2027rn##html
+www.tiktok.com/@2027rn##html
+t.me/Reichsfoto##html
+www.t.me/Reichsfoto##html
+instagram.com/afd.augsburgland##html
+www.instagram.com/afd.augsburgland##html
+tiktok.com/@rassemblement_nat##html
+www.tiktok.com/@rassemblement_nat##html
+x.com/DrBerndBaumann##html
+www.x.com/DrBerndBaumann##html
+facebook.com/arno.bausemer##html
+www.facebook.com/arno.bausemer##html
+x.com/mary_khan94##html
+www.x.com/mary_khan94##html
+facebook.com/Regionalfernsehen##html
+www.facebook.com/Regionalfernsehen##html
+tiktok.com/@afddddddt1905##html
+www.tiktok.com/@afddddddt1905##html
+instagram.com/fpoe_tv##html
+www.instagram.com/fpoe_tv##html
+tiktok.com/@lena.kotre##html
+www.tiktok.com/@lena.kotre##html
+rumble.com/paulbrandenburgcom##html
+www.rumble.com/paulbrandenburgcom##html
+instagram.com/docbrandenburg##html
+www.instagram.com/docbrandenburg##html
+tiktok.com/@afd_goeppingen##html
+www.tiktok.com/@afd_goeppingen##html
+tiktok.com/@afd_rheinland_pfalz##html
+www.tiktok.com/@afd_rheinland_pfalz##html
+x.com/weichreite##html
+www.x.com/weichreite##html
+cafepress.com/shop/wodanesdag##html
+www.cafepress.com/shop/wodanesdag##html
+youtube.com/@reneausteu##html
+www.youtube.com/@reneausteu##html
+facebook.com/TinoAfD##html
+www.facebook.com/TinoAfD##html
+tiktok.com/@rn2027ourien##html
+www.tiktok.com/@rn2027ourien##html
+whatsapp.com/channel/0029VaCeyss9Gv7M7MQiQm3C##html
+www.whatsapp.com/channel/0029VaCeyss9Gv7M7MQiQm3C##html
+tiktok.com/@afd_ostdeutschland##html
+www.tiktok.com/@afd_ostdeutschland##html
+youtube.com/channel/UCRdEdkAlZetdf74bYaBRv3g##html
+www.youtube.com/channel/UCRdEdkAlZetdf74bYaBRv3g##html
+instagram.com/froelich.tomasz##html
+www.instagram.com/froelich.tomasz##html
+facebook.com/bystronpetr##html
+www.facebook.com/bystronpetr##html
+tiktok.com/@fpoe_at##html
+www.tiktok.com/@fpoe_at##html
+radio.de/podcast/nacktes-niveau##html
+www.radio.de/podcast/nacktes-niveau##html
+tiktok.com/@afd000003##html
+www.tiktok.com/@afd000003##html
+facebook.com/BeatrixVonStorch##html
+www.facebook.com/BeatrixVonStorch##html
+instagram.com/marine_lepen##html
+www.instagram.com/marine_lepen##html
+tiktok.com/@miguel_klauss##html
+www.tiktok.com/@miguel_klauss##html
+instagram.com/markus.buchheit##html
+www.instagram.com/markus.buchheit##html
+facebook.com/PatriotsEP##html
+www.facebook.com/PatriotsEP##html
+youtube.com/channel/UCVXqMg5NOK5z8dwtzqRcMNg##html
+www.youtube.com/channel/UCVXqMg5NOK5z8dwtzqRcMNg##html
+facebook.com/AfD.Leipzig##html
+www.facebook.com/AfD.Leipzig##html
+tiktok.com/@gabrielle.mailbeck.afd##html
+www.tiktok.com/@gabrielle.mailbeck.afd##html
+youtube.com/@markusbuchheit3541##html
+www.youtube.com/@markusbuchheit3541##html
+facebook.com/afd.rheinsieg##html
+www.facebook.com/afd.rheinsieg##html
+tiktok.com/@rassemblementnational28##html
+www.tiktok.com/@rassemblementnational28##html
+tiktok.com/@afd_brandenburg##html
+www.tiktok.com/@afd_brandenburg##html
+instagram.com/irmhildbossdorf.afd##html
+www.instagram.com/irmhildbossdorf.afd##html
+t.me/freiheitstrychlerde##html
+www.t.me/freiheitstrychlerde##html
+x.com/AndersonAfDMdEP##html
+www.x.com/AndersonAfDMdEP##html
+x.com/dr_neuhoff##html
+www.x.com/dr_neuhoff##html
+linktr.ee/herbertkickl##html
+www.linktr.ee/herbertkickl##html
+tiktok.com/@afd.eu##html
+www.tiktok.com/@afd.eu##html
+crossiety.app/groups/17745##html
+www.crossiety.app/groups/17745##html
+tiktok.com/@afd.nrw##html
+www.tiktok.com/@afd.nrw##html
+instagram.com/petr.bystron##html
+www.instagram.com/petr.bystron##html
+tiktok.com/@france_rn2##html
+www.tiktok.com/@france_rn2##html
+tiktok.com/@tomy.327glas##html
+www.tiktok.com/@tomy.327glas##html
+music.youtube.com/channel/UCksi8_CDUF0DbnLrgIoRrRg##html
+www.music.youtube.com/channel/UCksi8_CDUF0DbnLrgIoRrRg##html
+tiktok.com/@rassemblement_national09##html
+www.tiktok.com/@rassemblement_national09##html
+facebook.com/AfDFraktionDresden##html
+www.facebook.com/AfDFraktionDresden##html
+pinterest.com/zemmoureric##html
+www.pinterest.com/zemmoureric##html
+tiktok.com/@_rassemblement_national_##html
+www.tiktok.com/@_rassemblement_national_##html
+facebook.com/afdfraktionNRW##html
+www.facebook.com/afdfraktionNRW##html
+x.com/IrmhildBoss##html
+www.x.com/IrmhildBoss##html
+facebook.com/afdleipzig##html
+www.facebook.com/afdleipzig##html
+facebook.com/afdimbundestag##html
+www.facebook.com/afdimbundestag##html
+tiktok.com/@rn.nice.06##html
+www.tiktok.com/@rn.nice.06##html
+facebook.com/aljungbluth##html
+www.facebook.com/aljungbluth##html
+tiktok.com/@unionpourtous##html
+www.tiktok.com/@unionpourtous##html
+tiktok.com/@afddiebesten##html
+www.tiktok.com/@afddiebesten##html
+tiktok.com/@rassemblementnational25##html
+www.tiktok.com/@rassemblementnational25##html
+t.me/tomaszfroelich##html
+www.t.me/tomaszfroelich##html
+x.com/tomaszfroelich##html
+www.x.com/tomaszfroelich##html
+x.com/petrbystronafd##html
+www.x.com/petrbystronafd##html
+youtube.com/@guillaumepeltier9110##html
+www.youtube.com/@guillaumepeltier9110##html
+tiktok.com/@afdseit2013##html
+www.tiktok.com/@afdseit2013##html
+instagram.com/ericzemmour_##html
+www.instagram.com/ericzemmour_##html
+youtube.com/@dr.marcjongenmdbafd8192##html
+www.youtube.com/@dr.marcjongenmdbafd8192##html
+tiktok.com/@bjoernhoecke##html
+www.tiktok.com/@bjoernhoecke##html
+x.com/marc_jongen##html
+www.x.com/marc_jongen##html
+tiktok.com/@afdinfokanal##html
+www.tiktok.com/@afdinfokanal##html
+tiktok.com/@barguzin_71##html
+www.tiktok.com/@barguzin_71##html
+instagram.com/marykhan194##html
+www.instagram.com/marykhan194##html
+tiktok.com/@alfred.dannenberg##html
+www.tiktok.com/@alfred.dannenberg##html
+tiktok.com/@tomasz.froelich##html
+www.tiktok.com/@tomasz.froelich##html
+t.me/marinelepen##html
+www.t.me/marinelepen##html
+youtube.com/@protegeonsnosenfants2351##html
+www.youtube.com/@protegeonsnosenfants2351##html
+x.com/PatriotsEP##html
+www.x.com/PatriotsEP##html
+tiktok.com/@michael49.49.2##html
+www.tiktok.com/@michael49.49.2##html
+instagram.com/afd_mh##html
+www.instagram.com/afd_mh##html
+facebook.com/joernkoenig##html
+www.facebook.com/joernkoenig##html
+tiktok.com/@afdfraktionimbundestag##html
+www.tiktok.com/@afdfraktionimbundestag##html
+tiktok.com/@rivoslwmpez##html
+www.tiktok.com/@rivoslwmpez##html
+youtube.com/c/AfDKanal##html
+www.youtube.com/c/AfDKanal##html
+instagram.com/patriotsep##html
+www.instagram.com/patriotsep##html
+tiktok.com/@rassemblement.national88##html
+www.tiktok.com/@rassemblement.national88##html
+tiktok.com/@lernetlapolitique##html
+www.tiktok.com/@lernetlapolitique##html
+instagram.com/fpoe_at##html
+www.instagram.com/fpoe_at##html
+tiktok.com/@afd.support##html
+www.tiktok.com/@afd.support##html
+x.com/elonmusk##html
+www.x.com/elonmusk##html
+facebook.com/hans.neuhoff.73##html
+www.facebook.com/hans.neuhoff.73##html
+tiktok.com/@afd.fraktion.nrw##html
+www.tiktok.com/@afd.fraktion.nrw##html
+youtube.com/@PaulBrandenburgCom##html
+www.youtube.com/@PaulBrandenburgCom##html
+tiktok.com/@afd_bestofclips##html
+www.tiktok.com/@afd_bestofclips##html
+linkedin.com/company/parti-reconquete##html
+www.linkedin.com/company/parti-reconquete##html
+youtube.com/@MarineLePenOfficiel##html
+www.youtube.com/@MarineLePenOfficiel##html
+tiktok.com/@afdfraktion_im_bundestag##html
+www.tiktok.com/@afdfraktion_im_bundestag##html
+facebook.com/Dr.MarcJongen##html
+www.facebook.com/Dr.MarcJongen##html
+t.me/freiheitstrychlerat##html
+www.t.me/freiheitstrychlerat##html
+youtube.com/@Weichreite##html
+www.youtube.com/@Weichreite##html
+youtube.com/c/paulbrandenburgcom##html
+www.youtube.com/c/paulbrandenburgcom##html
+x.com/auf1tv##html
+www.x.com/auf1tv##html
+tiktok.com/@alice_weidel_afd##html
+www.tiktok.com/@alice_weidel_afd##html
+tiktok.com/@afd1185##html
+www.tiktok.com/@afd1185##html
+tiktok.com/@rassemblementnatinonal##html
+www.tiktok.com/@rassemblementnatinonal##html
+tiktok.com/@afd000002##html
+www.tiktok.com/@afd000002##html
+tiktok.com/@flaviusadf##html
+www.tiktok.com/@flaviusadf##html
+tiktok.com/@jordanbardella##html
+www.tiktok.com/@jordanbardella##html
+tiktok.com/@gemeinsamblau##html
+www.tiktok.com/@gemeinsamblau##html
+tiktok.com/@afd_im_erftkreis##html
+www.tiktok.com/@afd_im_erftkreis##html
+facebook.com/AfDFraktionLeipzig##html
+www.facebook.com/AfDFraktionLeipzig##html
+facebook.com/reconquete2022##html
+www.facebook.com/reconquete2022##html
+youtube.com/channel/UC_dZp8bZipnjntBGLVHm6rw##html
+www.youtube.com/channel/UC_dZp8bZipnjntBGLVHm6rw##html
+tiktok.com/@blaugedacht##html
+www.tiktok.com/@blaugedacht##html
+instagram.com/matzerathm##html
+www.instagram.com/matzerathm##html
+facebook.com/NicolasBayFN##html
+www.facebook.com/NicolasBayFN##html
+tiktok.com/@rassemblement.national##html
+www.tiktok.com/@rassemblement.national##html
+instagram.com/auf1.tv##html
+www.instagram.com/auf1.tv##html
+t.me/afdfraktionimbundestag##html
+www.t.me/afdfraktionimbundestag##html
+apps.apple.com/app/truth-social/id1586018825##html
+www.apps.apple.com/app/truth-social/id1586018825##html
+tiktok.com/@afd_fan_2013##html
+www.tiktok.com/@afd_fan_2013##html
+youtube.com/@ChristineAnderson_MdEP##html
+www.youtube.com/@ChristineAnderson_MdEP##html
+t.me/alexanderjungbluthafd##html
+www.t.me/alexanderjungbluthafd##html
+youtube.com/channel/UCBoIJhUfNcn8G_odWECKVIA##html
+www.youtube.com/channel/UCBoIJhUfNcn8G_odWECKVIA##html
+t.me/marykhanafd##html
+www.t.me/marykhanafd##html
+tiktok.com/@kicklherbert##html
+www.tiktok.com/@kicklherbert##html
+youtube.com/@rtvooe##html
+www.youtube.com/@rtvooe##html
+youtube.com/@Andreash7811##html
+www.youtube.com/@Andreash7811##html
+x.com/HilaireBouye##html
+www.x.com/HilaireBouye##html
+youtube.com/@DrBerndBaumannMdB##html
+www.youtube.com/@DrBerndBaumannMdB##html
+tiktok.com/@afd366##html
+www.tiktok.com/@afd366##html
+facebook.com/Christine.Anderson.AfD##html
+www.facebook.com/Christine.Anderson.AfD##html
+tiktok.com/@rnrassemblement_national##html
+www.tiktok.com/@rnrassemblement_national##html
+tiktok.com/@afddeutschland10##html
+www.tiktok.com/@afddeutschland10##html
+tiktok.com/@tino.chrupalla.afd##html
+www.tiktok.com/@tino.chrupalla.afd##html
+x.com/vilimsky##html
+www.x.com/vilimsky##html
+x.com/NicolasBay_##html
+www.x.com/NicolasBay_##html
+tiktok.com/@vive.le.rassemble##html
+www.tiktok.com/@vive.le.rassemble##html
+t.me/KlagemauerTV##html
+www.t.me/KlagemauerTV##html
+t.me/reconquete_off##html
+www.t.me/reconquete_off##html
+instagram.com/reconquete_officiel##html
+www.instagram.com/reconquete_officiel##html
+tiktok.com/@afd_supporter_##html
+www.tiktok.com/@afd_supporter_##html
+instagram.com/drberndbaumann##html
+www.instagram.com/drberndbaumann##html
+facebook.com/AfD.Dithmarschen##html
+www.facebook.com/AfD.Dithmarschen##html
+instagram.com/herbertkickl##html
+www.instagram.com/herbertkickl##html
+tiktok.com/@deutschland833##html
+www.tiktok.com/@deutschland833##html
+tiktok.com/@afd000001##html
+www.tiktok.com/@afd000001##html
+radio.de/podcast/nachschlag3##html
+www.radio.de/podcast/nachschlag3##html
+youtube.com/@AfDimEUParlament##html
+www.youtube.com/@AfDimEUParlament##html
+tiktok.com/@dachauafdkreisverband##html
+www.tiktok.com/@dachauafdkreisverband##html
+youtube.com/channel/UCq2rogaxLtQFrYG3X3KYNww##html
+www.youtube.com/channel/UCq2rogaxLtQFrYG3X3KYNww##html
+t.me/drberndbaumann##html
+www.t.me/drberndbaumann##html

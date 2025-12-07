@@ -84,6 +84,10 @@
 0.0.0.0 angesaugt.at
 0.0.0.0 api.fpoe.at
 0.0.0.0 api.nius.de
+0.0.0.0 auf1.info
+0.0.0.0 auf1.net
+0.0.0.0 auf1.shop
+0.0.0.0 auf1.tv
 0.0.0.0 avotaynu.com
 0.0.0.0 awb.co.za
 0.0.0.0 beatrixvonstorch.de
@@ -254,6 +258,10 @@
 0.0.0.0 www.angesaugt.at
 0.0.0.0 www.api.fpoe.at
 0.0.0.0 www.api.nius.de
+0.0.0.0 www.auf1.info
+0.0.0.0 www.auf1.net
+0.0.0.0 www.auf1.shop
+0.0.0.0 www.auf1.tv
 0.0.0.0 www.avotaynu.com
 0.0.0.0 www.awb.co.za
 0.0.0.0 www.beatrixvonstorch.de

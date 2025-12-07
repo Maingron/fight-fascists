@@ -88,6 +88,10 @@
 0.0.0.0 angesaugt.at
 0.0.0.0 api.fpoe.at
 0.0.0.0 api.nius.de
+0.0.0.0 auf1.info
+0.0.0.0 auf1.net
+0.0.0.0 auf1.shop
+0.0.0.0 auf1.tv
 0.0.0.0 auto-swiat.pl
 0.0.0.0 autobazar.eu
 0.0.0.0 autobild.de
@@ -373,6 +377,10 @@
 0.0.0.0 www.angesaugt.at
 0.0.0.0 www.api.fpoe.at
 0.0.0.0 www.api.nius.de
+0.0.0.0 www.auf1.info
+0.0.0.0 www.auf1.net
+0.0.0.0 www.auf1.shop
+0.0.0.0 www.auf1.tv
 0.0.0.0 www.auto-swiat.pl
 0.0.0.0 www.autobazar.eu
 0.0.0.0 www.autobild.de

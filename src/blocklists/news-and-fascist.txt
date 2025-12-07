@@ -169,6 +169,10 @@
 ||alternative-fuer-mk.de^
 ||afd-siegen-wittgenstein.de^
 ||heike-winter.com^
+||auf1.tv^
+||auf1.info^
+||auf1.net^
+||auf1.shop^
 
 
 youtube.com/channel/UC_dZp8bZipnjntBGLVHm6rw
@@ -373,7 +377,10 @@ tiktok.com/@dachauafdkreisverband
 facebook.com/AfD.Dithmarschen
 instagram.com/afd_mh
 facebook.com/AfDHeide
-
+t.me/s/auf1tv
+youtube.com/@auf1tv
+instagram.com/auf1.tv
+x.com/auf1tv
 
 youtube.com##.lockup:has-text(AfD-Fraktion Bundestag)
 youtube.com##.lockup:has-text(Paul Brandenburg)
