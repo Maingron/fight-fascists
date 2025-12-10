@@ -1,18 +1,10 @@
-# Fight Fascists
-
-This is a repository trying to help you fight fascists.
-
-## Important safety note
-Always put the safety of yourself and your family first. If you feel unsafe, do not engage.
-
-If you can, please contribute. This repo relies on contributions.
+# Fascist Blocklist
+(Recently renamed from "Fight Fascists" since focus is only on DNS/Ublock Blocklists)
 
 ## Features
 - DNS blocklists (hosts format)
 - uBlock Origin network lists (ABP syntax)
 - Cosmetic lists to hide search results and links
-
----
 
 ## Build
 - Prerequisite: Python 3.
